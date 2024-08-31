@@ -1,7 +1,6 @@
 # Lex Notes
 
-
-# Write Docs
+## mkdocs
 
 ```bash
 # prerequisite
@@ -9,17 +8,14 @@ pip install mkdocs
 
 # run local
 mkdocs serve
-```
 
-# Deploy Docs
+# <create docc>
 
-https://just-learning.github.io/lexnotes/
-
-```bash
 # GitHub Pages
 mkdocs gh-deploy
 ```
-# Reference
+
+## Reference
 
 https://www.mkdocs.org/getting-started/
 

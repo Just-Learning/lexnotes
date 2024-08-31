@@ -1,4 +1,4 @@
-# Sourcing
+download index tables, transcripts, subtitles, etc
 
 ## Webpage to CSV
 - Instant Data Scraper (Chrome Extension)
@@ -21,9 +21,5 @@ yt-dlp --skip-download --write-auto-subs --write-subs --sub-lang en --convert-su
 https://www.youtube.com/watch?v=QJtPROVsePk --verbose
 ```
 
-## Local DB
 
-```bash
-pip install duckdb
-```
 
