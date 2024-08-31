@@ -1,6 +1,3 @@
 site_name: Lex Notes
 site_url: https://just-learning.github.io/lexnotes/
-nav:
-  - Home: index.md
-  - About: about.md
 theme: readthedocs
