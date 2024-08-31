@@ -1,7 +1,7 @@
 # Lex Notes
 
 
-# Development
+# Write Docs
 
 ```bash
 # prerequisite
@@ -11,7 +11,7 @@ pip install mkdocs
 mkdocs serve
 ```
 
-# Deployment
+# Deploy Docs
 
 https://just-learning.github.io/lexnotes/
 
