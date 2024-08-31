@@ -1,0 +1,9965 @@
+1
+00:00:00,030 --> 00:00:01,790
+
+the following is a conversation with
+
+2
+00:00:01,790 --> 00:00:01,800
+the following is a conversation with
+ 
+
+3
+00:00:01,800 --> 00:00:04,100
+the following is a conversation with
+Gilbert Strang he's a professor of
+
+4
+00:00:04,100 --> 00:00:04,110
+Gilbert Strang he's a professor of
+ 
+
+5
+00:00:04,110 --> 00:00:06,590
+Gilbert Strang he's a professor of
+mathematics at MIT and perhaps one of
+
+6
+00:00:06,590 --> 00:00:06,600
+mathematics at MIT and perhaps one of
+ 
+
+7
+00:00:06,600 --> 00:00:08,750
+mathematics at MIT and perhaps one of
+the most famous and impactful teachers
+
+8
+00:00:08,750 --> 00:00:08,760
+the most famous and impactful teachers
+ 
+
+9
+00:00:08,760 --> 00:00:11,060
+the most famous and impactful teachers
+of math in the world his MIT
+
+10
+00:00:11,060 --> 00:00:11,070
+of math in the world his MIT
+ 
+
+11
+00:00:11,070 --> 00:00:12,740
+of math in the world his MIT
+opencourseware lectures on linear
+
+12
+00:00:12,740 --> 00:00:12,750
+opencourseware lectures on linear
+ 
+
+13
+00:00:12,750 --> 00:00:14,839
+opencourseware lectures on linear
+algebra have been viewed millions of
+
+14
+00:00:14,839 --> 00:00:14,849
+algebra have been viewed millions of
+ 
+
+15
+00:00:14,849 --> 00:00:17,750
+algebra have been viewed millions of
+times as an undergraduate student I was
+
+16
+00:00:17,750 --> 00:00:17,760
+times as an undergraduate student I was
+ 
+
+17
+00:00:17,760 --> 00:00:19,429
+times as an undergraduate student I was
+one of those millions of students
+
+18
+00:00:19,429 --> 00:00:19,439
+one of those millions of students
+ 
+
+19
+00:00:19,439 --> 00:00:21,560
+one of those millions of students
+there's something inspiring about the
+
+20
+00:00:21,560 --> 00:00:21,570
+there's something inspiring about the
+ 
+
+21
+00:00:21,570 --> 00:00:23,779
+there's something inspiring about the
+way he teaches there's at once calm
+
+22
+00:00:23,779 --> 00:00:23,789
+way he teaches there's at once calm
+ 
+
+23
+00:00:23,789 --> 00:00:26,390
+way he teaches there's at once calm
+simple and yet full of passion for the
+
+24
+00:00:26,390 --> 00:00:26,400
+simple and yet full of passion for the
+ 
+
+25
+00:00:26,400 --> 00:00:28,519
+simple and yet full of passion for the
+elegance inherent to mathematics I
+
+26
+00:00:28,519 --> 00:00:28,529
+elegance inherent to mathematics I
+ 
+
+27
+00:00:28,529 --> 00:00:30,980
+elegance inherent to mathematics I
+remember doing the exercises in his book
+
+28
+00:00:30,980 --> 00:00:30,990
+remember doing the exercises in his book
+ 
+
+29
+00:00:30,990 --> 00:00:32,810
+remember doing the exercises in his book
+introduction of linear algebra and
+
+30
+00:00:32,810 --> 00:00:32,820
+introduction of linear algebra and
+ 
+
+31
+00:00:32,820 --> 00:00:35,030
+introduction of linear algebra and
+slowly realizing that the world of
+
+32
+00:00:35,030 --> 00:00:35,040
+slowly realizing that the world of
+ 
+
+33
+00:00:35,040 --> 00:00:37,150
+slowly realizing that the world of
+matrices of vector spaces of
+
+34
+00:00:37,150 --> 00:00:37,160
+matrices of vector spaces of
+ 
+
+35
+00:00:37,160 --> 00:00:39,170
+matrices of vector spaces of
+determinants and eigenvalues of
+
+36
+00:00:39,170 --> 00:00:39,180
+determinants and eigenvalues of
+ 
+
+37
+00:00:39,180 --> 00:00:41,720
+determinants and eigenvalues of
+geometric transformations and matrix
+
+38
+00:00:41,720 --> 00:00:41,730
+geometric transformations and matrix
+ 
+
+39
+00:00:41,730 --> 00:00:44,119
+geometric transformations and matrix
+decompositions reveal a set of powerful
+
+40
+00:00:44,119 --> 00:00:44,129
+decompositions reveal a set of powerful
+ 
+
+41
+00:00:44,129 --> 00:00:46,729
+decompositions reveal a set of powerful
+tools in the toolbox of artificial
+
+42
+00:00:46,729 --> 00:00:46,739
+tools in the toolbox of artificial
+ 
+
+43
+00:00:46,739 --> 00:00:49,850
+tools in the toolbox of artificial
+intelligence from signals to images from
+
+44
+00:00:49,850 --> 00:00:49,860
+intelligence from signals to images from
+ 
+
+45
+00:00:49,860 --> 00:00:51,770
+intelligence from signals to images from
+miracle optimization to robotics
+
+46
+00:00:51,770 --> 00:00:51,780
+miracle optimization to robotics
+ 
+
+47
+00:00:51,780 --> 00:00:54,049
+miracle optimization to robotics
+computer vision deep learning computer
+
+48
+00:00:54,049 --> 00:00:54,059
+computer vision deep learning computer
+ 
+
+49
+00:00:54,059 --> 00:00:56,200
+computer vision deep learning computer
+graphics and everywhere outside AI
+
+50
+00:00:56,200 --> 00:00:56,210
+graphics and everywhere outside AI
+ 
+
+51
+00:00:56,210 --> 00:00:58,910
+graphics and everywhere outside AI
+including of course a quantum mechanical
+
+52
+00:00:58,910 --> 00:00:58,920
+including of course a quantum mechanical
+ 
+
+53
+00:00:58,920 --> 00:01:02,389
+including of course a quantum mechanical
+study of our universe this is the
+
+54
+00:01:02,389 --> 00:01:02,399
+study of our universe this is the
+ 
+
+55
+00:01:02,399 --> 00:01:04,729
+study of our universe this is the
+artificial intelligence podcast if you
+
+56
+00:01:04,729 --> 00:01:04,739
+artificial intelligence podcast if you
+ 
+
+57
+00:01:04,739 --> 00:01:07,070
+artificial intelligence podcast if you
+enjoy it subscribe on YouTube give it
+
+58
+00:01:07,070 --> 00:01:07,080
+enjoy it subscribe on YouTube give it
+ 
+
+59
+00:01:07,080 --> 00:01:09,410
+enjoy it subscribe on YouTube give it
+five stars an apple podcast support on
+
+60
+00:01:09,410 --> 00:01:09,420
+five stars an apple podcast support on
+ 
+
+61
+00:01:09,420 --> 00:01:11,480
+five stars an apple podcast support on
+patreon or simply connect with me on
+
+62
+00:01:11,480 --> 00:01:11,490
+patreon or simply connect with me on
+ 
+
+63
+00:01:11,490 --> 00:01:16,240
+patreon or simply connect with me on
+Twitter Alex Friedman spelled Fri D ma N
+
+64
+00:01:16,240 --> 00:01:16,250
+Twitter Alex Friedman spelled Fri D ma N
+ 
+
+65
+00:01:16,250 --> 00:01:18,130
+Twitter Alex Friedman spelled Fri D ma N
+this podcast is supported by zip
+
+66
+00:01:18,130 --> 00:01:18,140
+this podcast is supported by zip
+ 
+
+67
+00:01:18,140 --> 00:01:20,710
+this podcast is supported by zip
+recruiter hiring great people is hard
+
+68
+00:01:20,710 --> 00:01:20,720
+recruiter hiring great people is hard
+ 
+
+69
+00:01:20,720 --> 00:01:23,260
+recruiter hiring great people is hard
+and to me is the most important element
+
+70
+00:01:23,260 --> 00:01:23,270
+and to me is the most important element
+ 
+
+71
+00:01:23,270 --> 00:01:26,080
+and to me is the most important element
+of a successful mission driven team I've
+
+72
+00:01:26,080 --> 00:01:26,090
+of a successful mission driven team I've
+ 
+
+73
+00:01:26,090 --> 00:01:28,030
+of a successful mission driven team I've
+been fortunate to be a part of and to
+
+74
+00:01:28,030 --> 00:01:28,040
+been fortunate to be a part of and to
+ 
+
+75
+00:01:28,040 --> 00:01:30,790
+been fortunate to be a part of and to
+lead several great engineering teams the
+
+76
+00:01:30,790 --> 00:01:30,800
+lead several great engineering teams the
+ 
+
+77
+00:01:30,800 --> 00:01:33,070
+lead several great engineering teams the
+hiring I've done in the past was mostly
+
+78
+00:01:33,070 --> 00:01:33,080
+hiring I've done in the past was mostly
+ 
+
+79
+00:01:33,080 --> 00:01:35,500
+hiring I've done in the past was mostly
+the tools that we built ourselves but
+
+80
+00:01:35,500 --> 00:01:35,510
+the tools that we built ourselves but
+ 
+
+81
+00:01:35,510 --> 00:01:38,020
+the tools that we built ourselves but
+reinventing the wheel was painful
+
+82
+00:01:38,020 --> 00:01:38,030
+reinventing the wheel was painful
+ 
+
+83
+00:01:38,030 --> 00:01:39,880
+reinventing the wheel was painful
+so zip recruiters a tool that's already
+
+84
+00:01:39,880 --> 00:01:39,890
+so zip recruiters a tool that's already
+ 
+
+85
+00:01:39,890 --> 00:01:41,830
+so zip recruiters a tool that's already
+available for you it seeks to make
+
+86
+00:01:41,830 --> 00:01:41,840
+available for you it seeks to make
+ 
+
+87
+00:01:41,840 --> 00:01:44,560
+available for you it seeks to make
+hiring simple fast and smart
+
+88
+00:01:44,560 --> 00:01:44,570
+hiring simple fast and smart
+ 
+
+89
+00:01:44,570 --> 00:01:47,080
+hiring simple fast and smart
+for example codable co-founder Gretchen
+
+90
+00:01:47,080 --> 00:01:47,090
+for example codable co-founder Gretchen
+ 
+
+91
+00:01:47,090 --> 00:01:49,540
+for example codable co-founder Gretchen
+Abner used the recruiter to find a new
+
+92
+00:01:49,540 --> 00:01:49,550
+Abner used the recruiter to find a new
+ 
+
+93
+00:01:49,550 --> 00:01:51,700
+Abner used the recruiter to find a new
+game artist to join her education tech
+
+94
+00:01:51,700 --> 00:01:51,710
+game artist to join her education tech
+ 
+
+95
+00:01:51,710 --> 00:01:54,250
+game artist to join her education tech
+company by using zip recruiter screening
+
+96
+00:01:54,250 --> 00:01:54,260
+company by using zip recruiter screening
+ 
+
+97
+00:01:54,260 --> 00:01:55,870
+company by using zip recruiter screening
+questions to filter candidates
+
+98
+00:01:55,870 --> 00:01:55,880
+questions to filter candidates
+ 
+
+99
+00:01:55,880 --> 00:01:58,240
+questions to filter candidates
+Gretchen found it easier to focus on the
+
+100
+00:01:58,240 --> 00:01:58,250
+Gretchen found it easier to focus on the
+ 
+
+101
+00:01:58,250 --> 00:02:00,580
+Gretchen found it easier to focus on the
+best candidates and finally hiring the
+
+102
+00:02:00,580 --> 00:02:00,590
+best candidates and finally hiring the
+ 
+
+103
+00:02:00,590 --> 00:02:03,070
+best candidates and finally hiring the
+perfect person for the role in less than
+
+104
+00:02:03,070 --> 00:02:03,080
+perfect person for the role in less than
+ 
+
+105
+00:02:03,080 --> 00:02:05,170
+perfect person for the role in less than
+two weeks from start to finish
+
+106
+00:02:05,170 --> 00:02:05,180
+two weeks from start to finish
+ 
+
+107
+00:02:05,180 --> 00:02:07,889
+two weeks from start to finish
+zip recruiter the smartest way to hire
+
+108
+00:02:07,889 --> 00:02:07,899
+zip recruiter the smartest way to hire
+ 
+
+109
+00:02:07,899 --> 00:02:10,389
+zip recruiter the smartest way to hire
+CY zip recruiter is effective for
+
+110
+00:02:10,389 --> 00:02:10,399
+CY zip recruiter is effective for
+ 
+
+111
+00:02:10,399 --> 00:02:12,520
+CY zip recruiter is effective for
+businesses of all sizes by signing up as
+
+112
+00:02:12,520 --> 00:02:12,530
+businesses of all sizes by signing up as
+ 
+
+113
+00:02:12,530 --> 00:02:15,670
+businesses of all sizes by signing up as
+I did for free a zip recruiter comm
+
+114
+00:02:15,670 --> 00:02:15,680
+I did for free a zip recruiter comm
+ 
+
+115
+00:02:15,680 --> 00:02:18,940
+I did for free a zip recruiter comm
+slash FlexPod that's zip recruiter calm
+
+116
+00:02:18,940 --> 00:02:18,950
+slash FlexPod that's zip recruiter calm
+ 
+
+117
+00:02:18,950 --> 00:02:22,190
+slash FlexPod that's zip recruiter calm
+slash Lex pod
+
+118
+00:02:22,190 --> 00:02:22,200
+slash Lex pod
+ 
+
+119
+00:02:22,200 --> 00:02:24,410
+slash Lex pod
+this show is presented by cash app the
+
+120
+00:02:24,410 --> 00:02:24,420
+this show is presented by cash app the
+ 
+
+121
+00:02:24,420 --> 00:02:26,030
+this show is presented by cash app the
+number one finance app in the App Store
+
+122
+00:02:26,030 --> 00:02:26,040
+number one finance app in the App Store
+ 
+
+123
+00:02:26,040 --> 00:02:28,610
+number one finance app in the App Store
+I personally use cash app to send money
+
+124
+00:02:28,610 --> 00:02:28,620
+I personally use cash app to send money
+ 
+
+125
+00:02:28,620 --> 00:02:30,770
+I personally use cash app to send money
+to friends but you can also use it to
+
+126
+00:02:30,770 --> 00:02:30,780
+to friends but you can also use it to
+ 
+
+127
+00:02:30,780 --> 00:02:33,260
+to friends but you can also use it to
+buy sell and deposit Bitcoin most
+
+128
+00:02:33,260 --> 00:02:33,270
+buy sell and deposit Bitcoin most
+ 
+
+129
+00:02:33,270 --> 00:02:35,240
+buy sell and deposit Bitcoin most
+Bitcoin exchanges take days for bank
+
+130
+00:02:35,240 --> 00:02:35,250
+Bitcoin exchanges take days for bank
+ 
+
+131
+00:02:35,250 --> 00:02:37,280
+Bitcoin exchanges take days for bank
+transfer to become investable through
+
+132
+00:02:37,280 --> 00:02:37,290
+transfer to become investable through
+ 
+
+133
+00:02:37,290 --> 00:02:40,370
+transfer to become investable through
+cash up it takes seconds cash app also
+
+134
+00:02:40,370 --> 00:02:40,380
+cash up it takes seconds cash app also
+ 
+
+135
+00:02:40,380 --> 00:02:43,220
+cash up it takes seconds cash app also
+has a new investing feature you can buy
+
+136
+00:02:43,220 --> 00:02:43,230
+has a new investing feature you can buy
+ 
+
+137
+00:02:43,230 --> 00:02:45,350
+has a new investing feature you can buy
+a fraction of stock which to me is a
+
+138
+00:02:45,350 --> 00:02:45,360
+a fraction of stock which to me is a
+ 
+
+139
+00:02:45,360 --> 00:02:47,630
+a fraction of stock which to me is a
+really interesting concept so you can
+
+140
+00:02:47,630 --> 00:02:47,640
+really interesting concept so you can
+ 
+
+141
+00:02:47,640 --> 00:02:50,120
+really interesting concept so you can
+buy $1 worth no matter what the stock
+
+142
+00:02:50,120 --> 00:02:50,130
+buy $1 worth no matter what the stock
+ 
+
+143
+00:02:50,130 --> 00:02:52,910
+buy $1 worth no matter what the stock
+price is brokerage services are provided
+
+144
+00:02:52,910 --> 00:02:52,920
+price is brokerage services are provided
+ 
+
+145
+00:02:52,920 --> 00:02:55,430
+price is brokerage services are provided
+by cash app investing a subsidiary of
+
+146
+00:02:55,430 --> 00:02:55,440
+by cash app investing a subsidiary of
+ 
+
+147
+00:02:55,440 --> 00:02:58,940
+by cash app investing a subsidiary of
+square and member si PC I'm excited to
+
+148
+00:02:58,940 --> 00:02:58,950
+square and member si PC I'm excited to
+ 
+
+149
+00:02:58,950 --> 00:03:01,070
+square and member si PC I'm excited to
+be working with cash app to support one
+
+150
+00:03:01,070 --> 00:03:01,080
+be working with cash app to support one
+ 
+
+151
+00:03:01,080 --> 00:03:03,199
+be working with cash app to support one
+of my favorite organizations that many
+
+152
+00:03:03,199 --> 00:03:03,209
+of my favorite organizations that many
+ 
+
+153
+00:03:03,209 --> 00:03:05,180
+of my favorite organizations that many
+of you may know and have benefited from
+
+154
+00:03:05,180 --> 00:03:05,190
+of you may know and have benefited from
+ 
+
+155
+00:03:05,190 --> 00:03:08,479
+of you may know and have benefited from
+called first best known for their first
+
+156
+00:03:08,479 --> 00:03:08,489
+called first best known for their first
+ 
+
+157
+00:03:08,489 --> 00:03:10,970
+called first best known for their first
+robotics and Lego competitions they
+
+158
+00:03:10,970 --> 00:03:10,980
+robotics and Lego competitions they
+ 
+
+159
+00:03:10,980 --> 00:03:13,370
+robotics and Lego competitions they
+educate and inspire hundreds of
+
+160
+00:03:13,370 --> 00:03:13,380
+educate and inspire hundreds of
+ 
+
+161
+00:03:13,380 --> 00:03:15,620
+educate and inspire hundreds of
+thousands of students in over 110
+
+162
+00:03:15,620 --> 00:03:15,630
+thousands of students in over 110
+ 
+
+163
+00:03:15,630 --> 00:03:17,750
+thousands of students in over 110
+countries and have a perfect rating and
+
+164
+00:03:17,750 --> 00:03:17,760
+countries and have a perfect rating and
+ 
+
+165
+00:03:17,760 --> 00:03:19,550
+countries and have a perfect rating and
+Charity Navigator which means the
+
+166
+00:03:19,550 --> 00:03:19,560
+Charity Navigator which means the
+ 
+
+167
+00:03:19,560 --> 00:03:22,370
+Charity Navigator which means the
+donated money is used to maximum
+
+168
+00:03:22,370 --> 00:03:22,380
+donated money is used to maximum
+ 
+
+169
+00:03:22,380 --> 00:03:25,070
+donated money is used to maximum
+effectiveness when you get cash app from
+
+170
+00:03:25,070 --> 00:03:25,080
+effectiveness when you get cash app from
+ 
+
+171
+00:03:25,080 --> 00:03:27,259
+effectiveness when you get cash app from
+the App Store or Google Play and use
+
+172
+00:03:27,259 --> 00:03:27,269
+the App Store or Google Play and use
+ 
+
+173
+00:03:27,269 --> 00:03:30,560
+the App Store or Google Play and use
+code Lex podcast you get ten dollars in
+
+174
+00:03:30,560 --> 00:03:30,570
+code Lex podcast you get ten dollars in
+ 
+
+175
+00:03:30,570 --> 00:03:32,420
+code Lex podcast you get ten dollars in
+cash app will also donate ten dollars to
+
+176
+00:03:32,420 --> 00:03:32,430
+cash app will also donate ten dollars to
+ 
+
+177
+00:03:32,430 --> 00:03:35,150
+cash app will also donate ten dollars to
+the first which again is an organization
+
+178
+00:03:35,150 --> 00:03:35,160
+the first which again is an organization
+ 
+
+179
+00:03:35,160 --> 00:03:37,400
+the first which again is an organization
+that I've personally seen inspire girls
+
+180
+00:03:37,400 --> 00:03:37,410
+that I've personally seen inspire girls
+ 
+
+181
+00:03:37,410 --> 00:03:39,740
+that I've personally seen inspire girls
+and boys to dream of engineering a
+
+182
+00:03:39,740 --> 00:03:39,750
+and boys to dream of engineering a
+ 
+
+183
+00:03:39,750 --> 00:03:42,050
+and boys to dream of engineering a
+better world and now here's my
+
+184
+00:03:42,050 --> 00:03:42,060
+better world and now here's my
+ 
+
+185
+00:03:42,060 --> 00:03:45,920
+better world and now here's my
+conversation with Gilbert Strang how
+
+186
+00:03:45,920 --> 00:03:45,930
+conversation with Gilbert Strang how
+ 
+
+187
+00:03:45,930 --> 00:03:49,520
+conversation with Gilbert Strang how
+does it feel to be one of the modern-day
+
+188
+00:03:49,520 --> 00:03:49,530
+does it feel to be one of the modern-day
+ 
+
+189
+00:03:49,530 --> 00:03:52,759
+does it feel to be one of the modern-day
+rock stars of mathematics I don't feel
+
+190
+00:03:52,759 --> 00:03:52,769
+rock stars of mathematics I don't feel
+ 
+
+191
+00:03:52,769 --> 00:03:55,069
+rock stars of mathematics I don't feel
+like a rock star that's kind of crazy
+
+192
+00:03:55,069 --> 00:03:55,079
+like a rock star that's kind of crazy
+ 
+
+193
+00:03:55,079 --> 00:03:59,530
+like a rock star that's kind of crazy
+for old math person but it's true that
+
+194
+00:03:59,530 --> 00:03:59,540
+for old math person but it's true that
+ 
+
+195
+00:03:59,540 --> 00:04:04,160
+for old math person but it's true that
+the videos in linear algebra that I made
+
+196
+00:04:04,160 --> 00:04:04,170
+the videos in linear algebra that I made
+ 
+
+197
+00:04:04,170 --> 00:04:08,720
+the videos in linear algebra that I made
+way back in 2000 I think I've been
+
+198
+00:04:08,720 --> 00:04:08,730
+way back in 2000 I think I've been
+ 
+
+199
+00:04:08,730 --> 00:04:12,259
+way back in 2000 I think I've been
+watched a lot and well it's partly the
+
+200
+00:04:12,259 --> 00:04:12,269
+watched a lot and well it's partly the
+ 
+
+201
+00:04:12,269 --> 00:04:14,780
+watched a lot and well it's partly the
+importance of linear algebra which way
+
+202
+00:04:14,780 --> 00:04:14,790
+importance of linear algebra which way
+ 
+
+203
+00:04:14,790 --> 00:04:16,759
+importance of linear algebra which way
+I'm sure you'll ask me and give me a
+
+204
+00:04:16,759 --> 00:04:16,769
+I'm sure you'll ask me and give me a
+ 
+
+205
+00:04:16,769 --> 00:04:19,490
+I'm sure you'll ask me and give me a
+chance to say that linear algebra as a
+
+206
+00:04:19,490 --> 00:04:19,500
+chance to say that linear algebra as a
+ 
+
+207
+00:04:19,500 --> 00:04:21,890
+chance to say that linear algebra as a
+subject has just surged in importance
+
+208
+00:04:21,890 --> 00:04:21,900
+subject has just surged in importance
+ 
+
+209
+00:04:21,900 --> 00:04:25,490
+subject has just surged in importance
+but also I it was a class that I taught
+
+210
+00:04:25,490 --> 00:04:25,500
+but also I it was a class that I taught
+ 
+
+211
+00:04:25,500 --> 00:04:28,129
+but also I it was a class that I taught
+a bunch of times so I kind of got it
+
+212
+00:04:28,129 --> 00:04:28,139
+a bunch of times so I kind of got it
+ 
+
+213
+00:04:28,139 --> 00:04:31,880
+a bunch of times so I kind of got it
+organized and any I'm enjoy doing it was
+
+214
+00:04:31,880 --> 00:04:31,890
+organized and any I'm enjoy doing it was
+ 
+
+215
+00:04:31,890 --> 00:04:34,310
+organized and any I'm enjoy doing it was
+just the videos were just the class so
+
+216
+00:04:34,310 --> 00:04:34,320
+just the videos were just the class so
+ 
+
+217
+00:04:34,320 --> 00:04:36,080
+just the videos were just the class so
+they're on OpenCourseWare and
+
+218
+00:04:36,080 --> 00:04:36,090
+they're on OpenCourseWare and
+ 
+
+219
+00:04:36,090 --> 00:04:39,020
+they're on OpenCourseWare and
+YouTube and translated that's fun but
+
+220
+00:04:39,020 --> 00:04:39,030
+YouTube and translated that's fun but
+ 
+
+221
+00:04:39,030 --> 00:04:40,460
+YouTube and translated that's fun but
+there's something about that chalkboard
+
+222
+00:04:40,460 --> 00:04:40,470
+there's something about that chalkboard
+ 
+
+223
+00:04:40,470 --> 00:04:43,879
+there's something about that chalkboard
+in the and the simplicity of the way you
+
+224
+00:04:43,879 --> 00:04:43,889
+in the and the simplicity of the way you
+ 
+
+225
+00:04:43,889 --> 00:04:45,409
+in the and the simplicity of the way you
+explain the basic concepts in the
+
+226
+00:04:45,409 --> 00:04:45,419
+explain the basic concepts in the
+ 
+
+227
+00:04:45,419 --> 00:04:48,110
+explain the basic concepts in the
+beginning I you know to be honest when I
+
+228
+00:04:48,110 --> 00:04:48,120
+beginning I you know to be honest when I
+ 
+
+229
+00:04:48,120 --> 00:04:51,200
+beginning I you know to be honest when I
+went to undergrad you know do linear
+
+230
+00:04:51,200 --> 00:04:51,210
+went to undergrad you know do linear
+ 
+
+231
+00:04:51,210 --> 00:04:55,000
+went to undergrad you know do linear
+algebra broadly of course this lineage
+
+232
+00:04:55,000 --> 00:04:55,010
+algebra broadly of course this lineage
+ 
+
+233
+00:04:55,010 --> 00:04:59,150
+algebra broadly of course this lineage
+I before going through the course at my
+
+234
+00:04:59,150 --> 00:04:59,160
+I before going through the course at my
+ 
+
+235
+00:04:59,160 --> 00:05:01,879
+I before going through the course at my
+university I was going through open
+
+236
+00:05:01,879 --> 00:05:01,889
+university I was going through open
+ 
+
+237
+00:05:01,889 --> 00:05:03,530
+university I was going through open
+courseware I was you were my instructor
+
+238
+00:05:03,530 --> 00:05:03,540
+courseware I was you were my instructor
+ 
+
+239
+00:05:03,540 --> 00:05:06,230
+courseware I was you were my instructor
+oh yeah you're right yeah and that I
+
+240
+00:05:06,230 --> 00:05:06,240
+oh yeah you're right yeah and that I
+ 
+
+241
+00:05:06,240 --> 00:05:08,150
+oh yeah you're right yeah and that I
+mean we're using your book and I mean
+
+242
+00:05:08,150 --> 00:05:08,160
+mean we're using your book and I mean
+ 
+
+243
+00:05:08,160 --> 00:05:11,469
+mean we're using your book and I mean
+that that the fact that there is
+
+244
+00:05:11,469 --> 00:05:11,479
+that that the fact that there is
+ 
+
+245
+00:05:11,479 --> 00:05:14,000
+that that the fact that there is
+thousands you know hundreds of thousands
+
+246
+00:05:14,000 --> 00:05:14,010
+thousands you know hundreds of thousands
+ 
+
+247
+00:05:14,010 --> 00:05:15,680
+thousands you know hundreds of thousands
+millions of people that watch that video
+
+248
+00:05:15,680 --> 00:05:15,690
+millions of people that watch that video
+ 
+
+249
+00:05:15,690 --> 00:05:17,690
+millions of people that watch that video
+I think that's yeah that's really
+
+250
+00:05:17,690 --> 00:05:17,700
+I think that's yeah that's really
+ 
+
+251
+00:05:17,700 --> 00:05:21,400
+I think that's yeah that's really
+powerful so how do you think the idea of
+
+252
+00:05:21,400 --> 00:05:21,410
+powerful so how do you think the idea of
+ 
+
+253
+00:05:21,410 --> 00:05:24,860
+powerful so how do you think the idea of
+putting lectures online would really MIT
+
+254
+00:05:24,860 --> 00:05:24,870
+putting lectures online would really MIT
+ 
+
+255
+00:05:24,870 --> 00:05:27,560
+putting lectures online would really MIT
+OpenCourseWare has innovated that was a
+
+256
+00:05:27,560 --> 00:05:27,570
+OpenCourseWare has innovated that was a
+ 
+
+257
+00:05:27,570 --> 00:05:28,580
+OpenCourseWare has innovated that was a
+wonderful idea
+
+258
+00:05:28,580 --> 00:05:28,590
+wonderful idea
+ 
+
+259
+00:05:28,590 --> 00:05:32,300
+wonderful idea
+you know I think the story that I've
+
+260
+00:05:32,300 --> 00:05:32,310
+you know I think the story that I've
+ 
+
+261
+00:05:32,310 --> 00:05:34,939
+you know I think the story that I've
+heard is the committee committee was
+
+262
+00:05:34,939 --> 00:05:34,949
+heard is the committee committee was
+ 
+
+263
+00:05:34,949 --> 00:05:36,920
+heard is the committee committee was
+appointed by the president president
+
+264
+00:05:36,920 --> 00:05:36,930
+appointed by the president president
+ 
+
+265
+00:05:36,930 --> 00:05:40,690
+appointed by the president president
+vest at that time a wonderful guy and
+
+266
+00:05:40,690 --> 00:05:40,700
+vest at that time a wonderful guy and
+ 
+
+267
+00:05:40,700 --> 00:05:43,129
+vest at that time a wonderful guy and
+the idea of the committee was to figure
+
+268
+00:05:43,129 --> 00:05:43,139
+the idea of the committee was to figure
+ 
+
+269
+00:05:43,139 --> 00:05:46,879
+the idea of the committee was to figure
+out how a mighty could make be like
+
+270
+00:05:46,879 --> 00:05:46,889
+out how a mighty could make be like
+ 
+
+271
+00:05:46,889 --> 00:05:50,570
+out how a mighty could make be like
+other universities market the market
+
+272
+00:05:50,570 --> 00:05:50,580
+other universities market the market
+ 
+
+273
+00:05:50,580 --> 00:05:53,719
+other universities market the market
+work we were doing and then they didn't
+
+274
+00:05:53,719 --> 00:05:53,729
+work we were doing and then they didn't
+ 
+
+275
+00:05:53,729 --> 00:05:55,969
+work we were doing and then they didn't
+see away and after a weekend and they
+
+276
+00:05:55,969 --> 00:05:55,979
+see away and after a weekend and they
+ 
+
+277
+00:05:55,979 --> 00:05:58,070
+see away and after a weekend and they
+had an inspiration came back to the
+
+278
+00:05:58,070 --> 00:05:58,080
+had an inspiration came back to the
+ 
+
+279
+00:05:58,080 --> 00:06:00,560
+had an inspiration came back to the
+president vest and said what if we just
+
+280
+00:06:00,560 --> 00:06:00,570
+president vest and said what if we just
+ 
+
+281
+00:06:00,570 --> 00:06:06,170
+president vest and said what if we just
+gave it away and he decided that was ok
+
+282
+00:06:06,170 --> 00:06:06,180
+gave it away and he decided that was ok
+ 
+
+283
+00:06:06,180 --> 00:06:09,800
+gave it away and he decided that was ok
+good idea so that's a crazy idea that's
+
+284
+00:06:09,800 --> 00:06:09,810
+good idea so that's a crazy idea that's
+ 
+
+285
+00:06:09,810 --> 00:06:12,080
+good idea so that's a crazy idea that's
+uh if we think of a university is a
+
+286
+00:06:12,080 --> 00:06:12,090
+uh if we think of a university is a
+ 
+
+287
+00:06:12,090 --> 00:06:14,930
+uh if we think of a university is a
+thing that creates a product yes isn't
+
+288
+00:06:14,930 --> 00:06:14,940
+thing that creates a product yes isn't
+ 
+
+289
+00:06:14,940 --> 00:06:18,170
+thing that creates a product yes isn't
+knowledge right the you know the kind of
+
+290
+00:06:18,170 --> 00:06:18,180
+knowledge right the you know the kind of
+ 
+
+291
+00:06:18,180 --> 00:06:20,450
+knowledge right the you know the kind of
+educational knowledge isn't the products
+
+292
+00:06:20,450 --> 00:06:20,460
+educational knowledge isn't the products
+ 
+
+293
+00:06:20,460 --> 00:06:23,240
+educational knowledge isn't the products
+and giving that away are you surprised
+
+294
+00:06:23,240 --> 00:06:23,250
+and giving that away are you surprised
+ 
+
+295
+00:06:23,250 --> 00:06:26,870
+and giving that away are you surprised
+that you went through it the result that
+
+296
+00:06:26,870 --> 00:06:26,880
+that you went through it the result that
+ 
+
+297
+00:06:26,880 --> 00:06:29,600
+that you went through it the result that
+he did it well knowing a little bit
+
+298
+00:06:29,600 --> 00:06:29,610
+he did it well knowing a little bit
+ 
+
+299
+00:06:29,610 --> 00:06:32,750
+he did it well knowing a little bit
+president vest it was like him I think
+
+300
+00:06:32,750 --> 00:06:32,760
+president vest it was like him I think
+ 
+
+301
+00:06:32,760 --> 00:06:36,080
+president vest it was like him I think
+and and it was really the right idea
+
+302
+00:06:36,080 --> 00:06:36,090
+and and it was really the right idea
+ 
+
+303
+00:06:36,090 --> 00:06:41,360
+and and it was really the right idea
+you know MIT as I kind of it's known for
+
+304
+00:06:41,360 --> 00:06:41,370
+you know MIT as I kind of it's known for
+ 
+
+305
+00:06:41,370 --> 00:06:44,959
+you know MIT as I kind of it's known for
+being high level technical things and
+
+306
+00:06:44,959 --> 00:06:44,969
+being high level technical things and
+ 
+
+307
+00:06:44,969 --> 00:06:48,469
+being high level technical things and
+and this is the best way we can say tell
+
+308
+00:06:48,469 --> 00:06:48,479
+and this is the best way we can say tell
+ 
+
+309
+00:06:48,479 --> 00:06:49,850
+and this is the best way we can say tell
+we can show
+
+310
+00:06:49,850 --> 00:06:49,860
+we can show
+ 
+
+311
+00:06:49,860 --> 00:06:54,290
+we can show
+what MIT really is like because the the
+
+312
+00:06:54,290 --> 00:06:54,300
+what MIT really is like because the the
+ 
+
+313
+00:06:54,300 --> 00:06:57,740
+what MIT really is like because the the
+in my case those 1806 videos are just
+
+314
+00:06:57,740 --> 00:06:57,750
+in my case those 1806 videos are just
+ 
+
+315
+00:06:57,750 --> 00:07:01,480
+in my case those 1806 videos are just
+teaching the class they were there in
+
+316
+00:07:01,480 --> 00:07:01,490
+teaching the class they were there in
+ 
+
+317
+00:07:01,490 --> 00:07:04,730
+teaching the class they were there in
+26100 they're kind of fun to look at
+
+318
+00:07:04,730 --> 00:07:04,740
+26100 they're kind of fun to look at
+ 
+
+319
+00:07:04,740 --> 00:07:07,100
+26100 they're kind of fun to look at
+people write to me and say oh you've got
+
+320
+00:07:07,100 --> 00:07:07,110
+people write to me and say oh you've got
+ 
+
+321
+00:07:07,110 --> 00:07:09,679
+people write to me and say oh you've got
+a sense of humor but I don't know where
+
+322
+00:07:09,679 --> 00:07:09,689
+a sense of humor but I don't know where
+ 
+
+323
+00:07:09,689 --> 00:07:12,140
+a sense of humor but I don't know where
+that comes through somehow I big
+
+324
+00:07:12,140 --> 00:07:12,150
+that comes through somehow I big
+ 
+
+325
+00:07:12,150 --> 00:07:14,779
+that comes through somehow I big
+friendly with a class I like students
+
+326
+00:07:14,779 --> 00:07:14,789
+friendly with a class I like students
+ 
+
+327
+00:07:14,789 --> 00:07:19,309
+friendly with a class I like students
+and and then your algebra the subject we
+
+328
+00:07:19,309 --> 00:07:19,319
+and and then your algebra the subject we
+ 
+
+329
+00:07:19,319 --> 00:07:20,899
+and and then your algebra the subject we
+got to give this subject most of the
+
+330
+00:07:20,899 --> 00:07:20,909
+got to give this subject most of the
+ 
+
+331
+00:07:20,909 --> 00:07:26,869
+got to give this subject most of the
+credit it it really has come forward and
+
+332
+00:07:26,869 --> 00:07:26,879
+credit it it really has come forward and
+ 
+
+333
+00:07:26,879 --> 00:07:30,589
+credit it it really has come forward and
+importance in these years so let's talk
+
+334
+00:07:30,589 --> 00:07:30,599
+importance in these years so let's talk
+ 
+
+335
+00:07:30,599 --> 00:07:32,659
+importance in these years so let's talk
+about linear algebra a little bit
+
+336
+00:07:32,659 --> 00:07:32,669
+about linear algebra a little bit
+ 
+
+337
+00:07:32,669 --> 00:07:34,129
+about linear algebra a little bit
+because it is such a it's both a
+
+338
+00:07:34,129 --> 00:07:34,139
+because it is such a it's both a
+ 
+
+339
+00:07:34,139 --> 00:07:38,089
+because it is such a it's both a
+powerful and a beautiful a subfield of
+
+340
+00:07:38,089 --> 00:07:38,099
+powerful and a beautiful a subfield of
+ 
+
+341
+00:07:38,099 --> 00:07:40,879
+powerful and a beautiful a subfield of
+mathematics so what's your favorite
+
+342
+00:07:40,879 --> 00:07:40,889
+mathematics so what's your favorite
+ 
+
+343
+00:07:40,889 --> 00:07:44,659
+mathematics so what's your favorite
+specific topic in linear algebra or even
+
+344
+00:07:44,659 --> 00:07:44,669
+specific topic in linear algebra or even
+ 
+
+345
+00:07:44,669 --> 00:07:46,839
+specific topic in linear algebra or even
+math in general to give a lecture on to
+
+346
+00:07:46,839 --> 00:07:46,849
+math in general to give a lecture on to
+ 
+
+347
+00:07:46,849 --> 00:07:49,969
+math in general to give a lecture on to
+convey to tell a story to teach students
+
+348
+00:07:49,969 --> 00:07:49,979
+convey to tell a story to teach students
+ 
+
+349
+00:07:49,979 --> 00:07:54,769
+convey to tell a story to teach students
+okay well on the teaching side so it's
+
+350
+00:07:54,769 --> 00:07:54,779
+okay well on the teaching side so it's
+ 
+
+351
+00:07:54,779 --> 00:07:57,409
+okay well on the teaching side so it's
+not deep mathematics at all but I I'm
+
+352
+00:07:57,409 --> 00:07:57,419
+not deep mathematics at all but I I'm
+ 
+
+353
+00:07:57,419 --> 00:08:01,100
+not deep mathematics at all but I I'm
+kind of proud of the idea of the four
+
+354
+00:08:01,100 --> 00:08:01,110
+kind of proud of the idea of the four
+ 
+
+355
+00:08:01,110 --> 00:08:03,649
+kind of proud of the idea of the four
+subspaces there are four fundamental
+
+356
+00:08:03,649 --> 00:08:03,659
+subspaces there are four fundamental
+ 
+
+357
+00:08:03,659 --> 00:08:06,120
+subspaces there are four fundamental
+subspaces
+
+358
+00:08:06,120 --> 00:08:06,130
+subspaces
+ 
+
+359
+00:08:06,130 --> 00:08:09,820
+subspaces
+which are of course known before long
+
+360
+00:08:09,820 --> 00:08:09,830
+which are of course known before long
+ 
+
+361
+00:08:09,830 --> 00:08:14,140
+which are of course known before long
+before my name for them but can you go
+
+362
+00:08:14,140 --> 00:08:14,150
+before my name for them but can you go
+ 
+
+363
+00:08:14,150 --> 00:08:15,280
+before my name for them but can you go
+through them can you go through the
+
+364
+00:08:15,280 --> 00:08:15,290
+through them can you go through the
+ 
+
+365
+00:08:15,290 --> 00:08:18,310
+through them can you go through the
+future I can yes so the first one to
+
+366
+00:08:18,310 --> 00:08:18,320
+future I can yes so the first one to
+ 
+
+367
+00:08:18,320 --> 00:08:21,610
+future I can yes so the first one to
+understand is so the matrix is maybe I
+
+368
+00:08:21,610 --> 00:08:21,620
+understand is so the matrix is maybe I
+ 
+
+369
+00:08:21,620 --> 00:08:23,800
+understand is so the matrix is maybe I
+should say the matrix what is the matrix
+
+370
+00:08:23,800 --> 00:08:23,810
+should say the matrix what is the matrix
+ 
+
+371
+00:08:23,810 --> 00:08:26,110
+should say the matrix what is the matrix
+what's a matrix well so we have a like a
+
+372
+00:08:26,110 --> 00:08:26,120
+what's a matrix well so we have a like a
+ 
+
+373
+00:08:26,120 --> 00:08:29,680
+what's a matrix well so we have a like a
+rectangle of numbers so it's got n
+
+374
+00:08:29,680 --> 00:08:29,690
+rectangle of numbers so it's got n
+ 
+
+375
+00:08:29,690 --> 00:08:30,610
+rectangle of numbers so it's got n
+columns
+
+376
+00:08:30,610 --> 00:08:30,620
+columns
+ 
+
+377
+00:08:30,620 --> 00:08:34,390
+columns
+got a bunch of columns and also got an M
+
+378
+00:08:34,390 --> 00:08:34,400
+got a bunch of columns and also got an M
+ 
+
+379
+00:08:34,400 --> 00:08:37,480
+got a bunch of columns and also got an M
+rows let's say and the relation between
+
+380
+00:08:37,480 --> 00:08:37,490
+rows let's say and the relation between
+ 
+
+381
+00:08:37,490 --> 00:08:39,460
+rows let's say and the relation between
+so of course the columns and the rows
+
+382
+00:08:39,460 --> 00:08:39,470
+so of course the columns and the rows
+ 
+
+383
+00:08:39,470 --> 00:08:43,090
+so of course the columns and the rows
+it's the same numbers so there's got to
+
+384
+00:08:43,090 --> 00:08:43,100
+it's the same numbers so there's got to
+ 
+
+385
+00:08:43,100 --> 00:08:44,680
+it's the same numbers so there's got to
+be connections there but they're not
+
+386
+00:08:44,680 --> 00:08:44,690
+be connections there but they're not
+ 
+
+387
+00:08:44,690 --> 00:08:47,890
+be connections there but they're not
+simple the they're much the columns
+
+388
+00:08:47,890 --> 00:08:47,900
+simple the they're much the columns
+ 
+
+389
+00:08:47,900 --> 00:08:50,170
+simple the they're much the columns
+might be longer than the rows and
+
+390
+00:08:50,170 --> 00:08:50,180
+might be longer than the rows and
+ 
+
+391
+00:08:50,180 --> 00:08:52,360
+might be longer than the rows and
+they've all different the numbers are
+
+392
+00:08:52,360 --> 00:08:52,370
+they've all different the numbers are
+ 
+
+393
+00:08:52,370 --> 00:08:55,360
+they've all different the numbers are
+mixed up first space to think about is
+
+394
+00:08:55,360 --> 00:08:55,370
+mixed up first space to think about is
+ 
+
+395
+00:08:55,370 --> 00:08:58,930
+mixed up first space to think about is
+take the columns so those are vectors
+
+396
+00:08:58,930 --> 00:08:58,940
+take the columns so those are vectors
+ 
+
+397
+00:08:58,940 --> 00:09:02,050
+take the columns so those are vectors
+those are points in n dimensions what's
+
+398
+00:09:02,050 --> 00:09:02,060
+those are points in n dimensions what's
+ 
+
+399
+00:09:02,060 --> 00:09:04,660
+those are points in n dimensions what's
+the vector so a physicist would imagine
+
+400
+00:09:04,660 --> 00:09:04,670
+the vector so a physicist would imagine
+ 
+
+401
+00:09:04,670 --> 00:09:07,090
+the vector so a physicist would imagine
+a vector or might imagine a vector as a
+
+402
+00:09:07,090 --> 00:09:07,100
+a vector or might imagine a vector as a
+ 
+
+403
+00:09:07,100 --> 00:09:11,770
+a vector or might imagine a vector as a
+arrow you know in space or the point it
+
+404
+00:09:11,770 --> 00:09:11,780
+arrow you know in space or the point it
+ 
+
+405
+00:09:11,780 --> 00:09:16,540
+arrow you know in space or the point it
+ends at in space for me it's a column of
+
+406
+00:09:16,540 --> 00:09:16,550
+ends at in space for me it's a column of
+ 
+
+407
+00:09:16,550 --> 00:09:20,080
+ends at in space for me it's a column of
+numbers does it you often think of this
+
+408
+00:09:20,080 --> 00:09:20,090
+numbers does it you often think of this
+ 
+
+409
+00:09:20,090 --> 00:09:21,490
+numbers does it you often think of this
+is very interesting in terms of linear
+
+410
+00:09:21,490 --> 00:09:21,500
+is very interesting in terms of linear
+ 
+
+411
+00:09:21,500 --> 00:09:24,730
+is very interesting in terms of linear
+algebra of a vector you think a little
+
+412
+00:09:24,730 --> 00:09:24,740
+algebra of a vector you think a little
+ 
+
+413
+00:09:24,740 --> 00:09:28,330
+algebra of a vector you think a little
+bit more abstract than the how it's very
+
+414
+00:09:28,330 --> 00:09:28,340
+bit more abstract than the how it's very
+ 
+
+415
+00:09:28,340 --> 00:09:31,180
+bit more abstract than the how it's very
+commonly used perhaps yeah you think
+
+416
+00:09:31,180 --> 00:09:31,190
+commonly used perhaps yeah you think
+ 
+
+417
+00:09:31,190 --> 00:09:33,940
+commonly used perhaps yeah you think
+this arbitrary Speight multi-dimensional
+
+418
+00:09:33,940 --> 00:09:33,950
+this arbitrary Speight multi-dimensional
+ 
+
+419
+00:09:33,950 --> 00:09:37,600
+this arbitrary Speight multi-dimensional
+right away I'm in high dimensions and in
+
+420
+00:09:37,600 --> 00:09:37,610
+right away I'm in high dimensions and in
+ 
+
+421
+00:09:37,610 --> 00:09:40,210
+right away I'm in high dimensions and in
+the room lands yeah that's right in the
+
+422
+00:09:40,210 --> 00:09:40,220
+the room lands yeah that's right in the
+ 
+
+423
+00:09:40,220 --> 00:09:44,290
+the room lands yeah that's right in the
+lecture I tried a so if you think of two
+
+424
+00:09:44,290 --> 00:09:44,300
+lecture I tried a so if you think of two
+ 
+
+425
+00:09:44,300 --> 00:09:47,530
+lecture I tried a so if you think of two
+vectors in ten dimensions I'll do this
+
+426
+00:09:47,530 --> 00:09:47,540
+vectors in ten dimensions I'll do this
+ 
+
+427
+00:09:47,540 --> 00:09:50,560
+vectors in ten dimensions I'll do this
+in class and I'll readily admit that I
+
+428
+00:09:50,560 --> 00:09:50,570
+in class and I'll readily admit that I
+ 
+
+429
+00:09:50,570 --> 00:09:54,610
+in class and I'll readily admit that I
+have no good image in my mind of a
+
+430
+00:09:54,610 --> 00:09:54,620
+have no good image in my mind of a
+ 
+
+431
+00:09:54,620 --> 00:09:57,670
+have no good image in my mind of a
+vector of arrow int n dimensional space
+
+432
+00:09:57,670 --> 00:09:57,680
+vector of arrow int n dimensional space
+ 
+
+433
+00:09:57,680 --> 00:10:02,530
+vector of arrow int n dimensional space
+but whatever you can a you can add one
+
+434
+00:10:02,530 --> 00:10:02,540
+but whatever you can a you can add one
+ 
+
+435
+00:10:02,540 --> 00:10:04,570
+but whatever you can a you can add one
+bunch of ten numbers to another bunch of
+
+436
+00:10:04,570 --> 00:10:04,580
+bunch of ten numbers to another bunch of
+ 
+
+437
+00:10:04,580 --> 00:10:06,940
+bunch of ten numbers to another bunch of
+ten numbers so you can add a vector to a
+
+438
+00:10:06,940 --> 00:10:06,950
+ten numbers so you can add a vector to a
+ 
+
+439
+00:10:06,950 --> 00:10:09,430
+ten numbers so you can add a vector to a
+vector and you can multiply a vector by
+
+440
+00:10:09,430 --> 00:10:09,440
+vector and you can multiply a vector by
+ 
+
+441
+00:10:09,440 --> 00:10:11,620
+vector and you can multiply a vector by
+three and that's if you know how to do
+
+442
+00:10:11,620 --> 00:10:11,630
+three and that's if you know how to do
+ 
+
+443
+00:10:11,630 --> 00:10:12,160
+three and that's if you know how to do
+those
+
+444
+00:10:12,160 --> 00:10:12,170
+those
+ 
+
+445
+00:10:12,170 --> 00:10:14,530
+those
+you've got linear algebra you know ten
+
+446
+00:10:14,530 --> 00:10:14,540
+you've got linear algebra you know ten
+ 
+
+447
+00:10:14,540 --> 00:10:17,350
+you've got linear algebra you know ten
+dimensions yeah you know there's this
+
+448
+00:10:17,350 --> 00:10:17,360
+dimensions yeah you know there's this
+ 
+
+449
+00:10:17,360 --> 00:10:19,330
+dimensions yeah you know there's this
+beautiful thing about math if we look
+
+450
+00:10:19,330 --> 00:10:19,340
+beautiful thing about math if we look
+ 
+
+451
+00:10:19,340 --> 00:10:21,400
+beautiful thing about math if we look
+string theory and all these theories
+
+452
+00:10:21,400 --> 00:10:21,410
+string theory and all these theories
+ 
+
+453
+00:10:21,410 --> 00:10:23,230
+string theory and all these theories
+which are really fundamentally derived
+
+454
+00:10:23,230 --> 00:10:23,240
+which are really fundamentally derived
+ 
+
+455
+00:10:23,240 --> 00:10:25,030
+which are really fundamentally derived
+through math yeah but it very difficult
+
+456
+00:10:25,030 --> 00:10:25,040
+through math yeah but it very difficult
+ 
+
+457
+00:10:25,040 --> 00:10:26,830
+through math yeah but it very difficult
+to visualize it yeah how do you think
+
+458
+00:10:26,830 --> 00:10:26,840
+to visualize it yeah how do you think
+ 
+
+459
+00:10:26,840 --> 00:10:30,060
+to visualize it yeah how do you think
+about the things like a 10 dimensional
+
+460
+00:10:30,060 --> 00:10:30,070
+about the things like a 10 dimensional
+ 
+
+461
+00:10:30,070 --> 00:10:32,230
+about the things like a 10 dimensional
+vector that we can't really visualize
+
+462
+00:10:32,230 --> 00:10:32,240
+vector that we can't really visualize
+ 
+
+463
+00:10:32,240 --> 00:10:36,820
+vector that we can't really visualize
+yeah do you and and yet math reveals
+
+464
+00:10:36,820 --> 00:10:36,830
+yeah do you and and yet math reveals
+ 
+
+465
+00:10:36,830 --> 00:10:40,510
+yeah do you and and yet math reveals
+some beauty Oh underlying me yeah our
+
+466
+00:10:40,510 --> 00:10:40,520
+some beauty Oh underlying me yeah our
+ 
+
+467
+00:10:40,520 --> 00:10:43,360
+some beauty Oh underlying me yeah our
+world in that weird thing we can't
+
+468
+00:10:43,360 --> 00:10:43,370
+world in that weird thing we can't
+ 
+
+469
+00:10:43,370 --> 00:10:44,530
+world in that weird thing we can't
+visualize how do you think about that
+
+470
+00:10:44,530 --> 00:10:44,540
+visualize how do you think about that
+ 
+
+471
+00:10:44,540 --> 00:10:47,770
+visualize how do you think about that
+difference well probably I'm not a very
+
+472
+00:10:47,770 --> 00:10:47,780
+difference well probably I'm not a very
+ 
+
+473
+00:10:47,780 --> 00:10:49,510
+difference well probably I'm not a very
+geometric person so I'm probably
+
+474
+00:10:49,510 --> 00:10:49,520
+geometric person so I'm probably
+ 
+
+475
+00:10:49,520 --> 00:10:51,970
+geometric person so I'm probably
+thinking in three dimensions and the
+
+476
+00:10:51,970 --> 00:10:51,980
+thinking in three dimensions and the
+ 
+
+477
+00:10:51,980 --> 00:10:54,850
+thinking in three dimensions and the
+beauty of linear algebra is that is that
+
+478
+00:10:54,850 --> 00:10:54,860
+beauty of linear algebra is that is that
+ 
+
+479
+00:10:54,860 --> 00:10:57,490
+beauty of linear algebra is that is that
+it goes on to ten dimensions with no
+
+480
+00:10:57,490 --> 00:10:57,500
+it goes on to ten dimensions with no
+ 
+
+481
+00:10:57,500 --> 00:10:59,350
+it goes on to ten dimensions with no
+problem I mean that if you're just
+
+482
+00:10:59,350 --> 00:10:59,360
+problem I mean that if you're just
+ 
+
+483
+00:10:59,360 --> 00:11:02,440
+problem I mean that if you're just
+seeing what happens if you add two
+
+484
+00:11:02,440 --> 00:11:02,450
+seeing what happens if you add two
+ 
+
+485
+00:11:02,450 --> 00:11:05,650
+seeing what happens if you add two
+vectors in 3d you then you can add them
+
+486
+00:11:05,650 --> 00:11:05,660
+vectors in 3d you then you can add them
+ 
+
+487
+00:11:05,660 --> 00:11:09,000
+vectors in 3d you then you can add them
+in ten D or you're just adding the ten
+
+488
+00:11:09,000 --> 00:11:09,010
+in ten D or you're just adding the ten
+ 
+
+489
+00:11:09,010 --> 00:11:14,140
+in ten D or you're just adding the ten
+components so so I I can't say that I
+
+490
+00:11:14,140 --> 00:11:14,150
+components so so I I can't say that I
+ 
+
+491
+00:11:14,150 --> 00:11:16,240
+components so so I I can't say that I
+have a picture but yet I try to push the
+
+492
+00:11:16,240 --> 00:11:16,250
+have a picture but yet I try to push the
+ 
+
+493
+00:11:16,250 --> 00:11:19,750
+have a picture but yet I try to push the
+class to think of a flat surface in ten
+
+494
+00:11:19,750 --> 00:11:19,760
+class to think of a flat surface in ten
+ 
+
+495
+00:11:19,760 --> 00:11:22,750
+class to think of a flat surface in ten
+dimensions so a plane in ten dimensions
+
+496
+00:11:22,750 --> 00:11:22,760
+dimensions so a plane in ten dimensions
+ 
+
+497
+00:11:22,760 --> 00:11:27,580
+dimensions so a plane in ten dimensions
+and so that's one of the spaces take all
+
+498
+00:11:27,580 --> 00:11:27,590
+and so that's one of the spaces take all
+ 
+
+499
+00:11:27,590 --> 00:11:30,490
+and so that's one of the spaces take all
+the columns of the matrix take all their
+
+500
+00:11:30,490 --> 00:11:30,500
+the columns of the matrix take all their
+ 
+
+501
+00:11:30,500 --> 00:11:33,100
+the columns of the matrix take all their
+combinations so on so much of this
+
+502
+00:11:33,100 --> 00:11:33,110
+combinations so on so much of this
+ 
+
+503
+00:11:33,110 --> 00:11:35,620
+combinations so on so much of this
+column so much of this one then if you
+
+504
+00:11:35,620 --> 00:11:35,630
+column so much of this one then if you
+ 
+
+505
+00:11:35,630 --> 00:11:37,780
+column so much of this one then if you
+put all those together you get some kind
+
+506
+00:11:37,780 --> 00:11:37,790
+put all those together you get some kind
+ 
+
+507
+00:11:37,790 --> 00:11:41,410
+put all those together you get some kind
+of a flat surface that I call a vector
+
+508
+00:11:41,410 --> 00:11:41,420
+of a flat surface that I call a vector
+ 
+
+509
+00:11:41,420 --> 00:11:45,460
+of a flat surface that I call a vector
+space space of vectors and and my
+
+510
+00:11:45,460 --> 00:11:45,470
+space space of vectors and and my
+ 
+
+511
+00:11:45,470 --> 00:11:47,980
+space space of vectors and and my
+imagination is just seeing like a piece
+
+512
+00:11:47,980 --> 00:11:47,990
+imagination is just seeing like a piece
+ 
+
+513
+00:11:47,990 --> 00:11:53,200
+imagination is just seeing like a piece
+of paper in 3d but anyway so that's one
+
+514
+00:11:53,200 --> 00:11:53,210
+of paper in 3d but anyway so that's one
+ 
+
+515
+00:11:53,210 --> 00:11:55,750
+of paper in 3d but anyway so that's one
+of the spaces that's space number one
+
+516
+00:11:55,750 --> 00:11:55,760
+of the spaces that's space number one
+ 
+
+517
+00:11:55,760 --> 00:11:58,690
+of the spaces that's space number one
+the column space of the matrix and then
+
+518
+00:11:58,690 --> 00:11:58,700
+the column space of the matrix and then
+ 
+
+519
+00:11:58,700 --> 00:12:00,970
+the column space of the matrix and then
+there's the row space which is as I said
+
+520
+00:12:00,970 --> 00:12:00,980
+there's the row space which is as I said
+ 
+
+521
+00:12:00,980 --> 00:12:03,670
+there's the row space which is as I said
+different but came came from the same
+
+522
+00:12:03,670 --> 00:12:03,680
+different but came came from the same
+ 
+
+523
+00:12:03,680 --> 00:12:07,120
+different but came came from the same
+numbers so we got the column space all
+
+524
+00:12:07,120 --> 00:12:07,130
+numbers so we got the column space all
+ 
+
+525
+00:12:07,130 --> 00:12:10,540
+numbers so we got the column space all
+combinations of the columns and then
+
+526
+00:12:10,540 --> 00:12:10,550
+combinations of the columns and then
+ 
+
+527
+00:12:10,550 --> 00:12:12,460
+combinations of the columns and then
+we've got the row space all combinations
+
+528
+00:12:12,460 --> 00:12:12,470
+we've got the row space all combinations
+ 
+
+529
+00:12:12,470 --> 00:12:16,240
+we've got the row space all combinations
+of the rows so those are those words are
+
+530
+00:12:16,240 --> 00:12:16,250
+of the rows so those are those words are
+ 
+
+531
+00:12:16,250 --> 00:12:18,910
+of the rows so those are those words are
+easy for me to say and I can't really
+
+532
+00:12:18,910 --> 00:12:18,920
+easy for me to say and I can't really
+ 
+
+533
+00:12:18,920 --> 00:12:21,040
+easy for me to say and I can't really
+draw them on a blackboard but I try with
+
+534
+00:12:21,040 --> 00:12:21,050
+draw them on a blackboard but I try with
+ 
+
+535
+00:12:21,050 --> 00:12:24,250
+draw them on a blackboard but I try with
+my thick chalk everybody everybody likes
+
+536
+00:12:24,250 --> 00:12:24,260
+my thick chalk everybody everybody likes
+ 
+
+537
+00:12:24,260 --> 00:12:27,010
+my thick chalk everybody everybody likes
+that railroad chalk and me too
+
+538
+00:12:27,010 --> 00:12:27,020
+that railroad chalk and me too
+ 
+
+539
+00:12:27,020 --> 00:12:30,150
+that railroad chalk and me too
+I wouldn't use anything else now
+
+540
+00:12:30,150 --> 00:12:30,160
+I wouldn't use anything else now
+ 
+
+541
+00:12:30,160 --> 00:12:33,260
+I wouldn't use anything else now
+and and then the other two spaces are
+
+542
+00:12:33,260 --> 00:12:33,270
+and and then the other two spaces are
+ 
+
+543
+00:12:33,270 --> 00:12:35,820
+and and then the other two spaces are
+perpendicular to those so like if you
+
+544
+00:12:35,820 --> 00:12:35,830
+perpendicular to those so like if you
+ 
+
+545
+00:12:35,830 --> 00:12:40,230
+perpendicular to those so like if you
+have a plane in 3d just a plane is just
+
+546
+00:12:40,230 --> 00:12:40,240
+have a plane in 3d just a plane is just
+ 
+
+547
+00:12:40,240 --> 00:12:44,700
+have a plane in 3d just a plane is just
+a flat surface in 3d then perpendicular
+
+548
+00:12:44,700 --> 00:12:44,710
+a flat surface in 3d then perpendicular
+ 
+
+549
+00:12:44,710 --> 00:12:47,460
+a flat surface in 3d then perpendicular
+to that plane would be a line so that
+
+550
+00:12:47,460 --> 00:12:47,470
+to that plane would be a line so that
+ 
+
+551
+00:12:47,470 --> 00:12:51,300
+to that plane would be a line so that
+would be the null space so we've got two
+
+552
+00:12:51,300 --> 00:12:51,310
+would be the null space so we've got two
+ 
+
+553
+00:12:51,310 --> 00:12:53,640
+would be the null space so we've got two
+we've got a column space a row space and
+
+554
+00:12:53,640 --> 00:12:53,650
+we've got a column space a row space and
+ 
+
+555
+00:12:53,650 --> 00:12:57,060
+we've got a column space a row space and
+they're two perpendicular spaces so
+
+556
+00:12:57,060 --> 00:12:57,070
+they're two perpendicular spaces so
+ 
+
+557
+00:12:57,070 --> 00:13:00,050
+they're two perpendicular spaces so
+those four fit together in the in a
+
+558
+00:13:00,050 --> 00:13:00,060
+those four fit together in the in a
+ 
+
+559
+00:13:00,060 --> 00:13:03,060
+those four fit together in the in a
+beautiful picture of a matrix yeah yeah
+
+560
+00:13:03,060 --> 00:13:03,070
+beautiful picture of a matrix yeah yeah
+ 
+
+561
+00:13:03,070 --> 00:13:05,640
+beautiful picture of a matrix yeah yeah
+it's sort of a fundamental it's not a
+
+562
+00:13:05,640 --> 00:13:05,650
+it's sort of a fundamental it's not a
+ 
+
+563
+00:13:05,650 --> 00:13:08,250
+it's sort of a fundamental it's not a
+difficult idea comes comes pretty early
+
+564
+00:13:08,250 --> 00:13:08,260
+difficult idea comes comes pretty early
+ 
+
+565
+00:13:08,260 --> 00:13:14,520
+difficult idea comes comes pretty early
+in 1806 and it's basic planes in these
+
+566
+00:13:14,520 --> 00:13:14,530
+in 1806 and it's basic planes in these
+ 
+
+567
+00:13:14,530 --> 00:13:17,100
+in 1806 and it's basic planes in these
+multi-dimensional spaces how how
+
+568
+00:13:17,100 --> 00:13:17,110
+multi-dimensional spaces how how
+ 
+
+569
+00:13:17,110 --> 00:13:19,650
+multi-dimensional spaces how how
+difficult of an idea is that to come to
+
+570
+00:13:19,650 --> 00:13:19,660
+difficult of an idea is that to come to
+ 
+
+571
+00:13:19,660 --> 00:13:21,690
+difficult of an idea is that to come to
+do you think if you if you look back in
+
+572
+00:13:21,690 --> 00:13:21,700
+do you think if you if you look back in
+ 
+
+573
+00:13:21,700 --> 00:13:25,710
+do you think if you if you look back in
+time yeah I think mathematically it
+
+574
+00:13:25,710 --> 00:13:25,720
+time yeah I think mathematically it
+ 
+
+575
+00:13:25,720 --> 00:13:27,390
+time yeah I think mathematically it
+makes sense but I don't know if it's
+
+576
+00:13:27,390 --> 00:13:27,400
+makes sense but I don't know if it's
+ 
+
+577
+00:13:27,400 --> 00:13:30,090
+makes sense but I don't know if it's
+intuitive for us to imagine just what
+
+578
+00:13:30,090 --> 00:13:30,100
+intuitive for us to imagine just what
+ 
+
+579
+00:13:30,100 --> 00:13:30,750
+intuitive for us to imagine just what
+we're talking about
+
+580
+00:13:30,750 --> 00:13:30,760
+we're talking about
+ 
+
+581
+00:13:30,760 --> 00:13:33,750
+we're talking about
+feels like calculus is easier to I see
+
+582
+00:13:33,750 --> 00:13:33,760
+feels like calculus is easier to I see
+ 
+
+583
+00:13:33,760 --> 00:13:36,030
+feels like calculus is easier to I see
+into it well calculus I have to admit
+
+584
+00:13:36,030 --> 00:13:36,040
+into it well calculus I have to admit
+ 
+
+585
+00:13:36,040 --> 00:13:38,970
+into it well calculus I have to admit
+calculus came earlier earlier than
+
+586
+00:13:38,970 --> 00:13:38,980
+calculus came earlier earlier than
+ 
+
+587
+00:13:38,980 --> 00:13:40,890
+calculus came earlier earlier than
+linear algebra so Newton and Leibniz
+
+588
+00:13:40,890 --> 00:13:40,900
+linear algebra so Newton and Leibniz
+ 
+
+589
+00:13:40,900 --> 00:13:44,160
+linear algebra so Newton and Leibniz
+were the great men to understand the key
+
+590
+00:13:44,160 --> 00:13:44,170
+were the great men to understand the key
+ 
+
+591
+00:13:44,170 --> 00:13:48,330
+were the great men to understand the key
+ideas of calculus but linear algebra to
+
+592
+00:13:48,330 --> 00:13:48,340
+ideas of calculus but linear algebra to
+ 
+
+593
+00:13:48,340 --> 00:13:51,510
+ideas of calculus but linear algebra to
+me is like okay it's the starting point
+
+594
+00:13:51,510 --> 00:13:51,520
+me is like okay it's the starting point
+ 
+
+595
+00:13:51,520 --> 00:13:53,660
+me is like okay it's the starting point
+because it's all about flat things
+
+596
+00:13:53,660 --> 00:13:53,670
+because it's all about flat things
+ 
+
+597
+00:13:53,670 --> 00:13:56,340
+because it's all about flat things
+calculus has got all the complications
+
+598
+00:13:56,340 --> 00:13:56,350
+calculus has got all the complications
+ 
+
+599
+00:13:56,350 --> 00:13:58,950
+calculus has got all the complications
+of calculus come from the curves the
+
+600
+00:13:58,950 --> 00:13:58,960
+of calculus come from the curves the
+ 
+
+601
+00:13:58,960 --> 00:14:03,420
+of calculus come from the curves the
+bending this is a curved surfaces linear
+
+602
+00:14:03,420 --> 00:14:03,430
+bending this is a curved surfaces linear
+ 
+
+603
+00:14:03,430 --> 00:14:05,490
+bending this is a curved surfaces linear
+algebra the surfaces are all flat
+
+604
+00:14:05,490 --> 00:14:05,500
+algebra the surfaces are all flat
+ 
+
+605
+00:14:05,500 --> 00:14:09,330
+algebra the surfaces are all flat
+nothing bends in linear algebra so it
+
+606
+00:14:09,330 --> 00:14:09,340
+nothing bends in linear algebra so it
+ 
+
+607
+00:14:09,340 --> 00:14:12,170
+nothing bends in linear algebra so it
+should have come first but it didn't and
+
+608
+00:14:12,170 --> 00:14:12,180
+should have come first but it didn't and
+ 
+
+609
+00:14:12,180 --> 00:14:16,170
+should have come first but it didn't and
+calculus also comes first in in high
+
+610
+00:14:16,170 --> 00:14:16,180
+calculus also comes first in in high
+ 
+
+611
+00:14:16,180 --> 00:14:19,740
+calculus also comes first in in high
+school classes in in college class it'll
+
+612
+00:14:19,740 --> 00:14:19,750
+school classes in in college class it'll
+ 
+
+613
+00:14:19,750 --> 00:14:21,870
+school classes in in college class it'll
+be freshman math I'll be calculus and
+
+614
+00:14:21,870 --> 00:14:21,880
+be freshman math I'll be calculus and
+ 
+
+615
+00:14:21,880 --> 00:14:25,890
+be freshman math I'll be calculus and
+then I say enough of it like okay get to
+
+616
+00:14:25,890 --> 00:14:25,900
+then I say enough of it like okay get to
+ 
+
+617
+00:14:25,900 --> 00:14:29,160
+then I say enough of it like okay get to
+get to the good stuff and that you think
+
+618
+00:14:29,160 --> 00:14:29,170
+get to the good stuff and that you think
+ 
+
+619
+00:14:29,170 --> 00:14:30,630
+get to the good stuff and that you think
+linear algebra should come first
+
+620
+00:14:30,630 --> 00:14:30,640
+linear algebra should come first
+ 
+
+621
+00:14:30,640 --> 00:14:33,720
+linear algebra should come first
+well it really yeah I'm okay with it not
+
+622
+00:14:33,720 --> 00:14:33,730
+well it really yeah I'm okay with it not
+ 
+
+623
+00:14:33,730 --> 00:14:36,120
+well it really yeah I'm okay with it not
+coming first but it should yeah
+
+624
+00:14:36,120 --> 00:14:36,130
+coming first but it should yeah
+ 
+
+625
+00:14:36,130 --> 00:14:39,180
+coming first but it should yeah
+it should it's simpler because
+
+626
+00:14:39,180 --> 00:14:39,190
+it should it's simpler because
+ 
+
+627
+00:14:39,190 --> 00:14:40,740
+it should it's simpler because
+everything is flat yeah everything's
+
+628
+00:14:40,740 --> 00:14:40,750
+everything is flat yeah everything's
+ 
+
+629
+00:14:40,750 --> 00:14:43,650
+everything is flat yeah everything's
+flat of course for that reason you
+
+630
+00:14:43,650 --> 00:14:43,660
+flat of course for that reason you
+ 
+
+631
+00:14:43,660 --> 00:14:47,130
+flat of course for that reason you
+sort of sticks to one dimension or so or
+
+632
+00:14:47,130 --> 00:14:47,140
+sort of sticks to one dimension or so or
+ 
+
+633
+00:14:47,140 --> 00:14:49,770
+sort of sticks to one dimension or so or
+eventually you do multivariate but that
+
+634
+00:14:49,770 --> 00:14:49,780
+eventually you do multivariate but that
+ 
+
+635
+00:14:49,780 --> 00:14:52,500
+eventually you do multivariate but that
+basically means two dimensions linear
+
+636
+00:14:52,500 --> 00:14:52,510
+basically means two dimensions linear
+ 
+
+637
+00:14:52,510 --> 00:14:54,300
+basically means two dimensions linear
+algebra you take off into ten dimensions
+
+638
+00:14:54,300 --> 00:14:54,310
+algebra you take off into ten dimensions
+ 
+
+639
+00:14:54,310 --> 00:14:57,060
+algebra you take off into ten dimensions
+no problem it just feels scary and
+
+640
+00:14:57,060 --> 00:14:57,070
+no problem it just feels scary and
+ 
+
+641
+00:14:57,070 --> 00:14:58,950
+no problem it just feels scary and
+dangerous to go beyond two dimensions
+
+642
+00:14:58,950 --> 00:14:58,960
+dangerous to go beyond two dimensions
+ 
+
+643
+00:14:58,960 --> 00:15:02,040
+dangerous to go beyond two dimensions
+that's all if everything is flat you
+
+644
+00:15:02,040 --> 00:15:02,050
+that's all if everything is flat you
+ 
+
+645
+00:15:02,050 --> 00:15:03,420
+that's all if everything is flat you
+can't go wrong
+
+646
+00:15:03,420 --> 00:15:03,430
+can't go wrong
+ 
+
+647
+00:15:03,430 --> 00:15:07,710
+can't go wrong
+so what concept or theorem in linear
+
+648
+00:15:07,710 --> 00:15:07,720
+so what concept or theorem in linear
+ 
+
+649
+00:15:07,720 --> 00:15:11,330
+so what concept or theorem in linear
+algebra or in math you find most
+
+650
+00:15:11,330 --> 00:15:11,340
+algebra or in math you find most
+ 
+
+651
+00:15:11,340 --> 00:15:14,160
+algebra or in math you find most
+beautiful it gives you pause that leaves
+
+652
+00:15:14,160 --> 00:15:14,170
+beautiful it gives you pause that leaves
+ 
+
+653
+00:15:14,170 --> 00:15:16,830
+beautiful it gives you pause that leaves
+you and oh well I'll stick with linear
+
+654
+00:15:16,830 --> 00:15:16,840
+you and oh well I'll stick with linear
+ 
+
+655
+00:15:16,840 --> 00:15:19,470
+you and oh well I'll stick with linear
+algebra here I hope that viewer knows
+
+656
+00:15:19,470 --> 00:15:19,480
+algebra here I hope that viewer knows
+ 
+
+657
+00:15:19,480 --> 00:15:22,050
+algebra here I hope that viewer knows
+that really mathematics is amazing
+
+658
+00:15:22,050 --> 00:15:22,060
+that really mathematics is amazing
+ 
+
+659
+00:15:22,060 --> 00:15:26,540
+that really mathematics is amazing
+amazing subject and deep deep
+
+660
+00:15:26,540 --> 00:15:26,550
+amazing subject and deep deep
+ 
+
+661
+00:15:26,550 --> 00:15:29,130
+amazing subject and deep deep
+connections between ideas that didn't
+
+662
+00:15:29,130 --> 00:15:29,140
+connections between ideas that didn't
+ 
+
+663
+00:15:29,140 --> 00:15:31,890
+connections between ideas that didn't
+look connected some they turned out they
+
+664
+00:15:31,890 --> 00:15:31,900
+look connected some they turned out they
+ 
+
+665
+00:15:31,900 --> 00:15:34,890
+look connected some they turned out they
+were but if we stick with linear algebra
+
+666
+00:15:34,890 --> 00:15:34,900
+were but if we stick with linear algebra
+ 
+
+667
+00:15:34,900 --> 00:15:37,740
+were but if we stick with linear algebra
+so we have a matrix that's like the
+
+668
+00:15:37,740 --> 00:15:37,750
+so we have a matrix that's like the
+ 
+
+669
+00:15:37,750 --> 00:15:40,320
+so we have a matrix that's like the
+basic thing a rectangle of numbers and
+
+670
+00:15:40,320 --> 00:15:40,330
+basic thing a rectangle of numbers and
+ 
+
+671
+00:15:40,330 --> 00:15:42,780
+basic thing a rectangle of numbers and
+might be a rectangle of data you're
+
+672
+00:15:42,780 --> 00:15:42,790
+might be a rectangle of data you're
+ 
+
+673
+00:15:42,790 --> 00:15:44,690
+might be a rectangle of data you're
+probably going to ask me later about
+
+674
+00:15:44,690 --> 00:15:44,700
+probably going to ask me later about
+ 
+
+675
+00:15:44,700 --> 00:15:49,230
+probably going to ask me later about
+data science where and often data comes
+
+676
+00:15:49,230 --> 00:15:49,240
+data science where and often data comes
+ 
+
+677
+00:15:49,240 --> 00:15:53,130
+data science where and often data comes
+in a matrix you have you know maybe
+
+678
+00:15:53,130 --> 00:15:53,140
+in a matrix you have you know maybe
+ 
+
+679
+00:15:53,140 --> 00:15:57,000
+in a matrix you have you know maybe
+every column corresponds to a to a drug
+
+680
+00:15:57,000 --> 00:15:57,010
+every column corresponds to a to a drug
+ 
+
+681
+00:15:57,010 --> 00:16:00,180
+every column corresponds to a to a drug
+in every row corresponds to a patient
+
+682
+00:16:00,180 --> 00:16:00,190
+in every row corresponds to a patient
+ 
+
+683
+00:16:00,190 --> 00:16:05,250
+in every row corresponds to a patient
+and and if the patient reacted favorably
+
+684
+00:16:05,250 --> 00:16:05,260
+and and if the patient reacted favorably
+ 
+
+685
+00:16:05,260 --> 00:16:07,800
+and and if the patient reacted favorably
+to the drug then you put up some
+
+686
+00:16:07,800 --> 00:16:07,810
+to the drug then you put up some
+ 
+
+687
+00:16:07,810 --> 00:16:11,030
+to the drug then you put up some
+positive number in there anyway
+
+688
+00:16:11,030 --> 00:16:11,040
+positive number in there anyway
+ 
+
+689
+00:16:11,040 --> 00:16:14,730
+positive number in there anyway
+rectangle of numbers a matrix is basic
+
+690
+00:16:14,730 --> 00:16:14,740
+rectangle of numbers a matrix is basic
+ 
+
+691
+00:16:14,740 --> 00:16:18,150
+rectangle of numbers a matrix is basic
+so the big problem is to understand all
+
+692
+00:16:18,150 --> 00:16:18,160
+so the big problem is to understand all
+ 
+
+693
+00:16:18,160 --> 00:16:20,670
+so the big problem is to understand all
+those numbers you got a big big set of
+
+694
+00:16:20,670 --> 00:16:20,680
+those numbers you got a big big set of
+ 
+
+695
+00:16:20,680 --> 00:16:23,670
+those numbers you got a big big set of
+numbers and what are the patterns what's
+
+696
+00:16:23,670 --> 00:16:23,680
+numbers and what are the patterns what's
+ 
+
+697
+00:16:23,680 --> 00:16:29,100
+numbers and what are the patterns what's
+going on and so one of the ways to break
+
+698
+00:16:29,100 --> 00:16:29,110
+going on and so one of the ways to break
+ 
+
+699
+00:16:29,110 --> 00:16:33,050
+going on and so one of the ways to break
+down that matrix into simple pieces is
+
+700
+00:16:33,050 --> 00:16:33,060
+down that matrix into simple pieces is
+ 
+
+701
+00:16:33,060 --> 00:16:36,300
+down that matrix into simple pieces is
+uses something called singular values
+
+702
+00:16:36,300 --> 00:16:36,310
+uses something called singular values
+ 
+
+703
+00:16:36,310 --> 00:16:41,970
+uses something called singular values
+and that's come on as fundamental in the
+
+704
+00:16:41,970 --> 00:16:41,980
+and that's come on as fundamental in the
+ 
+
+705
+00:16:41,980 --> 00:16:45,930
+and that's come on as fundamental in the
+last and certainly in my lifetime I can
+
+706
+00:16:45,930 --> 00:16:45,940
+last and certainly in my lifetime I can
+ 
+
+707
+00:16:45,940 --> 00:16:48,330
+last and certainly in my lifetime I can
+values bro you if you have viewers
+
+708
+00:16:48,330 --> 00:16:48,340
+values bro you if you have viewers
+ 
+
+709
+00:16:48,340 --> 00:16:52,500
+values bro you if you have viewers
+who've done engineering math or or more
+
+710
+00:16:52,500 --> 00:16:52,510
+who've done engineering math or or more
+ 
+
+711
+00:16:52,510 --> 00:16:55,500
+who've done engineering math or or more
+basic linear algebra eigenvalues were in
+
+712
+00:16:55,500 --> 00:16:55,510
+basic linear algebra eigenvalues were in
+ 
+
+713
+00:16:55,510 --> 00:16:56,900
+basic linear algebra eigenvalues were in
+there
+
+714
+00:16:56,900 --> 00:16:56,910
+there
+ 
+
+715
+00:16:56,910 --> 00:16:58,910
+there
+but those are restricted to square
+
+716
+00:16:58,910 --> 00:16:58,920
+but those are restricted to square
+ 
+
+717
+00:16:58,920 --> 00:17:01,940
+but those are restricted to square
+matrices and data comes in rectangular
+
+718
+00:17:01,940 --> 00:17:01,950
+matrices and data comes in rectangular
+ 
+
+719
+00:17:01,950 --> 00:17:04,189
+matrices and data comes in rectangular
+matrices so you got to take that you got
+
+720
+00:17:04,189 --> 00:17:04,199
+matrices so you got to take that you got
+ 
+
+721
+00:17:04,199 --> 00:17:06,590
+matrices so you got to take that you got
+to take that next step I'm I'm always
+
+722
+00:17:06,590 --> 00:17:06,600
+to take that next step I'm I'm always
+ 
+
+723
+00:17:06,600 --> 00:17:10,460
+to take that next step I'm I'm always
+pushing math faculty get on do it don't
+
+724
+00:17:10,460 --> 00:17:10,470
+pushing math faculty get on do it don't
+ 
+
+725
+00:17:10,470 --> 00:17:11,090
+pushing math faculty get on do it don't
+do it
+
+726
+00:17:11,090 --> 00:17:11,100
+do it
+ 
+
+727
+00:17:11,100 --> 00:17:15,740
+do it
+do it singular values so those are a way
+
+728
+00:17:15,740 --> 00:17:15,750
+do it singular values so those are a way
+ 
+
+729
+00:17:15,750 --> 00:17:20,300
+do it singular values so those are a way
+to break to make to find these the
+
+730
+00:17:20,300 --> 00:17:20,310
+to break to make to find these the
+ 
+
+731
+00:17:20,310 --> 00:17:23,510
+to break to make to find these the
+important pieces of the matrix which add
+
+732
+00:17:23,510 --> 00:17:23,520
+important pieces of the matrix which add
+ 
+
+733
+00:17:23,520 --> 00:17:25,640
+important pieces of the matrix which add
+up to the whole matrix so so you're
+
+734
+00:17:25,640 --> 00:17:25,650
+up to the whole matrix so so you're
+ 
+
+735
+00:17:25,650 --> 00:17:29,530
+up to the whole matrix so so you're
+breaking a matrix into simple pieces and
+
+736
+00:17:29,530 --> 00:17:29,540
+breaking a matrix into simple pieces and
+ 
+
+737
+00:17:29,540 --> 00:17:32,270
+breaking a matrix into simple pieces and
+the first piece is the most important
+
+738
+00:17:32,270 --> 00:17:32,280
+the first piece is the most important
+ 
+
+739
+00:17:32,280 --> 00:17:34,310
+the first piece is the most important
+part of the data the second piece is the
+
+740
+00:17:34,310 --> 00:17:34,320
+part of the data the second piece is the
+ 
+
+741
+00:17:34,320 --> 00:17:38,060
+part of the data the second piece is the
+second most important part and then
+
+742
+00:17:38,060 --> 00:17:38,070
+second most important part and then
+ 
+
+743
+00:17:38,070 --> 00:17:41,570
+second most important part and then
+often so a data scientist will like if
+
+744
+00:17:41,570 --> 00:17:41,580
+often so a data scientist will like if
+ 
+
+745
+00:17:41,580 --> 00:17:45,290
+often so a data scientist will like if
+if a data scientist can find those first
+
+746
+00:17:45,290 --> 00:17:45,300
+if a data scientist can find those first
+ 
+
+747
+00:17:45,300 --> 00:17:48,380
+if a data scientist can find those first
+and second pieces stop there the rest of
+
+748
+00:17:48,380 --> 00:17:48,390
+and second pieces stop there the rest of
+ 
+
+749
+00:17:48,390 --> 00:17:52,850
+and second pieces stop there the rest of
+of the data is probably round off you
+
+750
+00:17:52,850 --> 00:17:52,860
+of the data is probably round off you
+ 
+
+751
+00:17:52,860 --> 00:17:56,990
+of the data is probably round off you
+know we're yeah experimental error maybe
+
+752
+00:17:56,990 --> 00:17:57,000
+know we're yeah experimental error maybe
+ 
+
+753
+00:17:57,000 --> 00:17:59,480
+know we're yeah experimental error maybe
+so you're looking for the important part
+
+754
+00:17:59,480 --> 00:17:59,490
+so you're looking for the important part
+ 
+
+755
+00:17:59,490 --> 00:18:02,030
+so you're looking for the important part
+yeah so what do you find beautiful about
+
+756
+00:18:02,030 --> 00:18:02,040
+yeah so what do you find beautiful about
+ 
+
+757
+00:18:02,040 --> 00:18:04,370
+yeah so what do you find beautiful about
+singular values well yeah I didn't give
+
+758
+00:18:04,370 --> 00:18:04,380
+singular values well yeah I didn't give
+ 
+
+759
+00:18:04,380 --> 00:18:07,430
+singular values well yeah I didn't give
+the theorem so here's the here's the
+
+760
+00:18:07,430 --> 00:18:07,440
+the theorem so here's the here's the
+ 
+
+761
+00:18:07,440 --> 00:18:10,190
+the theorem so here's the here's the
+idea of singular values every matrix
+
+762
+00:18:10,190 --> 00:18:10,200
+idea of singular values every matrix
+ 
+
+763
+00:18:10,200 --> 00:18:14,270
+idea of singular values every matrix
+every matrix rectangular square whatever
+
+764
+00:18:14,270 --> 00:18:14,280
+every matrix rectangular square whatever
+ 
+
+765
+00:18:14,280 --> 00:18:17,450
+every matrix rectangular square whatever
+you can be written as a product of three
+
+766
+00:18:17,450 --> 00:18:17,460
+you can be written as a product of three
+ 
+
+767
+00:18:17,460 --> 00:18:20,300
+you can be written as a product of three
+very simple special matrices so that's
+
+768
+00:18:20,300 --> 00:18:20,310
+very simple special matrices so that's
+ 
+
+769
+00:18:20,310 --> 00:18:22,490
+very simple special matrices so that's
+the theorem every matrix can be written
+
+770
+00:18:22,490 --> 00:18:22,500
+the theorem every matrix can be written
+ 
+
+771
+00:18:22,500 --> 00:18:26,710
+the theorem every matrix can be written
+as a rotation times a stretch which is
+
+772
+00:18:26,710 --> 00:18:26,720
+as a rotation times a stretch which is
+ 
+
+773
+00:18:26,720 --> 00:18:30,650
+as a rotation times a stretch which is
+just a matrix diagonal matrix otherwise
+
+774
+00:18:30,650 --> 00:18:30,660
+just a matrix diagonal matrix otherwise
+ 
+
+775
+00:18:30,660 --> 00:18:33,950
+just a matrix diagonal matrix otherwise
+all zeros except on the one diagonal and
+
+776
+00:18:33,950 --> 00:18:33,960
+all zeros except on the one diagonal and
+ 
+
+777
+00:18:33,960 --> 00:18:36,530
+all zeros except on the one diagonal and
+then a third and the third factor is
+
+778
+00:18:36,530 --> 00:18:36,540
+then a third and the third factor is
+ 
+
+779
+00:18:36,540 --> 00:18:39,970
+then a third and the third factor is
+another rotation so rotation stretch
+
+780
+00:18:39,970 --> 00:18:39,980
+another rotation so rotation stretch
+ 
+
+781
+00:18:39,980 --> 00:18:44,300
+another rotation so rotation stretch
+rotation is the breakup of a of any
+
+782
+00:18:44,300 --> 00:18:44,310
+rotation is the breakup of a of any
+ 
+
+783
+00:18:44,310 --> 00:18:47,540
+rotation is the breakup of a of any
+matrix the structure that the ability
+
+784
+00:18:47,540 --> 00:18:47,550
+matrix the structure that the ability
+ 
+
+785
+00:18:47,550 --> 00:18:49,280
+matrix the structure that the ability
+that you can do that what do you find
+
+786
+00:18:49,280 --> 00:18:49,290
+that you can do that what do you find
+ 
+
+787
+00:18:49,290 --> 00:18:50,390
+that you can do that what do you find
+appealing what do you find beautiful
+
+788
+00:18:50,390 --> 00:18:50,400
+appealing what do you find beautiful
+ 
+
+789
+00:18:50,400 --> 00:18:53,720
+appealing what do you find beautiful
+bodies well geometrically as I freely
+
+790
+00:18:53,720 --> 00:18:53,730
+bodies well geometrically as I freely
+ 
+
+791
+00:18:53,730 --> 00:18:57,350
+bodies well geometrically as I freely
+admit the mate action of a matrix it's
+
+792
+00:18:57,350 --> 00:18:57,360
+admit the mate action of a matrix it's
+ 
+
+793
+00:18:57,360 --> 00:19:00,200
+admit the mate action of a matrix it's
+not so easy to visualize but everybody
+
+794
+00:19:00,200 --> 00:19:00,210
+not so easy to visualize but everybody
+ 
+
+795
+00:19:00,210 --> 00:19:04,030
+not so easy to visualize but everybody
+can visualize a rotation take-take-take
+
+796
+00:19:04,030 --> 00:19:04,040
+can visualize a rotation take-take-take
+ 
+
+797
+00:19:04,040 --> 00:19:06,110
+can visualize a rotation take-take-take
+two-dimensional space and just turn it
+
+798
+00:19:06,110 --> 00:19:06,120
+two-dimensional space and just turn it
+ 
+
+799
+00:19:06,120 --> 00:19:09,140
+two-dimensional space and just turn it
+around the around the center
+
+800
+00:19:09,140 --> 00:19:09,150
+around the around the center
+ 
+
+801
+00:19:09,150 --> 00:19:11,420
+around the around the center
+take three-dimensional space so a pilot
+
+802
+00:19:11,420 --> 00:19:11,430
+take three-dimensional space so a pilot
+ 
+
+803
+00:19:11,430 --> 00:19:13,970
+take three-dimensional space so a pilot
+has to know about well what are the
+
+804
+00:19:13,970 --> 00:19:13,980
+has to know about well what are the
+ 
+
+805
+00:19:13,980 --> 00:19:16,940
+has to know about well what are the
+three the yaw is one of them I've
+
+806
+00:19:16,940 --> 00:19:16,950
+three the yaw is one of them I've
+ 
+
+807
+00:19:16,950 --> 00:19:19,520
+three the yaw is one of them I've
+forgotten all the three turns that a
+
+808
+00:19:19,520 --> 00:19:19,530
+forgotten all the three turns that a
+ 
+
+809
+00:19:19,530 --> 00:19:23,510
+forgotten all the three turns that a
+pilot makes up to ten dimensions you've
+
+810
+00:19:23,510 --> 00:19:23,520
+pilot makes up to ten dimensions you've
+ 
+
+811
+00:19:23,520 --> 00:19:26,630
+pilot makes up to ten dimensions you've
+got ten ways to turn but you can
+
+812
+00:19:26,630 --> 00:19:26,640
+got ten ways to turn but you can
+ 
+
+813
+00:19:26,640 --> 00:19:29,390
+got ten ways to turn but you can
+visualize a rotation take the space and
+
+814
+00:19:29,390 --> 00:19:29,400
+visualize a rotation take the space and
+ 
+
+815
+00:19:29,400 --> 00:19:31,880
+visualize a rotation take the space and
+turn it and you can visualize a stretch
+
+816
+00:19:31,880 --> 00:19:31,890
+turn it and you can visualize a stretch
+ 
+
+817
+00:19:31,890 --> 00:19:36,370
+turn it and you can visualize a stretch
+so to break a a matrix with all those
+
+818
+00:19:36,370 --> 00:19:36,380
+so to break a a matrix with all those
+ 
+
+819
+00:19:36,380 --> 00:19:40,310
+so to break a a matrix with all those
+numbers in it into something you can
+
+820
+00:19:40,310 --> 00:19:40,320
+numbers in it into something you can
+ 
+
+821
+00:19:40,320 --> 00:19:43,730
+numbers in it into something you can
+visualize rotate stretch rotate it's
+
+822
+00:19:43,730 --> 00:19:43,740
+visualize rotate stretch rotate it's
+ 
+
+823
+00:19:43,740 --> 00:19:46,070
+visualize rotate stretch rotate it's
+pretty neat pretty neat that's pretty
+
+824
+00:19:46,070 --> 00:19:46,080
+pretty neat pretty neat that's pretty
+ 
+
+825
+00:19:46,080 --> 00:19:50,960
+pretty neat pretty neat that's pretty
+powerful on YouTube just consuming a
+
+826
+00:19:50,960 --> 00:19:50,970
+powerful on YouTube just consuming a
+ 
+
+827
+00:19:50,970 --> 00:19:53,000
+powerful on YouTube just consuming a
+bunch of videos and just watching what
+
+828
+00:19:53,000 --> 00:19:53,010
+bunch of videos and just watching what
+ 
+
+829
+00:19:53,010 --> 00:19:55,340
+bunch of videos and just watching what
+people connect with and what they really
+
+830
+00:19:55,340 --> 00:19:55,350
+people connect with and what they really
+ 
+
+831
+00:19:55,350 --> 00:19:58,190
+people connect with and what they really
+enjoy and are inspired by math seems to
+
+832
+00:19:58,190 --> 00:19:58,200
+enjoy and are inspired by math seems to
+ 
+
+833
+00:19:58,200 --> 00:20:02,480
+enjoy and are inspired by math seems to
+come up again and again I I'm trying to
+
+834
+00:20:02,480 --> 00:20:02,490
+come up again and again I I'm trying to
+ 
+
+835
+00:20:02,490 --> 00:20:04,610
+come up again and again I I'm trying to
+understand why that is perhaps you can
+
+836
+00:20:04,610 --> 00:20:04,620
+understand why that is perhaps you can
+ 
+
+837
+00:20:04,620 --> 00:20:06,650
+understand why that is perhaps you can
+help yeah I mean give me clues so it's
+
+838
+00:20:06,650 --> 00:20:06,660
+help yeah I mean give me clues so it's
+ 
+
+839
+00:20:06,660 --> 00:20:09,290
+help yeah I mean give me clues so it's
+not just to let the kinds of lectures
+
+840
+00:20:09,290 --> 00:20:09,300
+not just to let the kinds of lectures
+ 
+
+841
+00:20:09,300 --> 00:20:12,590
+not just to let the kinds of lectures
+that you give but it's also just other
+
+842
+00:20:12,590 --> 00:20:12,600
+that you give but it's also just other
+ 
+
+843
+00:20:12,600 --> 00:20:14,330
+that you give but it's also just other
+folks were like with numberphile there's
+
+844
+00:20:14,330 --> 00:20:14,340
+folks were like with numberphile there's
+ 
+
+845
+00:20:14,340 --> 00:20:16,250
+folks were like with numberphile there's
+a channel where they just chat about
+
+846
+00:20:16,250 --> 00:20:16,260
+a channel where they just chat about
+ 
+
+847
+00:20:16,260 --> 00:20:18,350
+a channel where they just chat about
+things that are extremely complicated
+
+848
+00:20:18,350 --> 00:20:18,360
+things that are extremely complicated
+ 
+
+849
+00:20:18,360 --> 00:20:19,370
+things that are extremely complicated
+actually
+
+850
+00:20:19,370 --> 00:20:19,380
+actually
+ 
+
+851
+00:20:19,380 --> 00:20:21,410
+actually
+yeah people nevertheless connect with
+
+852
+00:20:21,410 --> 00:20:21,420
+yeah people nevertheless connect with
+ 
+
+853
+00:20:21,420 --> 00:20:23,810
+yeah people nevertheless connect with
+them you know what do you think that is
+
+854
+00:20:23,810 --> 00:20:23,820
+them you know what do you think that is
+ 
+
+855
+00:20:23,820 --> 00:20:26,330
+them you know what do you think that is
+what it's wonderful isn't it I mean I
+
+856
+00:20:26,330 --> 00:20:26,340
+what it's wonderful isn't it I mean I
+ 
+
+857
+00:20:26,340 --> 00:20:28,700
+what it's wonderful isn't it I mean I
+wasn't really aware of it do so we're
+
+858
+00:20:28,700 --> 00:20:28,710
+wasn't really aware of it do so we're
+ 
+
+859
+00:20:28,710 --> 00:20:31,340
+wasn't really aware of it do so we're
+we're conditioned to think math is hard
+
+860
+00:20:31,340 --> 00:20:31,350
+we're conditioned to think math is hard
+ 
+
+861
+00:20:31,350 --> 00:20:34,850
+we're conditioned to think math is hard
+math is abstract math is just for a few
+
+862
+00:20:34,850 --> 00:20:34,860
+math is abstract math is just for a few
+ 
+
+863
+00:20:34,860 --> 00:20:37,070
+math is abstract math is just for a few
+people but it isn't that way a lot of
+
+864
+00:20:37,070 --> 00:20:37,080
+people but it isn't that way a lot of
+ 
+
+865
+00:20:37,080 --> 00:20:41,390
+people but it isn't that way a lot of
+people quite like math and they liked it
+
+866
+00:20:41,390 --> 00:20:41,400
+people quite like math and they liked it
+ 
+
+867
+00:20:41,400 --> 00:20:43,880
+people quite like math and they liked it
+I get messages from people saying you
+
+868
+00:20:43,880 --> 00:20:43,890
+I get messages from people saying you
+ 
+
+869
+00:20:43,890 --> 00:20:45,530
+I get messages from people saying you
+know now I'm retired I'm gonna learn
+
+870
+00:20:45,530 --> 00:20:45,540
+know now I'm retired I'm gonna learn
+ 
+
+871
+00:20:45,540 --> 00:20:48,110
+know now I'm retired I'm gonna learn
+some more math I get a lot of those it's
+
+872
+00:20:48,110 --> 00:20:48,120
+some more math I get a lot of those it's
+ 
+
+873
+00:20:48,120 --> 00:20:50,660
+some more math I get a lot of those it's
+really encouraging and I think what
+
+874
+00:20:50,660 --> 00:20:50,670
+really encouraging and I think what
+ 
+
+875
+00:20:50,670 --> 00:20:52,790
+really encouraging and I think what
+people like is that there's some order
+
+876
+00:20:52,790 --> 00:20:52,800
+people like is that there's some order
+ 
+
+877
+00:20:52,800 --> 00:20:55,250
+people like is that there's some order
+you know a lot of order and or you know
+
+878
+00:20:55,250 --> 00:20:55,260
+you know a lot of order and or you know
+ 
+
+879
+00:20:55,260 --> 00:20:59,680
+you know a lot of order and or you know
+things are not obvious but they're true
+
+880
+00:20:59,680 --> 00:20:59,690
+things are not obvious but they're true
+ 
+
+881
+00:20:59,690 --> 00:21:03,140
+things are not obvious but they're true
+so it's really cheering to think that
+
+882
+00:21:03,140 --> 00:21:03,150
+so it's really cheering to think that
+ 
+
+883
+00:21:03,150 --> 00:21:07,010
+so it's really cheering to think that
+that so many people really want to learn
+
+884
+00:21:07,010 --> 00:21:07,020
+that so many people really want to learn
+ 
+
+885
+00:21:07,020 --> 00:21:10,270
+that so many people really want to learn
+more about math yeah in terms of truth
+
+886
+00:21:10,270 --> 00:21:10,280
+more about math yeah in terms of truth
+ 
+
+887
+00:21:10,280 --> 00:21:15,110
+more about math yeah in terms of truth
+again sorry to slide into philosophy at
+
+888
+00:21:15,110 --> 00:21:15,120
+again sorry to slide into philosophy at
+ 
+
+889
+00:21:15,120 --> 00:21:19,070
+again sorry to slide into philosophy at
+times yeah math does reveal pretty
+
+890
+00:21:19,070 --> 00:21:19,080
+times yeah math does reveal pretty
+ 
+
+891
+00:21:19,080 --> 00:21:21,470
+times yeah math does reveal pretty
+strongly what things are true
+
+892
+00:21:21,470 --> 00:21:21,480
+strongly what things are true
+ 
+
+893
+00:21:21,480 --> 00:21:22,850
+strongly what things are true
+yeah I mean it's the whole point of
+
+894
+00:21:22,850 --> 00:21:22,860
+yeah I mean it's the whole point of
+ 
+
+895
+00:21:22,860 --> 00:21:26,600
+yeah I mean it's the whole point of
+proving things is and yet sort of our
+
+896
+00:21:26,600 --> 00:21:26,610
+proving things is and yet sort of our
+ 
+
+897
+00:21:26,610 --> 00:21:31,009
+proving things is and yet sort of our
+real world is messy and complicated what
+
+898
+00:21:31,009 --> 00:21:31,019
+real world is messy and complicated what
+ 
+
+899
+00:21:31,019 --> 00:21:33,080
+real world is messy and complicated what
+do you think about the nature of truth
+
+900
+00:21:33,080 --> 00:21:33,090
+do you think about the nature of truth
+ 
+
+901
+00:21:33,090 --> 00:21:36,080
+do you think about the nature of truth
+that math reveals oh wow because it is a
+
+902
+00:21:36,080 --> 00:21:36,090
+that math reveals oh wow because it is a
+ 
+
+903
+00:21:36,090 --> 00:21:37,669
+that math reveals oh wow because it is a
+source of comfort like you've mentioned
+
+904
+00:21:37,669 --> 00:21:37,679
+source of comfort like you've mentioned
+ 
+
+905
+00:21:37,679 --> 00:21:39,139
+source of comfort like you've mentioned
+yeah that's right
+
+906
+00:21:39,139 --> 00:21:39,149
+yeah that's right
+ 
+
+907
+00:21:39,149 --> 00:21:41,720
+yeah that's right
+well I have to say I'm not much of a
+
+908
+00:21:41,720 --> 00:21:41,730
+well I have to say I'm not much of a
+ 
+
+909
+00:21:41,730 --> 00:21:44,659
+well I have to say I'm not much of a
+philosopher I just like numbers you know
+
+910
+00:21:44,659 --> 00:21:44,669
+philosopher I just like numbers you know
+ 
+
+911
+00:21:44,669 --> 00:21:47,899
+philosopher I just like numbers you know
+I think yeah I would you this was before
+
+912
+00:21:47,899 --> 00:21:47,909
+I think yeah I would you this was before
+ 
+
+913
+00:21:47,909 --> 00:21:52,639
+I think yeah I would you this was before
+you had you had to go in when you're in
+
+914
+00:21:52,639 --> 00:21:52,649
+you had you had to go in when you're in
+ 
+
+915
+00:21:52,649 --> 00:21:54,560
+you had you had to go in when you're in
+the other filling your teeth yeah I kind
+
+916
+00:21:54,560 --> 00:21:54,570
+the other filling your teeth yeah I kind
+ 
+
+917
+00:21:54,570 --> 00:21:57,649
+the other filling your teeth yeah I kind
+of just take it yeah so I what I did was
+
+918
+00:21:57,649 --> 00:21:57,659
+of just take it yeah so I what I did was
+ 
+
+919
+00:21:57,659 --> 00:21:59,659
+of just take it yeah so I what I did was
+think about math you know like take
+
+920
+00:21:59,659 --> 00:21:59,669
+think about math you know like take
+ 
+
+921
+00:21:59,669 --> 00:22:04,100
+think about math you know like take
+powers of 2 2 4 8 16 up until the time
+
+922
+00:22:04,100 --> 00:22:04,110
+powers of 2 2 4 8 16 up until the time
+ 
+
+923
+00:22:04,110 --> 00:22:06,470
+powers of 2 2 4 8 16 up until the time
+the two stopped hurting and the dentist
+
+924
+00:22:06,470 --> 00:22:06,480
+the two stopped hurting and the dentist
+ 
+
+925
+00:22:06,480 --> 00:22:10,940
+the two stopped hurting and the dentist
+said you're through or Counting yeah so
+
+926
+00:22:10,940 --> 00:22:10,950
+said you're through or Counting yeah so
+ 
+
+927
+00:22:10,950 --> 00:22:13,310
+said you're through or Counting yeah so
+so that was the source of just such a
+
+928
+00:22:13,310 --> 00:22:13,320
+so that was the source of just such a
+ 
+
+929
+00:22:13,320 --> 00:22:17,480
+so that was the source of just such a
+piece almost yeah what what what what is
+
+930
+00:22:17,480 --> 00:22:17,490
+piece almost yeah what what what what is
+ 
+
+931
+00:22:17,490 --> 00:22:19,250
+piece almost yeah what what what what is
+it about math you think that brings that
+
+932
+00:22:19,250 --> 00:22:19,260
+it about math you think that brings that
+ 
+
+933
+00:22:19,260 --> 00:22:21,799
+it about math you think that brings that
+yeah what is that well you know where
+
+934
+00:22:21,799 --> 00:22:21,809
+yeah what is that well you know where
+ 
+
+935
+00:22:21,809 --> 00:22:24,350
+yeah what is that well you know where
+you are yeah symmetry it's it's
+
+936
+00:22:24,350 --> 00:22:24,360
+you are yeah symmetry it's it's
+ 
+
+937
+00:22:24,360 --> 00:22:27,139
+you are yeah symmetry it's it's
+certainty the fact that you know if
+
+938
+00:22:27,139 --> 00:22:27,149
+certainty the fact that you know if
+ 
+
+939
+00:22:27,149 --> 00:22:30,019
+certainty the fact that you know if
+you'd to if you multiply 2 by itself 10
+
+940
+00:22:30,019 --> 00:22:30,029
+you'd to if you multiply 2 by itself 10
+ 
+
+941
+00:22:30,029 --> 00:22:32,629
+you'd to if you multiply 2 by itself 10
+times you get a thousand 24 period
+
+942
+00:22:32,629 --> 00:22:32,639
+times you get a thousand 24 period
+ 
+
+943
+00:22:32,639 --> 00:22:35,149
+times you get a thousand 24 period
+that's everybody's gonna get that do you
+
+944
+00:22:35,149 --> 00:22:35,159
+that's everybody's gonna get that do you
+ 
+
+945
+00:22:35,159 --> 00:22:38,419
+that's everybody's gonna get that do you
+see math is a powerful tool or is an art
+
+946
+00:22:38,419 --> 00:22:38,429
+see math is a powerful tool or is an art
+ 
+
+947
+00:22:38,429 --> 00:22:41,389
+see math is a powerful tool or is an art
+form so it's both that's that's really
+
+948
+00:22:41,389 --> 00:22:41,399
+form so it's both that's that's really
+ 
+
+949
+00:22:41,399 --> 00:22:43,580
+form so it's both that's that's really
+one of the neat things you can you can
+
+950
+00:22:43,580 --> 00:22:43,590
+one of the neat things you can you can
+ 
+
+951
+00:22:43,590 --> 00:22:46,730
+one of the neat things you can you can
+be an artist and and like math you can
+
+952
+00:22:46,730 --> 00:22:46,740
+be an artist and and like math you can
+ 
+
+953
+00:22:46,740 --> 00:22:51,680
+be an artist and and like math you can
+be a engineer and use math which are you
+
+954
+00:22:51,680 --> 00:22:51,690
+be a engineer and use math which are you
+ 
+
+955
+00:22:51,690 --> 00:22:54,409
+be a engineer and use math which are you
+which am I what did you connect with
+
+956
+00:22:54,409 --> 00:22:54,419
+which am I what did you connect with
+ 
+
+957
+00:22:54,419 --> 00:22:57,470
+which am I what did you connect with
+most yeah I'm in here between I'm
+
+958
+00:22:57,470 --> 00:22:57,480
+most yeah I'm in here between I'm
+ 
+
+959
+00:22:57,480 --> 00:23:00,769
+most yeah I'm in here between I'm
+certainly not a artist type philosopher
+
+960
+00:23:00,769 --> 00:23:00,779
+certainly not a artist type philosopher
+ 
+
+961
+00:23:00,779 --> 00:23:02,930
+certainly not a artist type philosopher
+type person might sound that way this
+
+962
+00:23:02,930 --> 00:23:02,940
+type person might sound that way this
+ 
+
+963
+00:23:02,940 --> 00:23:07,730
+type person might sound that way this
+morning but I'm not yeah I I really
+
+964
+00:23:07,730 --> 00:23:07,740
+morning but I'm not yeah I I really
+ 
+
+965
+00:23:07,740 --> 00:23:10,340
+morning but I'm not yeah I I really
+enjoy teaching engineers because they
+
+966
+00:23:10,340 --> 00:23:10,350
+enjoy teaching engineers because they
+ 
+
+967
+00:23:10,350 --> 00:23:16,159
+enjoy teaching engineers because they
+they they go for an answer and yeah so
+
+968
+00:23:16,159 --> 00:23:16,169
+they they go for an answer and yeah so
+ 
+
+969
+00:23:16,169 --> 00:23:18,710
+they they go for an answer and yeah so
+of probably within the mountain MIT math
+
+970
+00:23:18,710 --> 00:23:18,720
+of probably within the mountain MIT math
+ 
+
+971
+00:23:18,720 --> 00:23:22,730
+of probably within the mountain MIT math
+department most people enjoy teaching
+
+972
+00:23:22,730 --> 00:23:22,740
+department most people enjoy teaching
+ 
+
+973
+00:23:22,740 --> 00:23:25,340
+department most people enjoy teaching
+people teaching students who get the
+
+974
+00:23:25,340 --> 00:23:25,350
+people teaching students who get the
+ 
+
+975
+00:23:25,350 --> 00:23:29,779
+people teaching students who get the
+abstract idea I'm okay with with I'm
+
+976
+00:23:29,779 --> 00:23:29,789
+abstract idea I'm okay with with I'm
+ 
+
+977
+00:23:29,789 --> 00:23:32,990
+abstract idea I'm okay with with I'm
+good with engineers who are looking for
+
+978
+00:23:32,990 --> 00:23:33,000
+good with engineers who are looking for
+ 
+
+979
+00:23:33,000 --> 00:23:34,700
+good with engineers who are looking for
+a way to find answers
+
+980
+00:23:34,700 --> 00:23:34,710
+a way to find answers
+ 
+
+981
+00:23:34,710 --> 00:23:36,620
+a way to find answers
+yeah actually that's a interesting
+
+982
+00:23:36,620 --> 00:23:36,630
+yeah actually that's a interesting
+ 
+
+983
+00:23:36,630 --> 00:23:39,440
+yeah actually that's a interesting
+question do you think do you think for
+
+984
+00:23:39,440 --> 00:23:39,450
+question do you think do you think for
+ 
+
+985
+00:23:39,450 --> 00:23:41,659
+question do you think do you think for
+teaching and in general but thinking
+
+986
+00:23:41,659 --> 00:23:41,669
+teaching and in general but thinking
+ 
+
+987
+00:23:41,669 --> 00:23:43,159
+teaching and in general but thinking
+about new concepts do you think it's
+
+988
+00:23:43,159 --> 00:23:43,169
+about new concepts do you think it's
+ 
+
+989
+00:23:43,169 --> 00:23:47,659
+about new concepts do you think it's
+better to plug in the numbers or to
+
+990
+00:23:47,659 --> 00:23:47,669
+better to plug in the numbers or to
+ 
+
+991
+00:23:47,669 --> 00:23:51,380
+better to plug in the numbers or to
+think more abstractly so looking at
+
+992
+00:23:51,380 --> 00:23:51,390
+think more abstractly so looking at
+ 
+
+993
+00:23:51,390 --> 00:23:53,659
+think more abstractly so looking at
+theorems and proving the theorems or
+
+994
+00:23:53,659 --> 00:23:53,669
+theorems and proving the theorems or
+ 
+
+995
+00:23:53,669 --> 00:23:56,149
+theorems and proving the theorems or
+actually you know building up a
+
+996
+00:23:56,149 --> 00:23:56,159
+actually you know building up a
+ 
+
+997
+00:23:56,159 --> 00:23:58,250
+actually you know building up a
+basically tuition of the theorem or the
+
+998
+00:23:58,250 --> 00:23:58,260
+basically tuition of the theorem or the
+ 
+
+999
+00:23:58,260 --> 00:24:00,380
+basically tuition of the theorem or the
+method the approach and then just
+
+1000
+00:24:00,380 --> 00:24:00,390
+method the approach and then just
+ 
+
+1001
+00:24:00,390 --> 00:24:02,659
+method the approach and then just
+plugging in numbers and seeing it work
+
+1002
+00:24:02,659 --> 00:24:02,669
+plugging in numbers and seeing it work
+ 
+
+1003
+00:24:02,669 --> 00:24:07,190
+plugging in numbers and seeing it work
+you know well certainly many of us like
+
+1004
+00:24:07,190 --> 00:24:07,200
+you know well certainly many of us like
+ 
+
+1005
+00:24:07,200 --> 00:24:11,090
+you know well certainly many of us like
+to see examples first we understand it
+
+1006
+00:24:11,090 --> 00:24:11,100
+to see examples first we understand it
+ 
+
+1007
+00:24:11,100 --> 00:24:13,220
+to see examples first we understand it
+might be a pretty abstract sounding
+
+1008
+00:24:13,220 --> 00:24:13,230
+might be a pretty abstract sounding
+ 
+
+1009
+00:24:13,230 --> 00:24:15,620
+might be a pretty abstract sounding
+example like a three dimensional
+
+1010
+00:24:15,620 --> 00:24:15,630
+example like a three dimensional
+ 
+
+1011
+00:24:15,630 --> 00:24:18,350
+example like a three dimensional
+rotation how are you gonna how are you
+
+1012
+00:24:18,350 --> 00:24:18,360
+rotation how are you gonna how are you
+ 
+
+1013
+00:24:18,360 --> 00:24:23,090
+rotation how are you gonna how are you
+gonna understand a rotation in 3d or in
+
+1014
+00:24:23,090 --> 00:24:23,100
+gonna understand a rotation in 3d or in
+ 
+
+1015
+00:24:23,100 --> 00:24:29,240
+gonna understand a rotation in 3d or in
+10 D or but and then some of us like to
+
+1016
+00:24:29,240 --> 00:24:29,250
+10 D or but and then some of us like to
+ 
+
+1017
+00:24:29,250 --> 00:24:31,460
+10 D or but and then some of us like to
+keep going with it to the point where
+
+1018
+00:24:31,460 --> 00:24:31,470
+keep going with it to the point where
+ 
+
+1019
+00:24:31,470 --> 00:24:34,850
+keep going with it to the point where
+you got numbers where you got 10 angles
+
+1020
+00:24:34,850 --> 00:24:34,860
+you got numbers where you got 10 angles
+ 
+
+1021
+00:24:34,860 --> 00:24:41,779
+you got numbers where you got 10 angles
+10 axes 10 angles but the best the great
+
+1022
+00:24:41,779 --> 00:24:41,789
+10 axes 10 angles but the best the great
+ 
+
+1023
+00:24:41,789 --> 00:24:43,909
+10 axes 10 angles but the best the great
+mathematicians is probably I don't know
+
+1024
+00:24:43,909 --> 00:24:43,919
+mathematicians is probably I don't know
+ 
+
+1025
+00:24:43,919 --> 00:24:46,669
+mathematicians is probably I don't know
+if they do that because they they for
+
+1026
+00:24:46,669 --> 00:24:46,679
+if they do that because they they for
+ 
+
+1027
+00:24:46,679 --> 00:24:52,130
+if they do that because they they for
+them for them an example would be a
+
+1028
+00:24:52,130 --> 00:24:52,140
+them for them an example would be a
+ 
+
+1029
+00:24:52,140 --> 00:24:54,620
+them for them an example would be a
+highly abstract thing to the rest of it
+
+1030
+00:24:54,620 --> 00:24:54,630
+highly abstract thing to the rest of it
+ 
+
+1031
+00:24:54,630 --> 00:24:56,299
+highly abstract thing to the rest of it
+right but nevertheless working within
+
+1032
+00:24:56,299 --> 00:24:56,309
+right but nevertheless working within
+ 
+
+1033
+00:24:56,309 --> 00:24:58,370
+right but nevertheless working within
+the space of examples yeah example it
+
+1034
+00:24:58,370 --> 00:24:58,380
+the space of examples yeah example it
+ 
+
+1035
+00:24:58,380 --> 00:25:02,210
+the space of examples yeah example it
+seems to examples of structure our brain
+
+1036
+00:25:02,210 --> 00:25:02,220
+seems to examples of structure our brain
+ 
+
+1037
+00:25:02,220 --> 00:25:04,760
+seems to examples of structure our brain
+seemed to connect with that yeah yeah so
+
+1038
+00:25:04,760 --> 00:25:04,770
+seemed to connect with that yeah yeah so
+ 
+
+1039
+00:25:04,770 --> 00:25:06,830
+seemed to connect with that yeah yeah so
+uh I'm not sure if you're familiar with
+
+1040
+00:25:06,830 --> 00:25:06,840
+uh I'm not sure if you're familiar with
+ 
+
+1041
+00:25:06,840 --> 00:25:09,560
+uh I'm not sure if you're familiar with
+him but Andrew yang is the presidential
+
+1042
+00:25:09,560 --> 00:25:09,570
+him but Andrew yang is the presidential
+ 
+
+1043
+00:25:09,570 --> 00:25:14,510
+him but Andrew yang is the presidential
+candidate currently running yeah with
+
+1044
+00:25:14,510 --> 00:25:14,520
+candidate currently running yeah with
+ 
+
+1045
+00:25:14,520 --> 00:25:17,240
+candidate currently running yeah with
+the math in all capital letters and his
+
+1046
+00:25:17,240 --> 00:25:17,250
+the math in all capital letters and his
+ 
+
+1047
+00:25:17,250 --> 00:25:20,120
+the math in all capital letters and his
+hats as a slogan Isis stands for make
+
+1048
+00:25:20,120 --> 00:25:20,130
+hats as a slogan Isis stands for make
+ 
+
+1049
+00:25:20,130 --> 00:25:24,310
+hats as a slogan Isis stands for make
+America think hard okay I'll vote for it
+
+1050
+00:25:24,310 --> 00:25:24,320
+America think hard okay I'll vote for it
+ 
+
+1051
+00:25:24,320 --> 00:25:27,500
+America think hard okay I'll vote for it
+so and his name rhymes with yours yang
+
+1052
+00:25:27,500 --> 00:25:27,510
+so and his name rhymes with yours yang
+ 
+
+1053
+00:25:27,510 --> 00:25:30,019
+so and his name rhymes with yours yang
+strang so but he also loves math and
+
+1054
+00:25:30,019 --> 00:25:30,029
+strang so but he also loves math and
+ 
+
+1055
+00:25:30,029 --> 00:25:32,960
+strang so but he also loves math and
+then he comes from that world but he
+
+1056
+00:25:32,960 --> 00:25:32,970
+then he comes from that world but he
+ 
+
+1057
+00:25:32,970 --> 00:25:36,500
+then he comes from that world but he
+also looking at it makes me realize that
+
+1058
+00:25:36,500 --> 00:25:36,510
+also looking at it makes me realize that
+ 
+
+1059
+00:25:36,510 --> 00:25:38,899
+also looking at it makes me realize that
+math science and engineering are not
+
+1060
+00:25:38,899 --> 00:25:38,909
+math science and engineering are not
+ 
+
+1061
+00:25:38,909 --> 00:25:42,260
+math science and engineering are not
+really part of our politics right
+
+1062
+00:25:42,260 --> 00:25:42,270
+really part of our politics right
+ 
+
+1063
+00:25:42,270 --> 00:25:44,090
+really part of our politics right
+political discourse about political a
+
+1064
+00:25:44,090 --> 00:25:44,100
+political discourse about political a
+ 
+
+1065
+00:25:44,100 --> 00:25:46,730
+political discourse about political a
+government in general yeah what do you
+
+1066
+00:25:46,730 --> 00:25:46,740
+government in general yeah what do you
+ 
+
+1067
+00:25:46,740 --> 00:25:47,760
+government in general yeah what do you
+think
+
+1068
+00:25:47,760 --> 00:25:47,770
+think
+ 
+
+1069
+00:25:47,770 --> 00:25:50,340
+think
+that is well what are your thoughts on
+
+1070
+00:25:50,340 --> 00:25:50,350
+that is well what are your thoughts on
+ 
+
+1071
+00:25:50,350 --> 00:25:52,020
+that is well what are your thoughts on
+that in general well certainly somewhere
+
+1072
+00:25:52,020 --> 00:25:52,030
+that in general well certainly somewhere
+ 
+
+1073
+00:25:52,030 --> 00:25:54,840
+that in general well certainly somewhere
+in this system we need people who are
+
+1074
+00:25:54,840 --> 00:25:54,850
+in this system we need people who are
+ 
+
+1075
+00:25:54,850 --> 00:25:57,360
+in this system we need people who are
+comfortable with numbers comfortable
+
+1076
+00:25:57,360 --> 00:25:57,370
+comfortable with numbers comfortable
+ 
+
+1077
+00:25:57,370 --> 00:25:59,730
+comfortable with numbers comfortable
+with quantities you know if you if you
+
+1078
+00:25:59,730 --> 00:25:59,740
+with quantities you know if you if you
+ 
+
+1079
+00:25:59,740 --> 00:26:04,580
+with quantities you know if you if you
+say this leads to that they see it it's
+
+1080
+00:26:04,580 --> 00:26:04,590
+say this leads to that they see it it's
+ 
+
+1081
+00:26:04,590 --> 00:26:07,290
+say this leads to that they see it it's
+undeniable but isn't it strange to you
+
+1082
+00:26:07,290 --> 00:26:07,300
+undeniable but isn't it strange to you
+ 
+
+1083
+00:26:07,300 --> 00:26:10,620
+undeniable but isn't it strange to you
+that we have almost no I mean I'm pretty
+
+1084
+00:26:10,620 --> 00:26:10,630
+that we have almost no I mean I'm pretty
+ 
+
+1085
+00:26:10,630 --> 00:26:14,340
+that we have almost no I mean I'm pretty
+sure we have no elected officials in
+
+1086
+00:26:14,340 --> 00:26:14,350
+sure we have no elected officials in
+ 
+
+1087
+00:26:14,350 --> 00:26:17,940
+sure we have no elected officials in
+Congress or obviously the president yeah
+
+1088
+00:26:17,940 --> 00:26:17,950
+Congress or obviously the president yeah
+ 
+
+1089
+00:26:17,950 --> 00:26:21,480
+Congress or obviously the president yeah
+that is either it has an engineering
+
+1090
+00:26:21,480 --> 00:26:21,490
+that is either it has an engineering
+ 
+
+1091
+00:26:21,490 --> 00:26:24,510
+that is either it has an engineering
+degree or a mess yeah well that's too
+
+1092
+00:26:24,510 --> 00:26:24,520
+degree or a mess yeah well that's too
+ 
+
+1093
+00:26:24,520 --> 00:26:29,430
+degree or a mess yeah well that's too
+bad you know a few could a few who could
+
+1094
+00:26:29,430 --> 00:26:29,440
+bad you know a few could a few who could
+ 
+
+1095
+00:26:29,440 --> 00:26:31,620
+bad you know a few could a few who could
+make the connection yeah it would have
+
+1096
+00:26:31,620 --> 00:26:31,630
+make the connection yeah it would have
+ 
+
+1097
+00:26:31,630 --> 00:26:34,830
+make the connection yeah it would have
+to be people who are at the door who
+
+1098
+00:26:34,830 --> 00:26:34,840
+to be people who are at the door who
+ 
+
+1099
+00:26:34,840 --> 00:26:37,049
+to be people who are at the door who
+understand engineering or science and at
+
+1100
+00:26:37,049 --> 00:26:37,059
+understand engineering or science and at
+ 
+
+1101
+00:26:37,059 --> 00:26:42,049
+understand engineering or science and at
+the same time can make speeches and and
+
+1102
+00:26:42,049 --> 00:26:42,059
+the same time can make speeches and and
+ 
+
+1103
+00:26:42,059 --> 00:26:46,740
+the same time can make speeches and and
+lead yeah inspire people yeah yeah you
+
+1104
+00:26:46,740 --> 00:26:46,750
+lead yeah inspire people yeah yeah you
+ 
+
+1105
+00:26:46,750 --> 00:26:49,169
+lead yeah inspire people yeah yeah you
+were speaking of inspiration the
+
+1106
+00:26:49,169 --> 00:26:49,179
+were speaking of inspiration the
+ 
+
+1107
+00:26:49,179 --> 00:26:51,030
+were speaking of inspiration the
+president of the Society for industrial
+
+1108
+00:26:51,030 --> 00:26:51,040
+president of the Society for industrial
+ 
+
+1109
+00:26:51,040 --> 00:26:54,390
+president of the Society for industrial
+applied mathematics oh yeah as a major
+
+1110
+00:26:54,390 --> 00:26:54,400
+applied mathematics oh yeah as a major
+ 
+
+1111
+00:26:54,400 --> 00:26:58,320
+applied mathematics oh yeah as a major
+organization in math and Padma what do
+
+1112
+00:26:58,320 --> 00:26:58,330
+organization in math and Padma what do
+ 
+
+1113
+00:26:58,330 --> 00:27:01,320
+organization in math and Padma what do
+you see as a role of that society you
+
+1114
+00:27:01,320 --> 00:27:01,330
+you see as a role of that society you
+ 
+
+1115
+00:27:01,330 --> 00:27:03,900
+you see as a role of that society you
+know in our public discourse right yeah
+
+1116
+00:27:03,900 --> 00:27:03,910
+know in our public discourse right yeah
+ 
+
+1117
+00:27:03,910 --> 00:27:06,450
+know in our public discourse right yeah
+so well it was fun to be president at
+
+1118
+00:27:06,450 --> 00:27:06,460
+so well it was fun to be president at
+ 
+
+1119
+00:27:06,460 --> 00:27:09,840
+so well it was fun to be president at
+the at the time of years year two years
+
+1120
+00:27:09,840 --> 00:27:09,850
+the at the time of years year two years
+ 
+
+1121
+00:27:09,850 --> 00:27:15,180
+the at the time of years year two years
+around around 2000 his hope as president
+
+1122
+00:27:15,180 --> 00:27:15,190
+around around 2000 his hope as president
+ 
+
+1123
+00:27:15,190 --> 00:27:16,919
+around around 2000 his hope as president
+of a pretty small society but
+
+1124
+00:27:16,919 --> 00:27:16,929
+of a pretty small society but
+ 
+
+1125
+00:27:16,929 --> 00:27:19,830
+of a pretty small society but
+nevertheless it was a time when math was
+
+1126
+00:27:19,830 --> 00:27:19,840
+nevertheless it was a time when math was
+ 
+
+1127
+00:27:19,840 --> 00:27:23,070
+nevertheless it was a time when math was
+getting some more attention in
+
+1128
+00:27:23,070 --> 00:27:23,080
+getting some more attention in
+ 
+
+1129
+00:27:23,080 --> 00:27:26,490
+getting some more attention in
+Washington but yeah I got to give a
+
+1130
+00:27:26,490 --> 00:27:26,500
+Washington but yeah I got to give a
+ 
+
+1131
+00:27:26,500 --> 00:27:32,010
+Washington but yeah I got to give a
+little 10 minutes to into committee of
+
+1132
+00:27:32,010 --> 00:27:32,020
+little 10 minutes to into committee of
+ 
+
+1133
+00:27:32,020 --> 00:27:33,450
+little 10 minutes to into committee of
+the House of Representatives
+
+1134
+00:27:33,450 --> 00:27:33,460
+the House of Representatives
+ 
+
+1135
+00:27:33,460 --> 00:27:36,419
+the House of Representatives
+talking about why mint and then actually
+
+1136
+00:27:36,419 --> 00:27:36,429
+talking about why mint and then actually
+ 
+
+1137
+00:27:36,429 --> 00:27:39,810
+talking about why mint and then actually
+it was fun because one of the members of
+
+1138
+00:27:39,810 --> 00:27:39,820
+it was fun because one of the members of
+ 
+
+1139
+00:27:39,820 --> 00:27:43,590
+it was fun because one of the members of
+the house he had been a student had been
+
+1140
+00:27:43,590 --> 00:27:43,600
+the house he had been a student had been
+ 
+
+1141
+00:27:43,600 --> 00:27:45,540
+the house he had been a student had been
+in my class what do you think of that
+
+1142
+00:27:45,540 --> 00:27:45,550
+in my class what do you think of that
+ 
+
+1143
+00:27:45,550 --> 00:27:48,840
+in my class what do you think of that
+yeah as you say a pretty rare most most
+
+1144
+00:27:48,840 --> 00:27:48,850
+yeah as you say a pretty rare most most
+ 
+
+1145
+00:27:48,850 --> 00:27:50,460
+yeah as you say a pretty rare most most
+members of the House have had a
+
+1146
+00:27:50,460 --> 00:27:50,470
+members of the House have had a
+ 
+
+1147
+00:27:50,470 --> 00:27:52,710
+members of the House have had a
+different training different background
+
+1148
+00:27:52,710 --> 00:27:52,720
+different training different background
+ 
+
+1149
+00:27:52,720 --> 00:27:56,430
+different training different background
+but there was one from New Hampshire who
+
+1150
+00:27:56,430 --> 00:27:56,440
+but there was one from New Hampshire who
+ 
+
+1151
+00:27:56,440 --> 00:28:00,990
+but there was one from New Hampshire who
+who was my friend really bye-bye being
+
+1152
+00:28:00,990 --> 00:28:01,000
+who was my friend really bye-bye being
+ 
+
+1153
+00:28:01,000 --> 00:28:01,780
+who was my friend really bye-bye being
+in the class
+
+1154
+00:28:01,780 --> 00:28:01,790
+in the class
+ 
+
+1155
+00:28:01,790 --> 00:28:05,920
+in the class
+yeah so that those years were good then
+
+1156
+00:28:05,920 --> 00:28:05,930
+yeah so that those years were good then
+ 
+
+1157
+00:28:05,930 --> 00:28:10,450
+yeah so that those years were good then
+of course other things take take over
+
+1158
+00:28:10,450 --> 00:28:10,460
+of course other things take take over
+ 
+
+1159
+00:28:10,460 --> 00:28:13,030
+of course other things take take over
+and importance in Washington and maths
+
+1160
+00:28:13,030 --> 00:28:13,040
+and importance in Washington and maths
+ 
+
+1161
+00:28:13,040 --> 00:28:17,560
+and importance in Washington and maths
+math just at this point is not so
+
+1162
+00:28:17,560 --> 00:28:17,570
+math just at this point is not so
+ 
+
+1163
+00:28:17,570 --> 00:28:19,840
+math just at this point is not so
+visible but for a little moment it was
+
+1164
+00:28:19,840 --> 00:28:19,850
+visible but for a little moment it was
+ 
+
+1165
+00:28:19,850 --> 00:28:23,170
+visible but for a little moment it was
+there's some excitement some concern
+
+1166
+00:28:23,170 --> 00:28:23,180
+there's some excitement some concern
+ 
+
+1167
+00:28:23,180 --> 00:28:25,270
+there's some excitement some concern
+about artificial intelligence in
+
+1168
+00:28:25,270 --> 00:28:25,280
+about artificial intelligence in
+ 
+
+1169
+00:28:25,280 --> 00:28:27,610
+about artificial intelligence in
+Washington now yes about the future yeah
+
+1170
+00:28:27,610 --> 00:28:27,620
+Washington now yes about the future yeah
+ 
+
+1171
+00:28:27,620 --> 00:28:29,500
+Washington now yes about the future yeah
+and I think at the core of that is math
+
+1172
+00:28:29,500 --> 00:28:29,510
+and I think at the core of that is math
+ 
+
+1173
+00:28:29,510 --> 00:28:32,380
+and I think at the core of that is math
+well it is yeah yeah but maybe it's
+
+1174
+00:28:32,380 --> 00:28:32,390
+well it is yeah yeah but maybe it's
+ 
+
+1175
+00:28:32,390 --> 00:28:33,700
+well it is yeah yeah but maybe it's
+hidden maybe he's wearing a different
+
+1176
+00:28:33,700 --> 00:28:33,710
+hidden maybe he's wearing a different
+ 
+
+1177
+00:28:33,710 --> 00:28:37,360
+hidden maybe he's wearing a different
+hat but uh well artificial intelligence
+
+1178
+00:28:37,360 --> 00:28:37,370
+hat but uh well artificial intelligence
+ 
+
+1179
+00:28:37,370 --> 00:28:40,060
+hat but uh well artificial intelligence
+and and particularly can I use the words
+
+1180
+00:28:40,060 --> 00:28:40,070
+and and particularly can I use the words
+ 
+
+1181
+00:28:40,070 --> 00:28:42,670
+and and particularly can I use the words
+deep learning it's a deep learning is a
+
+1182
+00:28:42,670 --> 00:28:42,680
+deep learning it's a deep learning is a
+ 
+
+1183
+00:28:42,680 --> 00:28:46,990
+deep learning it's a deep learning is a
+particular approach to understanding
+
+1184
+00:28:46,990 --> 00:28:47,000
+particular approach to understanding
+ 
+
+1185
+00:28:47,000 --> 00:28:49,360
+particular approach to understanding
+data again you've got a big a whole lot
+
+1186
+00:28:49,360 --> 00:28:49,370
+data again you've got a big a whole lot
+ 
+
+1187
+00:28:49,370 --> 00:28:53,970
+data again you've got a big a whole lot
+of data where data is just swapping the
+
+1188
+00:28:53,970 --> 00:28:53,980
+of data where data is just swapping the
+ 
+
+1189
+00:28:53,980 --> 00:28:58,180
+of data where data is just swapping the
+computers of the world and and - and
+
+1190
+00:28:58,180 --> 00:28:58,190
+computers of the world and and - and
+ 
+
+1191
+00:28:58,190 --> 00:29:00,550
+computers of the world and and - and
+understand it out of all those numbers
+
+1192
+00:29:00,550 --> 00:29:00,560
+understand it out of all those numbers
+ 
+
+1193
+00:29:00,560 --> 00:29:03,060
+understand it out of all those numbers
+to find what's important you know in
+
+1194
+00:29:03,060 --> 00:29:03,070
+to find what's important you know in
+ 
+
+1195
+00:29:03,070 --> 00:29:06,520
+to find what's important you know in
+climate in everything and artificial
+
+1196
+00:29:06,520 --> 00:29:06,530
+climate in everything and artificial
+ 
+
+1197
+00:29:06,530 --> 00:29:10,060
+climate in everything and artificial
+intelligence is two words for for one
+
+1198
+00:29:10,060 --> 00:29:10,070
+intelligence is two words for for one
+ 
+
+1199
+00:29:10,070 --> 00:29:12,550
+intelligence is two words for for one
+approach to data deep learning is a
+
+1200
+00:29:12,550 --> 00:29:12,560
+approach to data deep learning is a
+ 
+
+1201
+00:29:12,560 --> 00:29:16,330
+approach to data deep learning is a
+specific approach there which uses a lot
+
+1202
+00:29:16,330 --> 00:29:16,340
+specific approach there which uses a lot
+ 
+
+1203
+00:29:16,340 --> 00:29:19,360
+specific approach there which uses a lot
+of linear algebra so I got into it I
+
+1204
+00:29:19,360 --> 00:29:19,370
+of linear algebra so I got into it I
+ 
+
+1205
+00:29:19,370 --> 00:29:20,620
+of linear algebra so I got into it I
+thought okay I've got to learn about
+
+1206
+00:29:20,620 --> 00:29:20,630
+thought okay I've got to learn about
+ 
+
+1207
+00:29:20,630 --> 00:29:24,190
+thought okay I've got to learn about
+this so maybe from your perspective and
+
+1208
+00:29:24,190 --> 00:29:24,200
+this so maybe from your perspective and
+ 
+
+1209
+00:29:24,200 --> 00:29:27,280
+this so maybe from your perspective and
+I asked the this most basic question
+
+1210
+00:29:27,280 --> 00:29:27,290
+I asked the this most basic question
+ 
+
+1211
+00:29:27,290 --> 00:29:29,770
+I asked the this most basic question
+yeah how do you think of a neural
+
+1212
+00:29:29,770 --> 00:29:29,780
+yeah how do you think of a neural
+ 
+
+1213
+00:29:29,780 --> 00:29:31,540
+yeah how do you think of a neural
+network what is it and you're on the 1
+
+1214
+00:29:31,540 --> 00:29:31,550
+network what is it and you're on the 1
+ 
+
+1215
+00:29:31,550 --> 00:29:36,370
+network what is it and you're on the 1
+yeah ok so can I start with a idea about
+
+1216
+00:29:36,370 --> 00:29:36,380
+yeah ok so can I start with a idea about
+ 
+
+1217
+00:29:36,380 --> 00:29:38,260
+yeah ok so can I start with a idea about
+deep learning what does that mean sure
+
+1218
+00:29:38,260 --> 00:29:38,270
+deep learning what does that mean sure
+ 
+
+1219
+00:29:38,270 --> 00:29:40,510
+deep learning what does that mean sure
+what is deep learning what is deep
+
+1220
+00:29:40,510 --> 00:29:40,520
+what is deep learning what is deep
+ 
+
+1221
+00:29:40,520 --> 00:29:43,930
+what is deep learning what is deep
+learning yeah so so we're trying to
+
+1222
+00:29:43,930 --> 00:29:43,940
+learning yeah so so we're trying to
+ 
+
+1223
+00:29:43,940 --> 00:29:46,360
+learning yeah so so we're trying to
+learn from all this day that we're
+
+1224
+00:29:46,360 --> 00:29:46,370
+learn from all this day that we're
+ 
+
+1225
+00:29:46,370 --> 00:29:48,040
+learn from all this day that we're
+trying to learn what's important what
+
+1226
+00:29:48,040 --> 00:29:48,050
+trying to learn what's important what
+ 
+
+1227
+00:29:48,050 --> 00:29:50,770
+trying to learn what's important what
+was some What's it telling us so you've
+
+1228
+00:29:50,770 --> 00:29:50,780
+was some What's it telling us so you've
+ 
+
+1229
+00:29:50,780 --> 00:29:54,610
+was some What's it telling us so you've
+you've got data you've got some inputs
+
+1230
+00:29:54,610 --> 00:29:54,620
+you've got data you've got some inputs
+ 
+
+1231
+00:29:54,620 --> 00:29:57,760
+you've got data you've got some inputs
+for which you know the right outputs the
+
+1232
+00:29:57,760 --> 00:29:57,770
+for which you know the right outputs the
+ 
+
+1233
+00:29:57,770 --> 00:30:01,060
+for which you know the right outputs the
+question is can you see the pattern
+
+1234
+00:30:01,060 --> 00:30:01,070
+question is can you see the pattern
+ 
+
+1235
+00:30:01,070 --> 00:30:03,850
+question is can you see the pattern
+there can you figure out a way for a new
+
+1236
+00:30:03,850 --> 00:30:03,860
+there can you figure out a way for a new
+ 
+
+1237
+00:30:03,860 --> 00:30:07,510
+there can you figure out a way for a new
+input which we haven't seen to to get
+
+1238
+00:30:07,510 --> 00:30:07,520
+input which we haven't seen to to get
+ 
+
+1239
+00:30:07,520 --> 00:30:10,570
+input which we haven't seen to to get
+the to understand what the output will
+
+1240
+00:30:10,570 --> 00:30:10,580
+the to understand what the output will
+ 
+
+1241
+00:30:10,580 --> 00:30:12,910
+the to understand what the output will
+be from that new input so we've got a
+
+1242
+00:30:12,910 --> 00:30:12,920
+be from that new input so we've got a
+ 
+
+1243
+00:30:12,920 --> 00:30:15,200
+be from that new input so we've got a
+million inputs with their out
+
+1244
+00:30:15,200 --> 00:30:15,210
+million inputs with their out
+ 
+
+1245
+00:30:15,210 --> 00:30:19,100
+million inputs with their out
+so we're trying to create some patterns
+
+1246
+00:30:19,100 --> 00:30:19,110
+so we're trying to create some patterns
+ 
+
+1247
+00:30:19,110 --> 00:30:22,039
+so we're trying to create some patterns
+some rule that'll take those inputs
+
+1248
+00:30:22,039 --> 00:30:22,049
+some rule that'll take those inputs
+ 
+
+1249
+00:30:22,049 --> 00:30:24,380
+some rule that'll take those inputs
+those million training inputs which we
+
+1250
+00:30:24,380 --> 00:30:24,390
+those million training inputs which we
+ 
+
+1251
+00:30:24,390 --> 00:30:26,810
+those million training inputs which we
+know about to the correct million
+
+1252
+00:30:26,810 --> 00:30:26,820
+know about to the correct million
+ 
+
+1253
+00:30:26,820 --> 00:30:32,419
+know about to the correct million
+outputs and this idea of a neural net is
+
+1254
+00:30:32,419 --> 00:30:32,429
+outputs and this idea of a neural net is
+ 
+
+1255
+00:30:32,429 --> 00:30:36,889
+outputs and this idea of a neural net is
+part of the structure of the of our new
+
+1256
+00:30:36,889 --> 00:30:36,899
+part of the structure of the of our new
+ 
+
+1257
+00:30:36,899 --> 00:30:40,820
+part of the structure of the of our new
+way to create a create a rule we're
+
+1258
+00:30:40,820 --> 00:30:40,830
+way to create a create a rule we're
+ 
+
+1259
+00:30:40,830 --> 00:30:44,060
+way to create a create a rule we're
+looking for a rule that will take these
+
+1260
+00:30:44,060 --> 00:30:44,070
+looking for a rule that will take these
+ 
+
+1261
+00:30:44,070 --> 00:30:48,409
+looking for a rule that will take these
+training inputs to the known outputs and
+
+1262
+00:30:48,409 --> 00:30:48,419
+training inputs to the known outputs and
+ 
+
+1263
+00:30:48,419 --> 00:30:50,960
+training inputs to the known outputs and
+then we're going to use that rule on new
+
+1264
+00:30:50,960 --> 00:30:50,970
+then we're going to use that rule on new
+ 
+
+1265
+00:30:50,970 --> 00:30:54,350
+then we're going to use that rule on new
+inputs that we don't know the output and
+
+1266
+00:30:54,350 --> 00:30:54,360
+inputs that we don't know the output and
+ 
+
+1267
+00:30:54,360 --> 00:30:56,960
+inputs that we don't know the output and
+see what comes the linear algebra is a
+
+1268
+00:30:56,960 --> 00:30:56,970
+see what comes the linear algebra is a
+ 
+
+1269
+00:30:56,970 --> 00:30:58,970
+see what comes the linear algebra is a
+big part of defining a finding that rule
+
+1270
+00:30:58,970 --> 00:30:58,980
+big part of defining a finding that rule
+ 
+
+1271
+00:30:58,980 --> 00:31:01,159
+big part of defining a finding that rule
+that's right linear algebra is a big
+
+1272
+00:31:01,159 --> 00:31:01,169
+that's right linear algebra is a big
+ 
+
+1273
+00:31:01,169 --> 00:31:03,980
+that's right linear algebra is a big
+part not all the part people were
+
+1274
+00:31:03,980 --> 00:31:03,990
+part not all the part people were
+ 
+
+1275
+00:31:03,990 --> 00:31:07,480
+part not all the part people were
+leaning on matrices that's good still do
+
+1276
+00:31:07,480 --> 00:31:07,490
+leaning on matrices that's good still do
+ 
+
+1277
+00:31:07,490 --> 00:31:10,130
+leaning on matrices that's good still do
+linear is something special
+
+1278
+00:31:10,130 --> 00:31:10,140
+linear is something special
+ 
+
+1279
+00:31:10,140 --> 00:31:12,590
+linear is something special
+it's all about straight lines and flat
+
+1280
+00:31:12,590 --> 00:31:12,600
+it's all about straight lines and flat
+ 
+
+1281
+00:31:12,600 --> 00:31:17,750
+it's all about straight lines and flat
+planes and and and data isn't quite like
+
+1282
+00:31:17,750 --> 00:31:17,760
+planes and and and data isn't quite like
+ 
+
+1283
+00:31:17,760 --> 00:31:20,810
+planes and and and data isn't quite like
+that you know it's it's more complicated
+
+1284
+00:31:20,810 --> 00:31:20,820
+that you know it's it's more complicated
+ 
+
+1285
+00:31:20,820 --> 00:31:22,340
+that you know it's it's more complicated
+so you got to introduce some
+
+1286
+00:31:22,340 --> 00:31:22,350
+so you got to introduce some
+ 
+
+1287
+00:31:22,350 --> 00:31:24,860
+so you got to introduce some
+complication so you have to have some
+
+1288
+00:31:24,860 --> 00:31:24,870
+complication so you have to have some
+ 
+
+1289
+00:31:24,870 --> 00:31:27,320
+complication so you have to have some
+function that's not a straight line and
+
+1290
+00:31:27,320 --> 00:31:27,330
+function that's not a straight line and
+ 
+
+1291
+00:31:27,330 --> 00:31:30,320
+function that's not a straight line and
+it not only doubt it on linear nonlinear
+
+1292
+00:31:30,320 --> 00:31:30,330
+it not only doubt it on linear nonlinear
+ 
+
+1293
+00:31:30,330 --> 00:31:32,930
+it not only doubt it on linear nonlinear
+nonlinear and it turned out that the it
+
+1294
+00:31:32,930 --> 00:31:32,940
+nonlinear and it turned out that the it
+ 
+
+1295
+00:31:32,940 --> 00:31:35,990
+nonlinear and it turned out that the it
+was enough to use the function that's
+
+1296
+00:31:35,990 --> 00:31:36,000
+was enough to use the function that's
+ 
+
+1297
+00:31:36,000 --> 00:31:37,700
+was enough to use the function that's
+one straight line and then a different
+
+1298
+00:31:37,700 --> 00:31:37,710
+one straight line and then a different
+ 
+
+1299
+00:31:37,710 --> 00:31:41,480
+one straight line and then a different
+one halfway that's so piecewise then he
+
+1300
+00:31:41,480 --> 00:31:41,490
+one halfway that's so piecewise then he
+ 
+
+1301
+00:31:41,490 --> 00:31:44,810
+one halfway that's so piecewise then he
+said one piece has one slope one piece
+
+1302
+00:31:44,810 --> 00:31:44,820
+said one piece has one slope one piece
+ 
+
+1303
+00:31:44,820 --> 00:31:47,860
+said one piece has one slope one piece
+the other piece has the second slope and
+
+1304
+00:31:47,860 --> 00:31:47,870
+the other piece has the second slope and
+ 
+
+1305
+00:31:47,870 --> 00:31:51,200
+the other piece has the second slope and
+so that introduced getting that
+
+1306
+00:31:51,200 --> 00:31:51,210
+so that introduced getting that
+ 
+
+1307
+00:31:51,210 --> 00:31:55,460
+so that introduced getting that
+nonlinear simple non-linearity in blue
+
+1308
+00:31:55,460 --> 00:31:55,470
+nonlinear simple non-linearity in blue
+ 
+
+1309
+00:31:55,470 --> 00:31:57,529
+nonlinear simple non-linearity in blue
+the problem open that little piece makes
+
+1310
+00:31:57,529 --> 00:31:57,539
+the problem open that little piece makes
+ 
+
+1311
+00:31:57,539 --> 00:31:59,450
+the problem open that little piece makes
+it sufficiently complicated to make
+
+1312
+00:31:59,450 --> 00:31:59,460
+it sufficiently complicated to make
+ 
+
+1313
+00:31:59,460 --> 00:32:00,950
+it sufficiently complicated to make
+things interesting because you're gonna
+
+1314
+00:32:00,950 --> 00:32:00,960
+things interesting because you're gonna
+ 
+
+1315
+00:32:00,960 --> 00:32:03,169
+things interesting because you're gonna
+use that piece over and over a million
+
+1316
+00:32:03,169 --> 00:32:03,179
+use that piece over and over a million
+ 
+
+1317
+00:32:03,179 --> 00:32:06,019
+use that piece over and over a million
+times so you so you it has a it has a
+
+1318
+00:32:06,019 --> 00:32:06,029
+times so you so you it has a it has a
+ 
+
+1319
+00:32:06,029 --> 00:32:09,049
+times so you so you it has a it has a
+fold in the in the graph the graph two
+
+1320
+00:32:09,049 --> 00:32:09,059
+fold in the in the graph the graph two
+ 
+
+1321
+00:32:09,059 --> 00:32:09,740
+fold in the in the graph the graph two
+pieces
+
+1322
+00:32:09,740 --> 00:32:09,750
+pieces
+ 
+
+1323
+00:32:09,750 --> 00:32:12,260
+pieces
+and but when you fold something a
+
+1324
+00:32:12,260 --> 00:32:12,270
+and but when you fold something a
+ 
+
+1325
+00:32:12,270 --> 00:32:14,799
+and but when you fold something a
+million times you've got you've got a
+
+1326
+00:32:14,799 --> 00:32:14,809
+million times you've got you've got a
+ 
+
+1327
+00:32:14,809 --> 00:32:17,960
+million times you've got you've got a
+pretty complicated function that's
+
+1328
+00:32:17,960 --> 00:32:17,970
+pretty complicated function that's
+ 
+
+1329
+00:32:17,970 --> 00:32:19,880
+pretty complicated function that's
+pretty realistic so that's the thing
+
+1330
+00:32:19,880 --> 00:32:19,890
+pretty realistic so that's the thing
+ 
+
+1331
+00:32:19,890 --> 00:32:22,789
+pretty realistic so that's the thing
+about neural networks is they have a lot
+
+1332
+00:32:22,789 --> 00:32:22,799
+about neural networks is they have a lot
+ 
+
+1333
+00:32:22,799 --> 00:32:26,240
+about neural networks is they have a lot
+of these a lot of these that's so why do
+
+1334
+00:32:26,240 --> 00:32:26,250
+of these a lot of these that's so why do
+ 
+
+1335
+00:32:26,250 --> 00:32:28,970
+of these a lot of these that's so why do
+you think neural networks
+
+1336
+00:32:28,970 --> 00:32:28,980
+you think neural networks
+ 
+
+1337
+00:32:28,980 --> 00:32:33,230
+you think neural networks
+by using a sort of formulating an
+
+1338
+00:32:33,230 --> 00:32:33,240
+by using a sort of formulating an
+ 
+
+1339
+00:32:33,240 --> 00:32:37,360
+by using a sort of formulating an
+objective function very not a plane yeah
+
+1340
+00:32:37,360 --> 00:32:37,370
+objective function very not a plane yeah
+ 
+
+1341
+00:32:37,370 --> 00:32:40,820
+objective function very not a plane yeah
+function holds lots of folds of the
+
+1342
+00:32:40,820 --> 00:32:40,830
+function holds lots of folds of the
+ 
+
+1343
+00:32:40,830 --> 00:32:43,690
+function holds lots of folds of the
+inputs the outputs why do you think they
+
+1344
+00:32:43,690 --> 00:32:43,700
+inputs the outputs why do you think they
+ 
+
+1345
+00:32:43,700 --> 00:32:47,750
+inputs the outputs why do you think they
+work to be able to find a rule that we
+
+1346
+00:32:47,750 --> 00:32:47,760
+work to be able to find a rule that we
+ 
+
+1347
+00:32:47,760 --> 00:32:50,750
+work to be able to find a rule that we
+don't know is optimal but it just seems
+
+1348
+00:32:50,750 --> 00:32:50,760
+don't know is optimal but it just seems
+ 
+
+1349
+00:32:50,760 --> 00:32:52,509
+don't know is optimal but it just seems
+to be pretty good in a lot of cases
+
+1350
+00:32:52,509 --> 00:32:52,519
+to be pretty good in a lot of cases
+ 
+
+1351
+00:32:52,519 --> 00:32:55,460
+to be pretty good in a lot of cases
+what's your intuition is it surprising
+
+1352
+00:32:55,460 --> 00:32:55,470
+what's your intuition is it surprising
+ 
+
+1353
+00:32:55,470 --> 00:32:58,310
+what's your intuition is it surprising
+to you as it is to many people you have
+
+1354
+00:32:58,310 --> 00:32:58,320
+to you as it is to many people you have
+ 
+
+1355
+00:32:58,320 --> 00:33:00,680
+to you as it is to many people you have
+an intuition of why this works at all
+
+1356
+00:33:00,680 --> 00:33:00,690
+an intuition of why this works at all
+ 
+
+1357
+00:33:00,690 --> 00:33:03,019
+an intuition of why this works at all
+well I'm beginning to have a better
+
+1358
+00:33:03,019 --> 00:33:03,029
+well I'm beginning to have a better
+ 
+
+1359
+00:33:03,029 --> 00:33:06,560
+well I'm beginning to have a better
+intuition this idea of things that are
+
+1360
+00:33:06,560 --> 00:33:06,570
+intuition this idea of things that are
+ 
+
+1361
+00:33:06,570 --> 00:33:10,580
+intuition this idea of things that are
+piecewise linear flat pieces but but
+
+1362
+00:33:10,580 --> 00:33:10,590
+piecewise linear flat pieces but but
+ 
+
+1363
+00:33:10,590 --> 00:33:12,860
+piecewise linear flat pieces but but
+with folds between them like think of a
+
+1364
+00:33:12,860 --> 00:33:12,870
+with folds between them like think of a
+ 
+
+1365
+00:33:12,870 --> 00:33:15,620
+with folds between them like think of a
+roof of a complicated infinitely
+
+1366
+00:33:15,620 --> 00:33:15,630
+roof of a complicated infinitely
+ 
+
+1367
+00:33:15,630 --> 00:33:18,250
+roof of a complicated infinitely
+complicated house or something that
+
+1368
+00:33:18,250 --> 00:33:18,260
+complicated house or something that
+ 
+
+1369
+00:33:18,260 --> 00:33:22,129
+complicated house or something that
+curved it almost curved but every piece
+
+1370
+00:33:22,129 --> 00:33:22,139
+curved it almost curved but every piece
+ 
+
+1371
+00:33:22,139 --> 00:33:25,970
+curved it almost curved but every piece
+is flat that that's been used by
+
+1372
+00:33:25,970 --> 00:33:25,980
+is flat that that's been used by
+ 
+
+1373
+00:33:25,980 --> 00:33:28,100
+is flat that that's been used by
+engineers that ideas been used by
+
+1374
+00:33:28,100 --> 00:33:28,110
+engineers that ideas been used by
+ 
+
+1375
+00:33:28,110 --> 00:33:31,580
+engineers that ideas been used by
+engineers is used by engineers big time
+
+1376
+00:33:31,580 --> 00:33:31,590
+engineers is used by engineers big time
+ 
+
+1377
+00:33:31,590 --> 00:33:33,740
+engineers is used by engineers big time
+something called the finite element
+
+1378
+00:33:33,740 --> 00:33:33,750
+something called the finite element
+ 
+
+1379
+00:33:33,750 --> 00:33:35,870
+something called the finite element
+method if you want to if you want to
+
+1380
+00:33:35,870 --> 00:33:35,880
+method if you want to if you want to
+ 
+
+1381
+00:33:35,880 --> 00:33:39,190
+method if you want to if you want to
+design a bridge design a building design
+
+1382
+00:33:39,190 --> 00:33:39,200
+design a bridge design a building design
+ 
+
+1383
+00:33:39,200 --> 00:33:44,740
+design a bridge design a building design
+airplane you're using this idea of
+
+1384
+00:33:44,740 --> 00:33:44,750
+airplane you're using this idea of
+ 
+
+1385
+00:33:44,750 --> 00:33:49,090
+airplane you're using this idea of
+piecewise flat as a good simple
+
+1386
+00:33:49,090 --> 00:33:49,100
+piecewise flat as a good simple
+ 
+
+1387
+00:33:49,100 --> 00:33:53,000
+piecewise flat as a good simple
+computable approximation to pay your you
+
+1388
+00:33:53,000 --> 00:33:53,010
+computable approximation to pay your you
+ 
+
+1389
+00:33:53,010 --> 00:33:56,090
+computable approximation to pay your you
+have a sense that that there's a lot of
+
+1390
+00:33:56,090 --> 00:33:56,100
+have a sense that that there's a lot of
+ 
+
+1391
+00:33:56,100 --> 00:33:57,740
+have a sense that that there's a lot of
+expressive power in this kind of
+
+1392
+00:33:57,740 --> 00:33:57,750
+expressive power in this kind of
+ 
+
+1393
+00:33:57,750 --> 00:33:59,210
+expressive power in this kind of
+piecewise linear yeah well that's
+
+1394
+00:33:59,210 --> 00:33:59,220
+piecewise linear yeah well that's
+ 
+
+1395
+00:33:59,220 --> 00:34:00,889
+piecewise linear yeah well that's
+combined together you use the right word
+
+1396
+00:34:00,889 --> 00:34:00,899
+combined together you use the right word
+ 
+
+1397
+00:34:00,899 --> 00:34:04,940
+combined together you use the right word
+if you measure the expressivity how how
+
+1398
+00:34:04,940 --> 00:34:04,950
+if you measure the expressivity how how
+ 
+
+1399
+00:34:04,950 --> 00:34:07,879
+if you measure the expressivity how how
+many how complicated a thing can can
+
+1400
+00:34:07,879 --> 00:34:07,889
+many how complicated a thing can can
+ 
+
+1401
+00:34:07,889 --> 00:34:12,379
+many how complicated a thing can can
+this piecewise flat guys express the
+
+1402
+00:34:12,379 --> 00:34:12,389
+this piecewise flat guys express the
+ 
+
+1403
+00:34:12,389 --> 00:34:15,740
+this piecewise flat guys express the
+answer is very complicated yeah what do
+
+1404
+00:34:15,740 --> 00:34:15,750
+answer is very complicated yeah what do
+ 
+
+1405
+00:34:15,750 --> 00:34:19,069
+answer is very complicated yeah what do
+you think are the limits of such
+
+1406
+00:34:19,069 --> 00:34:19,079
+you think are the limits of such
+ 
+
+1407
+00:34:19,079 --> 00:34:22,069
+you think are the limits of such
+piecewise linear or just neural networks
+
+1408
+00:34:22,069 --> 00:34:22,079
+piecewise linear or just neural networks
+ 
+
+1409
+00:34:22,079 --> 00:34:24,589
+piecewise linear or just neural networks
+its passivity of nool nose well you
+
+1410
+00:34:24,589 --> 00:34:24,599
+its passivity of nool nose well you
+ 
+
+1411
+00:34:24,599 --> 00:34:26,960
+its passivity of nool nose well you
+would have said a while ago that they're
+
+1412
+00:34:26,960 --> 00:34:26,970
+would have said a while ago that they're
+ 
+
+1413
+00:34:26,970 --> 00:34:29,119
+would have said a while ago that they're
+just computational limits it you you
+
+1414
+00:34:29,119 --> 00:34:29,129
+just computational limits it you you
+ 
+
+1415
+00:34:29,129 --> 00:34:32,480
+just computational limits it you you
+know you the problem beyond a certain
+
+1416
+00:34:32,480 --> 00:34:32,490
+know you the problem beyond a certain
+ 
+
+1417
+00:34:32,490 --> 00:34:35,450
+know you the problem beyond a certain
+size a supercomputer isn't going to do
+
+1418
+00:34:35,450 --> 00:34:35,460
+size a supercomputer isn't going to do
+ 
+
+1419
+00:34:35,460 --> 00:34:38,690
+size a supercomputer isn't going to do
+it but that does keep getting more
+
+1420
+00:34:38,690 --> 00:34:38,700
+it but that does keep getting more
+ 
+
+1421
+00:34:38,700 --> 00:34:42,180
+it but that does keep getting more
+powerful so that's that limit has been
+
+1422
+00:34:42,180 --> 00:34:42,190
+powerful so that's that limit has been
+ 
+
+1423
+00:34:42,190 --> 00:34:46,309
+powerful so that's that limit has been
+moved to allow more and more complicated
+
+1424
+00:34:46,309 --> 00:34:46,319
+moved to allow more and more complicated
+ 
+
+1425
+00:34:46,319 --> 00:34:50,419
+moved to allow more and more complicated
+surfaces so in terms of just mapping
+
+1426
+00:34:50,419 --> 00:34:50,429
+surfaces so in terms of just mapping
+ 
+
+1427
+00:34:50,429 --> 00:34:53,369
+surfaces so in terms of just mapping
+from inputs to the outputs looking at
+
+1428
+00:34:53,369 --> 00:34:53,379
+from inputs to the outputs looking at
+ 
+
+1429
+00:34:53,379 --> 00:34:58,050
+from inputs to the outputs looking at
+data yeah what do you think of you know
+
+1430
+00:34:58,050 --> 00:34:58,060
+data yeah what do you think of you know
+ 
+
+1431
+00:34:58,060 --> 00:35:00,510
+data yeah what do you think of you know
+in a context in your networks in general
+
+1432
+00:35:00,510 --> 00:35:00,520
+in a context in your networks in general
+ 
+
+1433
+00:35:00,520 --> 00:35:02,940
+in a context in your networks in general
+data is just tensor vectors matrices
+
+1434
+00:35:02,940 --> 00:35:02,950
+data is just tensor vectors matrices
+ 
+
+1435
+00:35:02,950 --> 00:35:07,440
+data is just tensor vectors matrices
+tensors how do you think about learning
+
+1436
+00:35:07,440 --> 00:35:07,450
+tensors how do you think about learning
+ 
+
+1437
+00:35:07,450 --> 00:35:11,520
+tensors how do you think about learning
+from data what how much of our world can
+
+1438
+00:35:11,520 --> 00:35:11,530
+from data what how much of our world can
+ 
+
+1439
+00:35:11,530 --> 00:35:13,890
+from data what how much of our world can
+be expressed in this way how useful is
+
+1440
+00:35:13,890 --> 00:35:13,900
+be expressed in this way how useful is
+ 
+
+1441
+00:35:13,900 --> 00:35:17,099
+be expressed in this way how useful is
+this process is the I guess that's
+
+1442
+00:35:17,099 --> 00:35:17,109
+this process is the I guess that's
+ 
+
+1443
+00:35:17,109 --> 00:35:18,329
+this process is the I guess that's
+another way to asking what are the
+
+1444
+00:35:18,329 --> 00:35:18,339
+another way to asking what are the
+ 
+
+1445
+00:35:18,339 --> 00:35:20,010
+another way to asking what are the
+limits of this well that's a good
+
+1446
+00:35:20,010 --> 00:35:20,020
+limits of this well that's a good
+ 
+
+1447
+00:35:20,020 --> 00:35:22,980
+limits of this well that's a good
+question yeah so I guess the whole idea
+
+1448
+00:35:22,980 --> 00:35:22,990
+question yeah so I guess the whole idea
+ 
+
+1449
+00:35:22,990 --> 00:35:24,630
+question yeah so I guess the whole idea
+of deep learning is that there's
+
+1450
+00:35:24,630 --> 00:35:24,640
+of deep learning is that there's
+ 
+
+1451
+00:35:24,640 --> 00:35:27,059
+of deep learning is that there's
+something there to learn if the data is
+
+1452
+00:35:27,059 --> 00:35:27,069
+something there to learn if the data is
+ 
+
+1453
+00:35:27,069 --> 00:35:29,819
+something there to learn if the data is
+totally random just produced by random
+
+1454
+00:35:29,819 --> 00:35:29,829
+totally random just produced by random
+ 
+
+1455
+00:35:29,829 --> 00:35:33,660
+totally random just produced by random
+number generators then the we're not
+
+1456
+00:35:33,660 --> 00:35:33,670
+number generators then the we're not
+ 
+
+1457
+00:35:33,670 --> 00:35:36,390
+number generators then the we're not
+going to find a useful rule because
+
+1458
+00:35:36,390 --> 00:35:36,400
+going to find a useful rule because
+ 
+
+1459
+00:35:36,400 --> 00:35:40,710
+going to find a useful rule because
+there isn't one so the extreme of having
+
+1460
+00:35:40,710 --> 00:35:40,720
+there isn't one so the extreme of having
+ 
+
+1461
+00:35:40,720 --> 00:35:43,260
+there isn't one so the extreme of having
+a rule is like knowing Newton's law you
+
+1462
+00:35:43,260 --> 00:35:43,270
+a rule is like knowing Newton's law you
+ 
+
+1463
+00:35:43,270 --> 00:35:45,480
+a rule is like knowing Newton's law you
+know if you hit a hit a ball and moves
+
+1464
+00:35:45,480 --> 00:35:45,490
+know if you hit a hit a ball and moves
+ 
+
+1465
+00:35:45,490 --> 00:35:48,780
+know if you hit a hit a ball and moves
+so that's where you had laws of physics
+
+1466
+00:35:48,780 --> 00:35:48,790
+so that's where you had laws of physics
+ 
+
+1467
+00:35:48,790 --> 00:35:52,680
+so that's where you had laws of physics
+Newton and and Einstein and other great
+
+1468
+00:35:52,680 --> 00:35:52,690
+Newton and and Einstein and other great
+ 
+
+1469
+00:35:52,690 --> 00:35:56,040
+Newton and and Einstein and other great
+great people have have found those laws
+
+1470
+00:35:56,040 --> 00:35:56,050
+great people have have found those laws
+ 
+
+1471
+00:35:56,050 --> 00:36:03,030
+great people have have found those laws
+and laws of the the the distribution of
+
+1472
+00:36:03,030 --> 00:36:03,040
+and laws of the the the distribution of
+ 
+
+1473
+00:36:03,040 --> 00:36:06,359
+and laws of the the the distribution of
+oil in a underground thing I mean that
+
+1474
+00:36:06,359 --> 00:36:06,369
+oil in a underground thing I mean that
+ 
+
+1475
+00:36:06,369 --> 00:36:11,660
+oil in a underground thing I mean that
+so so engineers petroleum engineers and
+
+1476
+00:36:11,660 --> 00:36:11,670
+so so engineers petroleum engineers and
+ 
+
+1477
+00:36:11,670 --> 00:36:15,870
+so so engineers petroleum engineers and
+understand how how oil will sit in a in
+
+1478
+00:36:15,870 --> 00:36:15,880
+understand how how oil will sit in a in
+ 
+
+1479
+00:36:15,880 --> 00:36:19,470
+understand how how oil will sit in a in
+an underground basin so there were rules
+
+1480
+00:36:19,470 --> 00:36:19,480
+an underground basin so there were rules
+ 
+
+1481
+00:36:19,480 --> 00:36:23,819
+an underground basin so there were rules
+now now the the new idea of artificial
+
+1482
+00:36:23,819 --> 00:36:23,829
+now now the the new idea of artificial
+ 
+
+1483
+00:36:23,829 --> 00:36:27,120
+now now the the new idea of artificial
+intelligence is learn the rules instead
+
+1484
+00:36:27,120 --> 00:36:27,130
+intelligence is learn the rules instead
+ 
+
+1485
+00:36:27,130 --> 00:36:29,640
+intelligence is learn the rules instead
+of instead of figuring out the rules by
+
+1486
+00:36:29,640 --> 00:36:29,650
+of instead of figuring out the rules by
+ 
+
+1487
+00:36:29,650 --> 00:36:32,849
+of instead of figuring out the rules by
+with help from Newton or Einstein the
+
+1488
+00:36:32,849 --> 00:36:32,859
+with help from Newton or Einstein the
+ 
+
+1489
+00:36:32,859 --> 00:36:35,730
+with help from Newton or Einstein the
+computer is looking for the rules so
+
+1490
+00:36:35,730 --> 00:36:35,740
+computer is looking for the rules so
+ 
+
+1491
+00:36:35,740 --> 00:36:37,890
+computer is looking for the rules so
+that's another step but if there are no
+
+1492
+00:36:37,890 --> 00:36:37,900
+that's another step but if there are no
+ 
+
+1493
+00:36:37,900 --> 00:36:40,770
+that's another step but if there are no
+rules at all for that the computer could
+
+1494
+00:36:40,770 --> 00:36:40,780
+rules at all for that the computer could
+ 
+
+1495
+00:36:40,780 --> 00:36:44,010
+rules at all for that the computer could
+find if it's totally random data well
+
+1496
+00:36:44,010 --> 00:36:44,020
+find if it's totally random data well
+ 
+
+1497
+00:36:44,020 --> 00:36:46,400
+find if it's totally random data well
+you've got nothing you've got no science
+
+1498
+00:36:46,400 --> 00:36:46,410
+you've got nothing you've got no science
+ 
+
+1499
+00:36:46,410 --> 00:36:49,470
+you've got nothing you've got no science
+to discover it's the automated search
+
+1500
+00:36:49,470 --> 00:36:49,480
+to discover it's the automated search
+ 
+
+1501
+00:36:49,480 --> 00:36:51,839
+to discover it's the automated search
+for the underlying rules yeah
+
+1502
+00:36:51,839 --> 00:36:51,849
+for the underlying rules yeah
+ 
+
+1503
+00:36:51,849 --> 00:36:53,980
+for the underlying rules yeah
+search for the rules yeah
+
+1504
+00:36:53,980 --> 00:36:53,990
+search for the rules yeah
+ 
+
+1505
+00:36:53,990 --> 00:36:56,080
+search for the rules yeah
+exactly yeah there will be a lot of
+
+1506
+00:36:56,080 --> 00:36:56,090
+exactly yeah there will be a lot of
+ 
+
+1507
+00:36:56,090 --> 00:36:59,140
+exactly yeah there will be a lot of
+random parts a lot I'm not knocking
+
+1508
+00:36:59,140 --> 00:36:59,150
+random parts a lot I'm not knocking
+ 
+
+1509
+00:36:59,150 --> 00:37:03,660
+random parts a lot I'm not knocking
+random because the that's there the the
+
+1510
+00:37:03,660 --> 00:37:03,670
+random because the that's there the the
+ 
+
+1511
+00:37:03,670 --> 00:37:07,210
+random because the that's there the the
+the there's a lot of randomness built in
+
+1512
+00:37:07,210 --> 00:37:07,220
+the there's a lot of randomness built in
+ 
+
+1513
+00:37:07,220 --> 00:37:09,430
+the there's a lot of randomness built in
+but there's got to be some basic it's
+
+1514
+00:37:09,430 --> 00:37:09,440
+but there's got to be some basic it's
+ 
+
+1515
+00:37:09,440 --> 00:37:11,230
+but there's got to be some basic it's
+almost always signature right in most
+
+1516
+00:37:11,230 --> 00:37:11,240
+almost always signature right in most
+ 
+
+1517
+00:37:11,240 --> 00:37:12,850
+almost always signature right in most
+there's got to be some signal yeah if
+
+1518
+00:37:12,850 --> 00:37:12,860
+there's got to be some signal yeah if
+ 
+
+1519
+00:37:12,860 --> 00:37:15,700
+there's got to be some signal yeah if
+it's all noise then there's there's
+
+1520
+00:37:15,700 --> 00:37:15,710
+it's all noise then there's there's
+ 
+
+1521
+00:37:15,710 --> 00:37:17,200
+it's all noise then there's there's
+you're not gonna get it anywhere
+
+1522
+00:37:17,200 --> 00:37:17,210
+you're not gonna get it anywhere
+ 
+
+1523
+00:37:17,210 --> 00:37:19,240
+you're not gonna get it anywhere
+well this world around us does seem to
+
+1524
+00:37:19,240 --> 00:37:19,250
+well this world around us does seem to
+ 
+
+1525
+00:37:19,250 --> 00:37:21,550
+well this world around us does seem to
+be this seem to always have a signal
+
+1526
+00:37:21,550 --> 00:37:21,560
+be this seem to always have a signal
+ 
+
+1527
+00:37:21,560 --> 00:37:24,040
+be this seem to always have a signal
+some kind yeah yeah they discovered
+
+1528
+00:37:24,040 --> 00:37:24,050
+some kind yeah yeah they discovered
+ 
+
+1529
+00:37:24,050 --> 00:37:27,830
+some kind yeah yeah they discovered
+right that's it so
+
+1530
+00:37:27,830 --> 00:37:27,840
+right that's it so
+ 
+
+1531
+00:37:27,840 --> 00:37:31,070
+right that's it so
+what excites you more the we just talked
+
+1532
+00:37:31,070 --> 00:37:31,080
+what excites you more the we just talked
+ 
+
+1533
+00:37:31,080 --> 00:37:32,960
+what excites you more the we just talked
+about a little bit of application what
+
+1534
+00:37:32,960 --> 00:37:32,970
+about a little bit of application what
+ 
+
+1535
+00:37:32,970 --> 00:37:36,020
+about a little bit of application what
+excites me more theory or the
+
+1536
+00:37:36,020 --> 00:37:36,030
+excites me more theory or the
+ 
+
+1537
+00:37:36,030 --> 00:37:40,400
+excites me more theory or the
+application of mathematics well for
+
+1538
+00:37:40,400 --> 00:37:40,410
+application of mathematics well for
+ 
+
+1539
+00:37:40,410 --> 00:37:43,370
+application of mathematics well for
+myself I'm probably a theory person I'm
+
+1540
+00:37:43,370 --> 00:37:43,380
+myself I'm probably a theory person I'm
+ 
+
+1541
+00:37:43,380 --> 00:37:47,300
+myself I'm probably a theory person I'm
+not I'm speaking here pretty freely
+
+1542
+00:37:47,300 --> 00:37:47,310
+not I'm speaking here pretty freely
+ 
+
+1543
+00:37:47,310 --> 00:37:51,830
+not I'm speaking here pretty freely
+about applications but I'm not a person
+
+1544
+00:37:51,830 --> 00:37:51,840
+about applications but I'm not a person
+ 
+
+1545
+00:37:51,840 --> 00:37:54,830
+about applications but I'm not a person
+who really I'm not a physicist or a
+
+1546
+00:37:54,830 --> 00:37:54,840
+who really I'm not a physicist or a
+ 
+
+1547
+00:37:54,840 --> 00:37:59,120
+who really I'm not a physicist or a
+chemist or a neuroscientist so for
+
+1548
+00:37:59,120 --> 00:37:59,130
+chemist or a neuroscientist so for
+ 
+
+1549
+00:37:59,130 --> 00:38:03,940
+chemist or a neuroscientist so for
+myself I like this structure and this
+
+1550
+00:38:03,940 --> 00:38:03,950
+myself I like this structure and this
+ 
+
+1551
+00:38:03,950 --> 00:38:09,110
+myself I like this structure and this
+flat subspaces and and and the relation
+
+1552
+00:38:09,110 --> 00:38:09,120
+flat subspaces and and and the relation
+ 
+
+1553
+00:38:09,120 --> 00:38:13,280
+flat subspaces and and and the relation
+of matrices columns to rows that's my
+
+1554
+00:38:13,280 --> 00:38:13,290
+of matrices columns to rows that's my
+ 
+
+1555
+00:38:13,290 --> 00:38:18,920
+of matrices columns to rows that's my
+part in the spectrum so the really
+
+1556
+00:38:18,920 --> 00:38:18,930
+part in the spectrum so the really
+ 
+
+1557
+00:38:18,930 --> 00:38:22,720
+part in the spectrum so the really
+science is a big spectrum of people from
+
+1558
+00:38:22,720 --> 00:38:22,730
+science is a big spectrum of people from
+ 
+
+1559
+00:38:22,730 --> 00:38:25,820
+science is a big spectrum of people from
+asking practical practical questions and
+
+1560
+00:38:25,820 --> 00:38:25,830
+asking practical practical questions and
+ 
+
+1561
+00:38:25,830 --> 00:38:29,390
+asking practical practical questions and
+answering them using some math than some
+
+1562
+00:38:29,390 --> 00:38:29,400
+answering them using some math than some
+ 
+
+1563
+00:38:29,400 --> 00:38:33,020
+answering them using some math than some
+math guys like myself or in the middle
+
+1564
+00:38:33,020 --> 00:38:33,030
+math guys like myself or in the middle
+ 
+
+1565
+00:38:33,030 --> 00:38:38,330
+math guys like myself or in the middle
+of it and then the geniuses of math and
+
+1566
+00:38:38,330 --> 00:38:38,340
+of it and then the geniuses of math and
+ 
+
+1567
+00:38:38,340 --> 00:38:40,970
+of it and then the geniuses of math and
+physics and chemistry and who are
+
+1568
+00:38:40,970 --> 00:38:40,980
+physics and chemistry and who are
+ 
+
+1569
+00:38:40,980 --> 00:38:44,270
+physics and chemistry and who are
+finding fundamental rules and doing
+
+1570
+00:38:44,270 --> 00:38:44,280
+finding fundamental rules and doing
+ 
+
+1571
+00:38:44,280 --> 00:38:50,890
+finding fundamental rules and doing
+doing really understanding nature that's
+
+1572
+00:38:50,890 --> 00:38:50,900
+doing really understanding nature that's
+ 
+
+1573
+00:38:50,900 --> 00:38:55,520
+doing really understanding nature that's
+at its lowest simplest level maybe just
+
+1574
+00:38:55,520 --> 00:38:55,530
+at its lowest simplest level maybe just
+ 
+
+1575
+00:38:55,530 --> 00:38:57,710
+at its lowest simplest level maybe just
+a quick in broad strokes from your
+
+1576
+00:38:57,710 --> 00:38:57,720
+a quick in broad strokes from your
+ 
+
+1577
+00:38:57,720 --> 00:39:01,190
+a quick in broad strokes from your
+perspective what is uh where does the
+
+1578
+00:39:01,190 --> 00:39:01,200
+perspective what is uh where does the
+ 
+
+1579
+00:39:01,200 --> 00:39:03,860
+perspective what is uh where does the
+linear algebra sit as a subfield of
+
+1580
+00:39:03,860 --> 00:39:03,870
+linear algebra sit as a subfield of
+ 
+
+1581
+00:39:03,870 --> 00:39:06,080
+linear algebra sit as a subfield of
+mathematics what what are the various
+
+1582
+00:39:06,080 --> 00:39:06,090
+mathematics what what are the various
+ 
+
+1583
+00:39:06,090 --> 00:39:09,250
+mathematics what what are the various
+subfields a year okay a you think about
+
+1584
+00:39:09,250 --> 00:39:09,260
+subfields a year okay a you think about
+ 
+
+1585
+00:39:09,260 --> 00:39:12,820
+subfields a year okay a you think about
+in relation to linear algebra so the big
+
+1586
+00:39:12,820 --> 00:39:12,830
+in relation to linear algebra so the big
+ 
+
+1587
+00:39:12,830 --> 00:39:18,140
+in relation to linear algebra so the big
+fields of math or algebra as a whole and
+
+1588
+00:39:18,140 --> 00:39:18,150
+fields of math or algebra as a whole and
+ 
+
+1589
+00:39:18,150 --> 00:39:20,390
+fields of math or algebra as a whole and
+problems like calculus and differential
+
+1590
+00:39:20,390 --> 00:39:20,400
+problems like calculus and differential
+ 
+
+1591
+00:39:20,400 --> 00:39:23,090
+problems like calculus and differential
+equations so that's a second quite
+
+1592
+00:39:23,090 --> 00:39:23,100
+equations so that's a second quite
+ 
+
+1593
+00:39:23,100 --> 00:39:26,170
+equations so that's a second quite
+different field then maybe geometry
+
+1594
+00:39:26,170 --> 00:39:26,180
+different field then maybe geometry
+ 
+
+1595
+00:39:26,180 --> 00:39:28,880
+different field then maybe geometry
+deserves to be under sort of as a
+
+1596
+00:39:28,880 --> 00:39:28,890
+deserves to be under sort of as a
+ 
+
+1597
+00:39:28,890 --> 00:39:30,770
+deserves to be under sort of as a
+different field to understand the
+
+1598
+00:39:30,770 --> 00:39:30,780
+different field to understand the
+ 
+
+1599
+00:39:30,780 --> 00:39:35,460
+different field to understand the
+geometry of high dimensional surfaces
+
+1600
+00:39:35,460 --> 00:39:35,470
+geometry of high dimensional surfaces
+ 
+
+1601
+00:39:35,470 --> 00:39:39,270
+geometry of high dimensional surfaces
+so I think am I allowed to say this here
+
+1602
+00:39:39,270 --> 00:39:39,280
+so I think am I allowed to say this here
+ 
+
+1603
+00:39:39,280 --> 00:39:45,510
+so I think am I allowed to say this here
+I think this is where personal view
+
+1604
+00:39:45,510 --> 00:39:45,520
+I think this is where personal view
+ 
+
+1605
+00:39:45,520 --> 00:39:50,250
+I think this is where personal view
+comes and I think math for thinking
+
+1606
+00:39:50,250 --> 00:39:50,260
+comes and I think math for thinking
+ 
+
+1607
+00:39:50,260 --> 00:39:52,980
+comes and I think math for thinking
+about undergraduate math what millions
+
+1608
+00:39:52,980 --> 00:39:52,990
+about undergraduate math what millions
+ 
+
+1609
+00:39:52,990 --> 00:39:56,299
+about undergraduate math what millions
+of students study I think we overdo the
+
+1610
+00:39:56,299 --> 00:39:56,309
+of students study I think we overdo the
+ 
+
+1611
+00:39:56,309 --> 00:40:00,660
+of students study I think we overdo the
+calculus at at the cost of the algebra
+
+1612
+00:40:00,660 --> 00:40:00,670
+calculus at at the cost of the algebra
+ 
+
+1613
+00:40:00,670 --> 00:40:03,809
+calculus at at the cost of the algebra
+at the cost of linear dog titled
+
+1614
+00:40:03,809 --> 00:40:03,819
+at the cost of linear dog titled
+ 
+
+1615
+00:40:03,819 --> 00:40:07,079
+at the cost of linear dog titled
+calculus versus linear that's right and
+
+1616
+00:40:07,079 --> 00:40:07,089
+calculus versus linear that's right and
+ 
+
+1617
+00:40:07,089 --> 00:40:09,630
+calculus versus linear that's right and
+and you say that linear algebra wins so
+
+1618
+00:40:09,630 --> 00:40:09,640
+and you say that linear algebra wins so
+ 
+
+1619
+00:40:09,640 --> 00:40:12,420
+and you say that linear algebra wins so
+you can you want can you dig into that a
+
+1620
+00:40:12,420 --> 00:40:12,430
+you can you want can you dig into that a
+ 
+
+1621
+00:40:12,430 --> 00:40:13,380
+you can you want can you dig into that a
+little bit
+
+1622
+00:40:13,380 --> 00:40:13,390
+little bit
+ 
+
+1623
+00:40:13,390 --> 00:40:17,700
+little bit
+why does linear algebra win right well
+
+1624
+00:40:17,700 --> 00:40:17,710
+why does linear algebra win right well
+ 
+
+1625
+00:40:17,710 --> 00:40:21,270
+why does linear algebra win right well
+ok I'm the viewer is gonna think this
+
+1626
+00:40:21,270 --> 00:40:21,280
+ok I'm the viewer is gonna think this
+ 
+
+1627
+00:40:21,280 --> 00:40:25,470
+ok I'm the viewer is gonna think this
+guy is biased not true I'm just telling
+
+1628
+00:40:25,470 --> 00:40:25,480
+guy is biased not true I'm just telling
+ 
+
+1629
+00:40:25,480 --> 00:40:28,680
+guy is biased not true I'm just telling
+the truth as it is yeah so I feel linear
+
+1630
+00:40:28,680 --> 00:40:28,690
+the truth as it is yeah so I feel linear
+ 
+
+1631
+00:40:28,690 --> 00:40:31,740
+the truth as it is yeah so I feel linear
+algebra is just a nice part of math that
+
+1632
+00:40:31,740 --> 00:40:31,750
+algebra is just a nice part of math that
+ 
+
+1633
+00:40:31,750 --> 00:40:34,740
+algebra is just a nice part of math that
+people can get the idea of they can
+
+1634
+00:40:34,740 --> 00:40:34,750
+people can get the idea of they can
+ 
+
+1635
+00:40:34,750 --> 00:40:37,049
+people can get the idea of they can
+understand something it's a little bit
+
+1636
+00:40:37,049 --> 00:40:37,059
+understand something it's a little bit
+ 
+
+1637
+00:40:37,059 --> 00:40:39,420
+understand something it's a little bit
+abstract because once you get to ten or
+
+1638
+00:40:39,420 --> 00:40:39,430
+abstract because once you get to ten or
+ 
+
+1639
+00:40:39,430 --> 00:40:43,680
+abstract because once you get to ten or
+a hundred dimensions and very very very
+
+1640
+00:40:43,680 --> 00:40:43,690
+a hundred dimensions and very very very
+ 
+
+1641
+00:40:43,690 --> 00:40:46,710
+a hundred dimensions and very very very
+useful that's what's happened in in my
+
+1642
+00:40:46,710 --> 00:40:46,720
+useful that's what's happened in in my
+ 
+
+1643
+00:40:46,720 --> 00:40:51,329
+useful that's what's happened in in my
+lifetime is the the the importance of
+
+1644
+00:40:51,329 --> 00:40:51,339
+lifetime is the the the importance of
+ 
+
+1645
+00:40:51,339 --> 00:40:54,750
+lifetime is the the the importance of
+data which does come in matrix form so
+
+1646
+00:40:54,750 --> 00:40:54,760
+data which does come in matrix form so
+ 
+
+1647
+00:40:54,760 --> 00:40:56,910
+data which does come in matrix form so
+it's really set up for algebra it's not
+
+1648
+00:40:56,910 --> 00:40:56,920
+it's really set up for algebra it's not
+ 
+
+1649
+00:40:56,920 --> 00:40:58,799
+it's really set up for algebra it's not
+set up for a differential equation and
+
+1650
+00:40:58,799 --> 00:40:58,809
+set up for a differential equation and
+ 
+
+1651
+00:40:58,809 --> 00:41:02,940
+set up for a differential equation and
+now let me fairly add probability
+
+1652
+00:41:02,940 --> 00:41:02,950
+now let me fairly add probability
+ 
+
+1653
+00:41:02,950 --> 00:41:05,730
+now let me fairly add probability
+they're ideas of probability and
+
+1654
+00:41:05,730 --> 00:41:05,740
+they're ideas of probability and
+ 
+
+1655
+00:41:05,740 --> 00:41:08,490
+they're ideas of probability and
+statistics have become very very
+
+1656
+00:41:08,490 --> 00:41:08,500
+statistics have become very very
+ 
+
+1657
+00:41:08,500 --> 00:41:11,430
+statistics have become very very
+important i've also jumped forward so
+
+1658
+00:41:11,430 --> 00:41:11,440
+important i've also jumped forward so
+ 
+
+1659
+00:41:11,440 --> 00:41:13,170
+important i've also jumped forward so
+and that's not that's different from
+
+1660
+00:41:13,170 --> 00:41:13,180
+and that's not that's different from
+ 
+
+1661
+00:41:13,180 --> 00:41:15,660
+and that's not that's different from
+linear algebra quite different so now we
+
+1662
+00:41:15,660 --> 00:41:15,670
+linear algebra quite different so now we
+ 
+
+1663
+00:41:15,670 --> 00:41:19,760
+linear algebra quite different so now we
+really have three major areas to me
+
+1664
+00:41:19,760 --> 00:41:19,770
+really have three major areas to me
+ 
+
+1665
+00:41:19,770 --> 00:41:26,539
+really have three major areas to me
+calculus linear algebra of matrices and
+
+1666
+00:41:26,539 --> 00:41:26,549
+calculus linear algebra of matrices and
+ 
+
+1667
+00:41:26,549 --> 00:41:30,569
+calculus linear algebra of matrices and
+probability statistics and they all
+
+1668
+00:41:30,569 --> 00:41:30,579
+probability statistics and they all
+ 
+
+1669
+00:41:30,579 --> 00:41:34,559
+probability statistics and they all
+deserve a important place and and
+
+1670
+00:41:34,559 --> 00:41:34,569
+deserve a important place and and
+ 
+
+1671
+00:41:34,569 --> 00:41:38,569
+deserve a important place and and
+calculus has traditionally had a had a
+
+1672
+00:41:38,569 --> 00:41:38,579
+calculus has traditionally had a had a
+ 
+
+1673
+00:41:38,579 --> 00:41:40,769
+calculus has traditionally had a had a
+lion's share of the time and
+
+1674
+00:41:40,769 --> 00:41:40,779
+lion's share of the time and
+ 
+
+1675
+00:41:40,779 --> 00:41:41,880
+lion's share of the time and
+disproportionate share
+
+1676
+00:41:41,880 --> 00:41:41,890
+disproportionate share
+ 
+
+1677
+00:41:41,890 --> 00:41:44,069
+disproportionate share
+yes but thank you proportionate that's a
+
+1678
+00:41:44,069 --> 00:41:44,079
+yes but thank you proportionate that's a
+ 
+
+1679
+00:41:44,079 --> 00:41:45,250
+yes but thank you proportionate that's a
+good work
+
+1680
+00:41:45,250 --> 00:41:45,260
+good work
+ 
+
+1681
+00:41:45,260 --> 00:41:48,370
+good work
+of the the love and attention from the
+
+1682
+00:41:48,370 --> 00:41:48,380
+of the the love and attention from the
+ 
+
+1683
+00:41:48,380 --> 00:41:52,200
+of the the love and attention from the
+excited young minds yeah
+
+1684
+00:41:52,200 --> 00:41:52,210
+excited young minds yeah
+ 
+
+1685
+00:41:52,210 --> 00:41:55,890
+excited young minds yeah
+I know it's hard to pick favorites but
+
+1686
+00:41:55,890 --> 00:41:55,900
+I know it's hard to pick favorites but
+ 
+
+1687
+00:41:55,900 --> 00:41:57,990
+I know it's hard to pick favorites but
+what is your favorite matrix what's my
+
+1688
+00:41:57,990 --> 00:41:58,000
+what is your favorite matrix what's my
+ 
+
+1689
+00:41:58,000 --> 00:42:00,870
+what is your favorite matrix what's my
+favorite matrix okay so my favorite
+
+1690
+00:42:00,870 --> 00:42:00,880
+favorite matrix okay so my favorite
+ 
+
+1691
+00:42:00,880 --> 00:42:03,900
+favorite matrix okay so my favorite
+matrix is square I admit it's a square
+
+1692
+00:42:03,900 --> 00:42:03,910
+matrix is square I admit it's a square
+ 
+
+1693
+00:42:03,910 --> 00:42:07,140
+matrix is square I admit it's a square
+bunch of numbers and it has twos running
+
+1694
+00:42:07,140 --> 00:42:07,150
+bunch of numbers and it has twos running
+ 
+
+1695
+00:42:07,150 --> 00:42:11,910
+bunch of numbers and it has twos running
+down the main diagonal and on the next
+
+1696
+00:42:11,910 --> 00:42:11,920
+down the main diagonal and on the next
+ 
+
+1697
+00:42:11,920 --> 00:42:14,490
+down the main diagonal and on the next
+diagonal so think of top left to bottom
+
+1698
+00:42:14,490 --> 00:42:14,500
+diagonal so think of top left to bottom
+ 
+
+1699
+00:42:14,500 --> 00:42:17,819
+diagonal so think of top left to bottom
+right twos down down the middle of the
+
+1700
+00:42:17,819 --> 00:42:17,829
+right twos down down the middle of the
+ 
+
+1701
+00:42:17,829 --> 00:42:21,420
+right twos down down the middle of the
+matrix and minus ones just above those
+
+1702
+00:42:21,420 --> 00:42:21,430
+matrix and minus ones just above those
+ 
+
+1703
+00:42:21,430 --> 00:42:24,029
+matrix and minus ones just above those
+twos and minus ones just below those
+
+1704
+00:42:24,029 --> 00:42:24,039
+twos and minus ones just below those
+ 
+
+1705
+00:42:24,039 --> 00:42:27,180
+twos and minus ones just below those
+twos and otherwise all zeros so mostly
+
+1706
+00:42:27,180 --> 00:42:27,190
+twos and otherwise all zeros so mostly
+ 
+
+1707
+00:42:27,190 --> 00:42:31,980
+twos and otherwise all zeros so mostly
+zeros just three nonzero diagonals
+
+1708
+00:42:31,980 --> 00:42:31,990
+zeros just three nonzero diagonals
+ 
+
+1709
+00:42:31,990 --> 00:42:33,990
+zeros just three nonzero diagonals
+coming down what is interesting about it
+
+1710
+00:42:33,990 --> 00:42:34,000
+coming down what is interesting about it
+ 
+
+1711
+00:42:34,000 --> 00:42:36,539
+coming down what is interesting about it
+well all the different ways it comes up
+
+1712
+00:42:36,539 --> 00:42:36,549
+well all the different ways it comes up
+ 
+
+1713
+00:42:36,549 --> 00:42:39,900
+well all the different ways it comes up
+you see it in engineering you see it as
+
+1714
+00:42:39,900 --> 00:42:39,910
+you see it in engineering you see it as
+ 
+
+1715
+00:42:39,910 --> 00:42:42,900
+you see it in engineering you see it as
+analogous in calculus to second
+
+1716
+00:42:42,900 --> 00:42:42,910
+analogous in calculus to second
+ 
+
+1717
+00:42:42,910 --> 00:42:45,660
+analogous in calculus to second
+derivative so calculus learns about
+
+1718
+00:42:45,660 --> 00:42:45,670
+derivative so calculus learns about
+ 
+
+1719
+00:42:45,670 --> 00:42:48,120
+derivative so calculus learns about
+taking the derivative the figuring out
+
+1720
+00:42:48,120 --> 00:42:48,130
+taking the derivative the figuring out
+ 
+
+1721
+00:42:48,130 --> 00:42:50,690
+taking the derivative the figuring out
+how much how fast something's changing
+
+1722
+00:42:50,690 --> 00:42:50,700
+how much how fast something's changing
+ 
+
+1723
+00:42:50,700 --> 00:42:54,599
+how much how fast something's changing
+but second derivative now that's also
+
+1724
+00:42:54,599 --> 00:42:54,609
+but second derivative now that's also
+ 
+
+1725
+00:42:54,609 --> 00:42:57,930
+but second derivative now that's also
+important that's how fast the change is
+
+1726
+00:42:57,930 --> 00:42:57,940
+important that's how fast the change is
+ 
+
+1727
+00:42:57,940 --> 00:43:01,710
+important that's how fast the change is
+changing how fast the graph is bending
+
+1728
+00:43:01,710 --> 00:43:01,720
+changing how fast the graph is bending
+ 
+
+1729
+00:43:01,720 --> 00:43:07,230
+changing how fast the graph is bending
+how fast it's it's curving and my
+
+1730
+00:43:07,230 --> 00:43:07,240
+how fast it's it's curving and my
+ 
+
+1731
+00:43:07,240 --> 00:43:10,079
+how fast it's it's curving and my
+Feinstein showed that that's fundamental
+
+1732
+00:43:10,079 --> 00:43:10,089
+Feinstein showed that that's fundamental
+ 
+
+1733
+00:43:10,089 --> 00:43:13,349
+Feinstein showed that that's fundamental
+to understand space so second
+
+1734
+00:43:13,349 --> 00:43:13,359
+to understand space so second
+ 
+
+1735
+00:43:13,359 --> 00:43:15,809
+to understand space so second
+derivatives should have a bigger place
+
+1736
+00:43:15,809 --> 00:43:15,819
+derivatives should have a bigger place
+ 
+
+1737
+00:43:15,819 --> 00:43:21,120
+derivatives should have a bigger place
+in calculus second mice matrices which
+
+1738
+00:43:21,120 --> 00:43:21,130
+in calculus second mice matrices which
+ 
+
+1739
+00:43:21,130 --> 00:43:25,079
+in calculus second mice matrices which
+are like the linear algebra version of
+
+1740
+00:43:25,079 --> 00:43:25,089
+are like the linear algebra version of
+ 
+
+1741
+00:43:25,089 --> 00:43:29,370
+are like the linear algebra version of
+second derivatives are neat in in linear
+
+1742
+00:43:29,370 --> 00:43:29,380
+second derivatives are neat in in linear
+ 
+
+1743
+00:43:29,380 --> 00:43:30,420
+second derivatives are neat in in linear
+algebra yeah
+
+1744
+00:43:30,420 --> 00:43:30,430
+algebra yeah
+ 
+
+1745
+00:43:30,430 --> 00:43:32,069
+algebra yeah
+just everything comes out right with
+
+1746
+00:43:32,069 --> 00:43:32,079
+just everything comes out right with
+ 
+
+1747
+00:43:32,079 --> 00:43:35,970
+just everything comes out right with
+those guys beautiful what did you learn
+
+1748
+00:43:35,970 --> 00:43:35,980
+those guys beautiful what did you learn
+ 
+
+1749
+00:43:35,980 --> 00:43:38,640
+those guys beautiful what did you learn
+about the process of learning by having
+
+1750
+00:43:38,640 --> 00:43:38,650
+about the process of learning by having
+ 
+
+1751
+00:43:38,650 --> 00:43:41,970
+about the process of learning by having
+taught so many students math over the
+
+1752
+00:43:41,970 --> 00:43:41,980
+taught so many students math over the
+ 
+
+1753
+00:43:41,980 --> 00:43:42,329
+taught so many students math over the
+years
+
+1754
+00:43:42,329 --> 00:43:42,339
+years
+ 
+
+1755
+00:43:42,339 --> 00:43:46,500
+years
+whoo that is hard I'll have to admit
+
+1756
+00:43:46,500 --> 00:43:46,510
+whoo that is hard I'll have to admit
+ 
+
+1757
+00:43:46,510 --> 00:43:50,099
+whoo that is hard I'll have to admit
+here that I'm not I'm not really a good
+
+1758
+00:43:50,099 --> 00:43:50,109
+here that I'm not I'm not really a good
+ 
+
+1759
+00:43:50,109 --> 00:43:54,120
+here that I'm not I'm not really a good
+teacher because I don't get into the
+
+1760
+00:43:54,120 --> 00:43:54,130
+teacher because I don't get into the
+ 
+
+1761
+00:43:54,130 --> 00:43:57,269
+teacher because I don't get into the
+exam part the exams the part of my life
+
+1762
+00:43:57,269 --> 00:43:57,279
+exam part the exams the part of my life
+ 
+
+1763
+00:43:57,279 --> 00:44:00,329
+exam part the exams the part of my life
+that I don't like and grading them and
+
+1764
+00:44:00,329 --> 00:44:00,339
+that I don't like and grading them and
+ 
+
+1765
+00:44:00,339 --> 00:44:04,140
+that I don't like and grading them and
+giving the students a or B or whatever I
+
+1766
+00:44:04,140 --> 00:44:04,150
+giving the students a or B or whatever I
+ 
+
+1767
+00:44:04,150 --> 00:44:05,560
+giving the students a or B or whatever I
+do it
+
+1768
+00:44:05,560 --> 00:44:05,570
+do it
+ 
+
+1769
+00:44:05,570 --> 00:44:09,210
+do it
+because it's I'm supposed to do it but
+
+1770
+00:44:09,210 --> 00:44:09,220
+because it's I'm supposed to do it but
+ 
+
+1771
+00:44:09,220 --> 00:44:11,980
+because it's I'm supposed to do it but
+but I tell the class at the beginning I
+
+1772
+00:44:11,980 --> 00:44:11,990
+but I tell the class at the beginning I
+ 
+
+1773
+00:44:11,990 --> 00:44:13,510
+but I tell the class at the beginning I
+don't know if they believe me probably
+
+1774
+00:44:13,510 --> 00:44:13,520
+don't know if they believe me probably
+ 
+
+1775
+00:44:13,520 --> 00:44:16,510
+don't know if they believe me probably
+they don't I tell the class I'm here to
+
+1776
+00:44:16,510 --> 00:44:16,520
+they don't I tell the class I'm here to
+ 
+
+1777
+00:44:16,520 --> 00:44:19,690
+they don't I tell the class I'm here to
+teach you I'm here to teach you math and
+
+1778
+00:44:19,690 --> 00:44:19,700
+teach you I'm here to teach you math and
+ 
+
+1779
+00:44:19,700 --> 00:44:23,110
+teach you I'm here to teach you math and
+not to grade you and but they're
+
+1780
+00:44:23,110 --> 00:44:23,120
+not to grade you and but they're
+ 
+
+1781
+00:44:23,120 --> 00:44:26,050
+not to grade you and but they're
+thinking okay this guy it's gonna you
+
+1782
+00:44:26,050 --> 00:44:26,060
+thinking okay this guy it's gonna you
+ 
+
+1783
+00:44:26,060 --> 00:44:27,490
+thinking okay this guy it's gonna you
+know when's he gonna kids he's gonna
+
+1784
+00:44:27,490 --> 00:44:27,500
+know when's he gonna kids he's gonna
+ 
+
+1785
+00:44:27,500 --> 00:44:29,620
+know when's he gonna kids he's gonna
+give me an A - is he gonna give me a
+
+1786
+00:44:29,620 --> 00:44:29,630
+give me an A - is he gonna give me a
+ 
+
+1787
+00:44:29,630 --> 00:44:32,380
+give me an A - is he gonna give me a
+b-plus what what would have you learn
+
+1788
+00:44:32,380 --> 00:44:32,390
+b-plus what what would have you learn
+ 
+
+1789
+00:44:32,390 --> 00:44:34,030
+b-plus what what would have you learn
+about the process of learning of
+
+1790
+00:44:34,030 --> 00:44:34,040
+about the process of learning of
+ 
+
+1791
+00:44:34,040 --> 00:44:37,900
+about the process of learning of
+learning yeah well maybe to be elated to
+
+1792
+00:44:37,900 --> 00:44:37,910
+learning yeah well maybe to be elated to
+ 
+
+1793
+00:44:37,910 --> 00:44:40,300
+learning yeah well maybe to be elated to
+give you a legitimate answer about
+
+1794
+00:44:40,300 --> 00:44:40,310
+give you a legitimate answer about
+ 
+
+1795
+00:44:40,310 --> 00:44:42,880
+give you a legitimate answer about
+learning I should have paid more
+
+1796
+00:44:42,880 --> 00:44:42,890
+learning I should have paid more
+ 
+
+1797
+00:44:42,890 --> 00:44:45,720
+learning I should have paid more
+attention to the assessment the
+
+1798
+00:44:45,720 --> 00:44:45,730
+attention to the assessment the
+ 
+
+1799
+00:44:45,730 --> 00:44:48,220
+attention to the assessment the
+evaluation part at the end but I like
+
+1800
+00:44:48,220 --> 00:44:48,230
+evaluation part at the end but I like
+ 
+
+1801
+00:44:48,230 --> 00:44:50,110
+evaluation part at the end but I like
+the teaching part at the start that's
+
+1802
+00:44:50,110 --> 00:44:50,120
+the teaching part at the start that's
+ 
+
+1803
+00:44:50,120 --> 00:44:53,350
+the teaching part at the start that's
+the sexy part to tell somebody for the
+
+1804
+00:44:53,350 --> 00:44:53,360
+the sexy part to tell somebody for the
+ 
+
+1805
+00:44:53,360 --> 00:44:56,140
+the sexy part to tell somebody for the
+first time about a matrix Wow but is
+
+1806
+00:44:56,140 --> 00:44:56,150
+first time about a matrix Wow but is
+ 
+
+1807
+00:44:56,150 --> 00:45:00,610
+first time about a matrix Wow but is
+there are there moments so you are
+
+1808
+00:45:00,610 --> 00:45:00,620
+there are there moments so you are
+ 
+
+1809
+00:45:00,620 --> 00:45:02,770
+there are there moments so you are
+teaching a concept are there moments of
+
+1810
+00:45:02,770 --> 00:45:02,780
+teaching a concept are there moments of
+ 
+
+1811
+00:45:02,780 --> 00:45:05,620
+teaching a concept are there moments of
+learning that you just see in the
+
+1812
+00:45:05,620 --> 00:45:05,630
+learning that you just see in the
+ 
+
+1813
+00:45:05,630 --> 00:45:07,210
+learning that you just see in the
+students eyes you don't need to look at
+
+1814
+00:45:07,210 --> 00:45:07,220
+students eyes you don't need to look at
+ 
+
+1815
+00:45:07,220 --> 00:45:09,010
+students eyes you don't need to look at
+the grades yeah you see in their eyes
+
+1816
+00:45:09,010 --> 00:45:09,020
+the grades yeah you see in their eyes
+ 
+
+1817
+00:45:09,020 --> 00:45:13,240
+the grades yeah you see in their eyes
+that that you hooked them that you know
+
+1818
+00:45:13,240 --> 00:45:13,250
+that that you hooked them that you know
+ 
+
+1819
+00:45:13,250 --> 00:45:15,580
+that that you hooked them that you know
+that you connect with them in a way
+
+1820
+00:45:15,580 --> 00:45:15,590
+that you connect with them in a way
+ 
+
+1821
+00:45:15,590 --> 00:45:18,250
+that you connect with them in a way
+where you know what they fall in love
+
+1822
+00:45:18,250 --> 00:45:18,260
+where you know what they fall in love
+ 
+
+1823
+00:45:18,260 --> 00:45:21,130
+where you know what they fall in love
+with this yes beautiful world amazing
+
+1824
+00:45:21,130 --> 00:45:21,140
+with this yes beautiful world amazing
+ 
+
+1825
+00:45:21,140 --> 00:45:24,250
+with this yes beautiful world amazing
+see that it's got some beauty it's yeah
+
+1826
+00:45:24,250 --> 00:45:24,260
+see that it's got some beauty it's yeah
+ 
+
+1827
+00:45:24,260 --> 00:45:27,340
+see that it's got some beauty it's yeah
+or conversely yeah that they give up at
+
+1828
+00:45:27,340 --> 00:45:27,350
+or conversely yeah that they give up at
+ 
+
+1829
+00:45:27,350 --> 00:45:30,340
+or conversely yeah that they give up at
+that point is the opposite the darkest a
+
+1830
+00:45:30,340 --> 00:45:30,350
+that point is the opposite the darkest a
+ 
+
+1831
+00:45:30,350 --> 00:45:32,440
+that point is the opposite the darkest a
+the math I'm just not good at math and
+
+1832
+00:45:32,440 --> 00:45:32,450
+the math I'm just not good at math and
+ 
+
+1833
+00:45:32,450 --> 00:45:36,220
+the math I'm just not good at math and
+alcohol yeah yeah maybe because of the
+
+1834
+00:45:36,220 --> 00:45:36,230
+alcohol yeah yeah maybe because of the
+ 
+
+1835
+00:45:36,230 --> 00:45:38,230
+alcohol yeah yeah maybe because of the
+approach in the past they were
+
+1836
+00:45:38,230 --> 00:45:38,240
+approach in the past they were
+ 
+
+1837
+00:45:38,240 --> 00:45:39,940
+approach in the past they were
+discouraged but don't be discouraged
+
+1838
+00:45:39,940 --> 00:45:39,950
+discouraged but don't be discouraged
+ 
+
+1839
+00:45:39,950 --> 00:45:46,150
+discouraged but don't be discouraged
+it's it's too good to miss yeah I well
+
+1840
+00:45:46,150 --> 00:45:46,160
+it's it's too good to miss yeah I well
+ 
+
+1841
+00:45:46,160 --> 00:45:48,700
+it's it's too good to miss yeah I well
+if I'm teaching a big class do I know
+
+1842
+00:45:48,700 --> 00:45:48,710
+if I'm teaching a big class do I know
+ 
+
+1843
+00:45:48,710 --> 00:45:53,190
+if I'm teaching a big class do I know
+when I think maybe I do sort of I
+
+1844
+00:45:53,190 --> 00:45:53,200
+when I think maybe I do sort of I
+ 
+
+1845
+00:45:53,200 --> 00:45:57,250
+when I think maybe I do sort of I
+mentioned at the very start the four
+
+1846
+00:45:57,250 --> 00:45:57,260
+mentioned at the very start the four
+ 
+
+1847
+00:45:57,260 --> 00:46:00,430
+mentioned at the very start the four
+fundamental subspaces and the structure
+
+1848
+00:46:00,430 --> 00:46:00,440
+fundamental subspaces and the structure
+ 
+
+1849
+00:46:00,440 --> 00:46:03,310
+fundamental subspaces and the structure
+of the fundamental theorem of linear
+
+1850
+00:46:03,310 --> 00:46:03,320
+of the fundamental theorem of linear
+ 
+
+1851
+00:46:03,320 --> 00:46:05,800
+of the fundamental theorem of linear
+algebra the fundamental theorem of
+
+1852
+00:46:05,800 --> 00:46:05,810
+algebra the fundamental theorem of
+ 
+
+1853
+00:46:05,810 --> 00:46:09,070
+algebra the fundamental theorem of
+linear algebra that is the relation of
+
+1854
+00:46:09,070 --> 00:46:09,080
+linear algebra that is the relation of
+ 
+
+1855
+00:46:09,080 --> 00:46:12,570
+linear algebra that is the relation of
+those four subspaces those four spaces
+
+1856
+00:46:12,570 --> 00:46:12,580
+those four subspaces those four spaces
+ 
+
+1857
+00:46:12,580 --> 00:46:16,630
+those four subspaces those four spaces
+yeah so I think that I feel that the
+
+1858
+00:46:16,630 --> 00:46:16,640
+yeah so I think that I feel that the
+ 
+
+1859
+00:46:16,640 --> 00:46:19,210
+yeah so I think that I feel that the
+class gets it when they want to see the
+
+1860
+00:46:19,210 --> 00:46:19,220
+class gets it when they want to see the
+ 
+
+1861
+00:46:19,220 --> 00:46:22,329
+class gets it when they want to see the
+what advice do you have to a student
+
+1862
+00:46:22,329 --> 00:46:22,339
+what advice do you have to a student
+ 
+
+1863
+00:46:22,339 --> 00:46:24,250
+what advice do you have to a student
+just starting their journey mathematics
+
+1864
+00:46:24,250 --> 00:46:24,260
+just starting their journey mathematics
+ 
+
+1865
+00:46:24,260 --> 00:46:26,740
+just starting their journey mathematics
+today how do they get started
+
+1866
+00:46:26,740 --> 00:46:26,750
+today how do they get started
+ 
+
+1867
+00:46:26,750 --> 00:46:31,720
+today how do they get started
+Oh No yeah that's hard well I hope you
+
+1868
+00:46:31,720 --> 00:46:31,730
+Oh No yeah that's hard well I hope you
+ 
+
+1869
+00:46:31,730 --> 00:46:36,730
+Oh No yeah that's hard well I hope you
+have a teacher professor who is still
+
+1870
+00:46:36,730 --> 00:46:36,740
+have a teacher professor who is still
+ 
+
+1871
+00:46:36,740 --> 00:46:40,120
+have a teacher professor who is still
+enjoying what he's doing and what he's
+
+1872
+00:46:40,120 --> 00:46:40,130
+enjoying what he's doing and what he's
+ 
+
+1873
+00:46:40,130 --> 00:46:42,430
+enjoying what he's doing and what he's
+teaching they're still looking for new
+
+1874
+00:46:42,430 --> 00:46:42,440
+teaching they're still looking for new
+ 
+
+1875
+00:46:42,440 --> 00:46:47,069
+teaching they're still looking for new
+ways to teach and and to understand math
+
+1876
+00:46:47,069 --> 00:46:47,079
+ways to teach and and to understand math
+ 
+
+1877
+00:46:47,079 --> 00:46:51,220
+ways to teach and and to understand math
+because that's the pleasure to the
+
+1878
+00:46:51,220 --> 00:46:51,230
+because that's the pleasure to the
+ 
+
+1879
+00:46:51,230 --> 00:46:54,190
+because that's the pleasure to the
+moment when you see oh yeah that works
+
+1880
+00:46:54,190 --> 00:46:54,200
+moment when you see oh yeah that works
+ 
+
+1881
+00:46:54,200 --> 00:46:57,309
+moment when you see oh yeah that works
+so it's s about the material you yeah
+
+1882
+00:46:57,309 --> 00:46:57,319
+so it's s about the material you yeah
+ 
+
+1883
+00:46:57,319 --> 00:47:00,339
+so it's s about the material you yeah
+you study it's more about the source of
+
+1884
+00:47:00,339 --> 00:47:00,349
+you study it's more about the source of
+ 
+
+1885
+00:47:00,349 --> 00:47:04,059
+you study it's more about the source of
+the teacher being full of passion yeah
+
+1886
+00:47:04,059 --> 00:47:04,069
+the teacher being full of passion yeah
+ 
+
+1887
+00:47:04,069 --> 00:47:07,930
+the teacher being full of passion yeah
+more about the fun yeah there's a moment
+
+1888
+00:47:07,930 --> 00:47:07,940
+more about the fun yeah there's a moment
+ 
+
+1889
+00:47:07,940 --> 00:47:12,450
+more about the fun yeah there's a moment
+of of getting it but in terms of topics
+
+1890
+00:47:12,450 --> 00:47:12,460
+of of getting it but in terms of topics
+ 
+
+1891
+00:47:12,460 --> 00:47:16,270
+of of getting it but in terms of topics
+linear algebra well that's not my topic
+
+1892
+00:47:16,270 --> 00:47:16,280
+linear algebra well that's not my topic
+ 
+
+1893
+00:47:16,280 --> 00:47:19,120
+linear algebra well that's not my topic
+but oh there's beautiful things in
+
+1894
+00:47:19,120 --> 00:47:19,130
+but oh there's beautiful things in
+ 
+
+1895
+00:47:19,130 --> 00:47:21,640
+but oh there's beautiful things in
+geometry to understand what's wonderful
+
+1896
+00:47:21,640 --> 00:47:21,650
+geometry to understand what's wonderful
+ 
+
+1897
+00:47:21,650 --> 00:47:26,079
+geometry to understand what's wonderful
+is that in the end there there's a
+
+1898
+00:47:26,079 --> 00:47:26,089
+is that in the end there there's a
+ 
+
+1899
+00:47:26,089 --> 00:47:28,780
+is that in the end there there's a
+pattern there there's their rules that
+
+1900
+00:47:28,780 --> 00:47:28,790
+pattern there there's their rules that
+ 
+
+1901
+00:47:28,790 --> 00:47:34,150
+pattern there there's their rules that
+that that are followed in biology as
+
+1902
+00:47:34,150 --> 00:47:34,160
+that that are followed in biology as
+ 
+
+1903
+00:47:34,160 --> 00:47:40,859
+that that are followed in biology as
+there are in every field you describe
+
+1904
+00:47:40,859 --> 00:47:40,869
+
+ 
+
+1905
+00:47:40,869 --> 00:47:43,289
+
+imitation as as a hundred percent
+
+1906
+00:47:43,289 --> 00:47:43,299
+imitation as as a hundred percent
+ 
+
+1907
+00:47:43,299 --> 00:47:46,890
+imitation as as a hundred percent
+wonderful except for the great stuff
+
+1908
+00:47:46,890 --> 00:47:46,900
+wonderful except for the great stuff
+ 
+
+1909
+00:47:46,900 --> 00:47:50,039
+wonderful except for the great stuff
+yeah and the grades were great yeah when
+
+1910
+00:47:50,039 --> 00:47:50,049
+yeah and the grades were great yeah when
+ 
+
+1911
+00:47:50,049 --> 00:47:52,319
+yeah and the grades were great yeah when
+you look back at your life yeah what
+
+1912
+00:47:52,319 --> 00:47:52,329
+you look back at your life yeah what
+ 
+
+1913
+00:47:52,329 --> 00:47:54,299
+you look back at your life yeah what
+memories bring you the most joy and
+
+1914
+00:47:54,299 --> 00:47:54,309
+memories bring you the most joy and
+ 
+
+1915
+00:47:54,309 --> 00:47:58,910
+memories bring you the most joy and
+pride well that's a good question I
+
+1916
+00:47:58,910 --> 00:47:58,920
+pride well that's a good question I
+ 
+
+1917
+00:47:58,920 --> 00:48:02,519
+pride well that's a good question I
+certainly feel good when I maybe I'm
+
+1918
+00:48:02,519 --> 00:48:02,529
+certainly feel good when I maybe I'm
+ 
+
+1919
+00:48:02,529 --> 00:48:06,690
+certainly feel good when I maybe I'm
+giving a class in in 1806 that's mi
+
+1920
+00:48:06,690 --> 00:48:06,700
+giving a class in in 1806 that's mi
+ 
+
+1921
+00:48:06,700 --> 00:48:08,279
+giving a class in in 1806 that's mi
+t--'s linear algebra course that I
+
+1922
+00:48:08,279 --> 00:48:08,289
+t--'s linear algebra course that I
+ 
+
+1923
+00:48:08,289 --> 00:48:10,499
+t--'s linear algebra course that I
+started so sort of there's a good
+
+1924
+00:48:10,499 --> 00:48:10,509
+started so sort of there's a good
+ 
+
+1925
+00:48:10,509 --> 00:48:13,109
+started so sort of there's a good
+feeling that okay I started this course
+
+1926
+00:48:13,109 --> 00:48:13,119
+feeling that okay I started this course
+ 
+
+1927
+00:48:13,119 --> 00:48:16,170
+feeling that okay I started this course
+a lot of students take it quite a few
+
+1928
+00:48:16,170 --> 00:48:16,180
+a lot of students take it quite a few
+ 
+
+1929
+00:48:16,180 --> 00:48:20,640
+a lot of students take it quite a few
+like it yeah so I'm I'm sort of happy
+
+1930
+00:48:20,640 --> 00:48:20,650
+like it yeah so I'm I'm sort of happy
+ 
+
+1931
+00:48:20,650 --> 00:48:24,269
+like it yeah so I'm I'm sort of happy
+when I feel I'm helping helping make a
+
+1932
+00:48:24,269 --> 00:48:24,279
+when I feel I'm helping helping make a
+ 
+
+1933
+00:48:24,279 --> 00:48:27,029
+when I feel I'm helping helping make a
+connection between ideas and students
+
+1934
+00:48:27,029 --> 00:48:27,039
+connection between ideas and students
+ 
+
+1935
+00:48:27,039 --> 00:48:33,599
+connection between ideas and students
+between theory and the reader yeah it's
+
+1936
+00:48:33,599 --> 00:48:33,609
+between theory and the reader yeah it's
+ 
+
+1937
+00:48:33,609 --> 00:48:38,880
+between theory and the reader yeah it's
+I get a lot of very nice messages from
+
+1938
+00:48:38,880 --> 00:48:38,890
+I get a lot of very nice messages from
+ 
+
+1939
+00:48:38,890 --> 00:48:41,309
+I get a lot of very nice messages from
+people who've watched the videos and
+
+1940
+00:48:41,309 --> 00:48:41,319
+people who've watched the videos and
+ 
+
+1941
+00:48:41,319 --> 00:48:44,849
+people who've watched the videos and
+it's inspiring I just not maybe it's
+
+1942
+00:48:44,849 --> 00:48:44,859
+it's inspiring I just not maybe it's
+ 
+
+1943
+00:48:44,859 --> 00:48:47,239
+it's inspiring I just not maybe it's
+take this chance to say thank you
+
+1944
+00:48:47,239 --> 00:48:47,249
+take this chance to say thank you
+ 
+
+1945
+00:48:47,249 --> 00:48:50,519
+take this chance to say thank you
+well there's millions of students who
+
+1946
+00:48:50,519 --> 00:48:50,529
+well there's millions of students who
+ 
+
+1947
+00:48:50,529 --> 00:48:53,430
+well there's millions of students who
+you've taught and I am grateful to be
+
+1948
+00:48:53,430 --> 00:48:53,440
+you've taught and I am grateful to be
+ 
+
+1949
+00:48:53,440 --> 00:48:55,470
+you've taught and I am grateful to be
+one of them so good birth thank you so
+
+1950
+00:48:55,470 --> 00:48:55,480
+one of them so good birth thank you so
+ 
+
+1951
+00:48:55,480 --> 00:48:57,029
+one of them so good birth thank you so
+much has been an honor thank you for
+
+1952
+00:48:57,029 --> 00:48:57,039
+much has been an honor thank you for
+ 
+
+1953
+00:48:57,039 --> 00:49:00,620
+much has been an honor thank you for
+talking to it was a pleasure thanks
+
+1954
+00:49:00,620 --> 00:49:00,630
+talking to it was a pleasure thanks
+ 
+
+1955
+00:49:00,630 --> 00:49:01,670
+talking to it was a pleasure thanks
+thank you for listening to this
+
+1956
+00:49:01,670 --> 00:49:01,680
+thank you for listening to this
+ 
+
+1957
+00:49:01,680 --> 00:49:03,860
+thank you for listening to this
+conversation with Gilbert Strang and
+
+1958
+00:49:03,860 --> 00:49:03,870
+conversation with Gilbert Strang and
+ 
+
+1959
+00:49:03,870 --> 00:49:06,440
+conversation with Gilbert Strang and
+thank you to our presenting sponsor cash
+
+1960
+00:49:06,440 --> 00:49:06,450
+thank you to our presenting sponsor cash
+ 
+
+1961
+00:49:06,450 --> 00:49:09,500
+thank you to our presenting sponsor cash
+app downloaded used collects podcast
+
+1962
+00:49:09,500 --> 00:49:09,510
+app downloaded used collects podcast
+ 
+
+1963
+00:49:09,510 --> 00:49:11,630
+app downloaded used collects podcast
+you'll get ten dollars and ten dollars
+
+1964
+00:49:11,630 --> 00:49:11,640
+you'll get ten dollars and ten dollars
+ 
+
+1965
+00:49:11,640 --> 00:49:13,700
+you'll get ten dollars and ten dollars
+will go to first a stem education
+
+1966
+00:49:13,700 --> 00:49:13,710
+will go to first a stem education
+ 
+
+1967
+00:49:13,710 --> 00:49:15,860
+will go to first a stem education
+nonprofit that inspires hundreds of
+
+1968
+00:49:15,860 --> 00:49:15,870
+nonprofit that inspires hundreds of
+ 
+
+1969
+00:49:15,870 --> 00:49:18,410
+nonprofit that inspires hundreds of
+thousands of young minds to learn and to
+
+1970
+00:49:18,410 --> 00:49:18,420
+thousands of young minds to learn and to
+ 
+
+1971
+00:49:18,420 --> 00:49:20,930
+thousands of young minds to learn and to
+dream of engineering our future if you
+
+1972
+00:49:20,930 --> 00:49:20,940
+dream of engineering our future if you
+ 
+
+1973
+00:49:20,940 --> 00:49:23,360
+dream of engineering our future if you
+enjoy this podcast subscribe on youtube
+
+1974
+00:49:23,360 --> 00:49:23,370
+enjoy this podcast subscribe on youtube
+ 
+
+1975
+00:49:23,370 --> 00:49:25,550
+enjoy this podcast subscribe on youtube
+we had five stars in an apple podcast
+
+1976
+00:49:25,550 --> 00:49:25,560
+we had five stars in an apple podcast
+ 
+
+1977
+00:49:25,560 --> 00:49:27,080
+we had five stars in an apple podcast
+support on patreon
+
+1978
+00:49:27,080 --> 00:49:27,090
+support on patreon
+ 
+
+1979
+00:49:27,090 --> 00:49:29,750
+support on patreon
+I'll connect with me on Twitter finally
+
+1980
+00:49:29,750 --> 00:49:29,760
+I'll connect with me on Twitter finally
+ 
+
+1981
+00:49:29,760 --> 00:49:32,150
+I'll connect with me on Twitter finally
+some closing words of advice from the
+
+1982
+00:49:32,150 --> 00:49:32,160
+some closing words of advice from the
+ 
+
+1983
+00:49:32,160 --> 00:49:34,910
+some closing words of advice from the
+great Richard Fineman study hard would
+
+1984
+00:49:34,910 --> 00:49:34,920
+great Richard Fineman study hard would
+ 
+
+1985
+00:49:34,920 --> 00:49:36,830
+great Richard Fineman study hard would
+interest you the most in the most
+
+1986
+00:49:36,830 --> 00:49:36,840
+interest you the most in the most
+ 
+
+1987
+00:49:36,840 --> 00:49:39,650
+interest you the most in the most
+undisciplined irreverent an original
+
+1988
+00:49:39,650 --> 00:49:39,660
+undisciplined irreverent an original
+ 
+
+1989
+00:49:39,660 --> 00:49:41,900
+undisciplined irreverent an original
+manner possible thank you for listening
+
+1990
+00:49:41,900 --> 00:49:41,910
+manner possible thank you for listening
+ 
+
+1991
+00:49:41,910 --> 00:49:51,250
+manner possible thank you for listening
+and hope to see you next time
+
+1992
+00:49:51,250 --> 00:49:51,260
+
+ 
+
+1993
+00:49:51,260 --> 00:49:53,320
+
+you
+

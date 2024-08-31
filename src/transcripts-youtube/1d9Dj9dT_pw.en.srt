@@ -1,0 +1,7175 @@
+1
+00:00:00,060 --> 00:00:01,579
+
+the following is a conversation with
+
+2
+00:00:01,579 --> 00:00:01,589
+the following is a conversation with
+ 
+
+3
+00:00:01,589 --> 00:00:03,889
+the following is a conversation with
+Colin angle he's the CEO and co-founder
+
+4
+00:00:03,889 --> 00:00:03,899
+Colin angle he's the CEO and co-founder
+ 
+
+5
+00:00:03,899 --> 00:00:07,760
+Colin angle he's the CEO and co-founder
+of iRobot a robotics company that for 29
+
+6
+00:00:07,760 --> 00:00:07,770
+of iRobot a robotics company that for 29
+ 
+
+7
+00:00:07,770 --> 00:00:09,830
+of iRobot a robotics company that for 29
+years has been creating robots that
+
+8
+00:00:09,830 --> 00:00:09,840
+years has been creating robots that
+ 
+
+9
+00:00:09,840 --> 00:00:11,930
+years has been creating robots that
+operate successfully in the real world
+
+10
+00:00:11,930 --> 00:00:11,940
+operate successfully in the real world
+ 
+
+11
+00:00:11,940 --> 00:00:15,110
+operate successfully in the real world
+not as a demo or on a scale of dozens
+
+12
+00:00:15,110 --> 00:00:15,120
+not as a demo or on a scale of dozens
+ 
+
+13
+00:00:15,120 --> 00:00:17,290
+not as a demo or on a scale of dozens
+but on a scale of thousands and millions
+
+14
+00:00:17,290 --> 00:00:17,300
+but on a scale of thousands and millions
+ 
+
+15
+00:00:17,300 --> 00:00:19,880
+but on a scale of thousands and millions
+as of this year
+
+16
+00:00:19,880 --> 00:00:19,890
+as of this year
+ 
+
+17
+00:00:19,890 --> 00:00:23,450
+as of this year
+iRobot has sold more than 25 million
+
+18
+00:00:23,450 --> 00:00:23,460
+iRobot has sold more than 25 million
+ 
+
+19
+00:00:23,460 --> 00:00:26,660
+iRobot has sold more than 25 million
+robots to consumers including the Roomba
+
+20
+00:00:26,660 --> 00:00:26,670
+robots to consumers including the Roomba
+ 
+
+21
+00:00:26,670 --> 00:00:28,939
+robots to consumers including the Roomba
+vacuum cleaning robot the Bravo floor
+
+22
+00:00:28,939 --> 00:00:28,949
+vacuum cleaning robot the Bravo floor
+ 
+
+23
+00:00:28,949 --> 00:00:31,540
+vacuum cleaning robot the Bravo floor
+mopping robot and soon the Terra
+
+24
+00:00:31,540 --> 00:00:31,550
+mopping robot and soon the Terra
+ 
+
+25
+00:00:31,550 --> 00:00:35,090
+mopping robot and soon the Terra
+lawn-mowing robot 29 million robots
+
+26
+00:00:35,090 --> 00:00:35,100
+lawn-mowing robot 29 million robots
+ 
+
+27
+00:00:35,100 --> 00:00:37,400
+lawn-mowing robot 29 million robots
+successfully operating autonomously in
+
+28
+00:00:37,400 --> 00:00:37,410
+successfully operating autonomously in
+ 
+
+29
+00:00:37,410 --> 00:00:40,340
+successfully operating autonomously in
+real people's homes to me is an
+
+30
+00:00:40,340 --> 00:00:40,350
+real people's homes to me is an
+ 
+
+31
+00:00:40,350 --> 00:00:42,650
+real people's homes to me is an
+incredible accomplishment of science
+
+32
+00:00:42,650 --> 00:00:42,660
+incredible accomplishment of science
+ 
+
+33
+00:00:42,660 --> 00:00:46,160
+incredible accomplishment of science
+engineering logistics and all kinds of
+
+34
+00:00:46,160 --> 00:00:46,170
+engineering logistics and all kinds of
+ 
+
+35
+00:00:46,170 --> 00:00:49,010
+engineering logistics and all kinds of
+general entrepreneurial innovation most
+
+36
+00:00:49,010 --> 00:00:49,020
+general entrepreneurial innovation most
+ 
+
+37
+00:00:49,020 --> 00:00:52,520
+general entrepreneurial innovation most
+robotics companies fail iRobot has
+
+38
+00:00:52,520 --> 00:00:52,530
+robotics companies fail iRobot has
+ 
+
+39
+00:00:52,530 --> 00:00:55,850
+robotics companies fail iRobot has
+survived and succeeded for 29 years
+
+40
+00:00:55,850 --> 00:00:55,860
+survived and succeeded for 29 years
+ 
+
+41
+00:00:55,860 --> 00:00:59,360
+survived and succeeded for 29 years
+I spent all day at iRobot including a
+
+42
+00:00:59,360 --> 00:00:59,370
+I spent all day at iRobot including a
+ 
+
+43
+00:00:59,370 --> 00:01:01,400
+I spent all day at iRobot including a
+long tour and conversation with Colin
+
+44
+00:01:01,400 --> 00:01:01,410
+long tour and conversation with Colin
+ 
+
+45
+00:01:01,410 --> 00:01:04,460
+long tour and conversation with Colin
+about the history of iRobot and then sat
+
+46
+00:01:04,460 --> 00:01:04,470
+about the history of iRobot and then sat
+ 
+
+47
+00:01:04,470 --> 00:01:06,800
+about the history of iRobot and then sat
+down for this podcast conversation that
+
+48
+00:01:06,800 --> 00:01:06,810
+down for this podcast conversation that
+ 
+
+49
+00:01:06,810 --> 00:01:09,050
+down for this podcast conversation that
+would have been much longer if I didn't
+
+50
+00:01:09,050 --> 00:01:09,060
+would have been much longer if I didn't
+ 
+
+51
+00:01:09,060 --> 00:01:11,179
+would have been much longer if I didn't
+spend all day learning about and playing
+
+52
+00:01:11,179 --> 00:01:11,189
+spend all day learning about and playing
+ 
+
+53
+00:01:11,189 --> 00:01:12,890
+spend all day learning about and playing
+with the various robots in the company's
+
+54
+00:01:12,890 --> 00:01:12,900
+with the various robots in the company's
+ 
+
+55
+00:01:12,900 --> 00:01:15,679
+with the various robots in the company's
+history I'll release the video of the
+
+56
+00:01:15,679 --> 00:01:15,689
+history I'll release the video of the
+ 
+
+57
+00:01:15,689 --> 00:01:19,609
+history I'll release the video of the
+tour separately Colin iRobot its
+
+58
+00:01:19,609 --> 00:01:19,619
+tour separately Colin iRobot its
+ 
+
+59
+00:01:19,619 --> 00:01:22,160
+tour separately Colin iRobot its
+founding team its current team and its
+
+60
+00:01:22,160 --> 00:01:22,170
+founding team its current team and its
+ 
+
+61
+00:01:22,170 --> 00:01:24,740
+founding team its current team and its
+mission has been and continues to be an
+
+62
+00:01:24,740 --> 00:01:24,750
+mission has been and continues to be an
+ 
+
+63
+00:01:24,750 --> 00:01:26,960
+mission has been and continues to be an
+inspiration to me and thousands of
+
+64
+00:01:26,960 --> 00:01:26,970
+inspiration to me and thousands of
+ 
+
+65
+00:01:26,970 --> 00:01:29,240
+inspiration to me and thousands of
+engineers who are working hard to create
+
+66
+00:01:29,240 --> 00:01:29,250
+engineers who are working hard to create
+ 
+
+67
+00:01:29,250 --> 00:01:33,469
+engineers who are working hard to create
+AI systems that help real people this is
+
+68
+00:01:33,469 --> 00:01:33,479
+AI systems that help real people this is
+ 
+
+69
+00:01:33,479 --> 00:01:35,600
+AI systems that help real people this is
+the artificial intelligence podcast if
+
+70
+00:01:35,600 --> 00:01:35,610
+the artificial intelligence podcast if
+ 
+
+71
+00:01:35,610 --> 00:01:36,469
+the artificial intelligence podcast if
+you enjoy it
+
+72
+00:01:36,469 --> 00:01:36,479
+you enjoy it
+ 
+
+73
+00:01:36,479 --> 00:01:38,539
+you enjoy it
+subscribe on YouTube give it five stars
+
+74
+00:01:38,539 --> 00:01:38,549
+subscribe on YouTube give it five stars
+ 
+
+75
+00:01:38,549 --> 00:01:41,060
+subscribe on YouTube give it five stars
+and iTunes supported on patreon or
+
+76
+00:01:41,060 --> 00:01:41,070
+and iTunes supported on patreon or
+ 
+
+77
+00:01:41,070 --> 00:01:43,670
+and iTunes supported on patreon or
+simply connect with me on Twitter at Lux
+
+78
+00:01:43,670 --> 00:01:43,680
+simply connect with me on Twitter at Lux
+ 
+
+79
+00:01:43,680 --> 00:01:47,450
+simply connect with me on Twitter at Lux
+Friedman spelled Fri D ma a.m. and now
+
+80
+00:01:47,450 --> 00:01:47,460
+Friedman spelled Fri D ma a.m. and now
+ 
+
+81
+00:01:47,460 --> 00:01:51,960
+Friedman spelled Fri D ma a.m. and now
+here's my conversation with Colin angle
+
+82
+00:01:51,960 --> 00:01:51,970
+here's my conversation with Colin angle
+ 
+
+83
+00:01:51,970 --> 00:01:55,260
+here's my conversation with Colin angle
+in his 1942 short story runaround from
+
+84
+00:01:55,260 --> 00:01:55,270
+in his 1942 short story runaround from
+ 
+
+85
+00:01:55,270 --> 00:01:58,820
+in his 1942 short story runaround from
+his iRobot collection as a Asimov
+
+86
+00:01:58,820 --> 00:01:58,830
+his iRobot collection as a Asimov
+ 
+
+87
+00:01:58,830 --> 00:02:01,730
+his iRobot collection as a Asimov
+proposed the Three Laws of Robotics in
+
+88
+00:02:01,730 --> 00:02:01,740
+proposed the Three Laws of Robotics in
+ 
+
+89
+00:02:01,740 --> 00:02:04,970
+proposed the Three Laws of Robotics in
+order don't harm humans obey orders
+
+90
+00:02:04,970 --> 00:02:04,980
+order don't harm humans obey orders
+ 
+
+91
+00:02:04,980 --> 00:02:07,880
+order don't harm humans obey orders
+protect yourself so two questions first
+
+92
+00:02:07,880 --> 00:02:07,890
+protect yourself so two questions first
+ 
+
+93
+00:02:07,890 --> 00:02:10,830
+protect yourself so two questions first
+does the Roomba follow these three laws
+
+94
+00:02:10,830 --> 00:02:10,840
+does the Roomba follow these three laws
+ 
+
+95
+00:02:10,840 --> 00:02:15,600
+does the Roomba follow these three laws
+and also more seriously what role do you
+
+96
+00:02:15,600 --> 00:02:15,610
+and also more seriously what role do you
+ 
+
+97
+00:02:15,610 --> 00:02:17,550
+and also more seriously what role do you
+hope to see robots take in modern
+
+98
+00:02:17,550 --> 00:02:17,560
+hope to see robots take in modern
+ 
+
+99
+00:02:17,560 --> 00:02:21,990
+hope to see robots take in modern
+society in the future world so the three
+
+100
+00:02:21,990 --> 00:02:22,000
+society in the future world so the three
+ 
+
+101
+00:02:22,000 --> 00:02:26,450
+society in the future world so the three
+laws are very thought-provoking and
+
+102
+00:02:26,450 --> 00:02:26,460
+laws are very thought-provoking and
+ 
+
+103
+00:02:26,460 --> 00:02:32,240
+laws are very thought-provoking and
+require such a profound understanding of
+
+104
+00:02:32,240 --> 00:02:32,250
+require such a profound understanding of
+ 
+
+105
+00:02:32,250 --> 00:02:36,420
+require such a profound understanding of
+the world a robot lives in the
+
+106
+00:02:36,420 --> 00:02:36,430
+the world a robot lives in the
+ 
+
+107
+00:02:36,430 --> 00:02:38,820
+the world a robot lives in the
+ramifications of its action and its own
+
+108
+00:02:38,820 --> 00:02:38,830
+ramifications of its action and its own
+ 
+
+109
+00:02:38,830 --> 00:02:44,360
+ramifications of its action and its own
+sense of self that it's not a relevant
+
+110
+00:02:44,360 --> 00:02:44,370
+sense of self that it's not a relevant
+ 
+
+111
+00:02:44,370 --> 00:02:48,210
+sense of self that it's not a relevant
+bar at least it won't be a relevant bar
+
+112
+00:02:48,210 --> 00:02:48,220
+bar at least it won't be a relevant bar
+ 
+
+113
+00:02:48,220 --> 00:02:53,280
+bar at least it won't be a relevant bar
+for decades to come and so if Roomba
+
+114
+00:02:53,280 --> 00:02:53,290
+for decades to come and so if Roomba
+ 
+
+115
+00:02:53,290 --> 00:02:56,160
+for decades to come and so if Roomba
+follows the three laws and I believe it
+
+116
+00:02:56,160 --> 00:02:56,170
+follows the three laws and I believe it
+ 
+
+117
+00:02:56,170 --> 00:02:59,729
+follows the three laws and I believe it
+does you know it is designed to help
+
+118
+00:02:59,729 --> 00:02:59,739
+does you know it is designed to help
+ 
+
+119
+00:02:59,739 --> 00:03:01,740
+does you know it is designed to help
+humans not hurt them it's designed to be
+
+120
+00:03:01,740 --> 00:03:01,750
+humans not hurt them it's designed to be
+ 
+
+121
+00:03:01,750 --> 00:03:05,010
+humans not hurt them it's designed to be
+inherently safe and we design it to last
+
+122
+00:03:05,010 --> 00:03:05,020
+inherently safe and we design it to last
+ 
+
+123
+00:03:05,020 --> 00:03:08,940
+inherently safe and we design it to last
+a long time it's not through any AI or
+
+124
+00:03:08,940 --> 00:03:08,950
+a long time it's not through any AI or
+ 
+
+125
+00:03:08,950 --> 00:03:12,180
+a long time it's not through any AI or
+intent on the robots part it's because
+
+126
+00:03:12,180 --> 00:03:12,190
+intent on the robots part it's because
+ 
+
+127
+00:03:12,190 --> 00:03:15,930
+intent on the robots part it's because
+following the Three Laws is aligned with
+
+128
+00:03:15,930 --> 00:03:15,940
+following the Three Laws is aligned with
+ 
+
+129
+00:03:15,940 --> 00:03:20,670
+following the Three Laws is aligned with
+being a good robot product so um so I
+
+130
+00:03:20,670 --> 00:03:20,680
+being a good robot product so um so I
+ 
+
+131
+00:03:20,680 --> 00:03:25,500
+being a good robot product so um so I
+guess it does but it does by not by
+
+132
+00:03:25,500 --> 00:03:25,510
+guess it does but it does by not by
+ 
+
+133
+00:03:25,510 --> 00:03:27,870
+guess it does but it does by not by
+explicit design so then the bigger
+
+134
+00:03:27,870 --> 00:03:27,880
+explicit design so then the bigger
+ 
+
+135
+00:03:27,880 --> 00:03:29,940
+explicit design so then the bigger
+picture well what role do you hope to
+
+136
+00:03:29,940 --> 00:03:29,950
+picture well what role do you hope to
+ 
+
+137
+00:03:29,950 --> 00:03:34,560
+picture well what role do you hope to
+see robotics robots take in our what's
+
+138
+00:03:34,560 --> 00:03:34,570
+see robotics robots take in our what's
+ 
+
+139
+00:03:34,570 --> 00:03:37,560
+see robotics robots take in our what's
+currently mostly a world of humans we
+
+140
+00:03:37,560 --> 00:03:37,570
+currently mostly a world of humans we
+ 
+
+141
+00:03:37,570 --> 00:03:42,710
+currently mostly a world of humans we
+need robots to help us continue to
+
+142
+00:03:42,710 --> 00:03:42,720
+need robots to help us continue to
+ 
+
+143
+00:03:42,720 --> 00:03:46,590
+need robots to help us continue to
+improve our standard of living we need
+
+144
+00:03:46,590 --> 00:03:46,600
+improve our standard of living we need
+ 
+
+145
+00:03:46,600 --> 00:03:48,690
+improve our standard of living we need
+robots
+
+146
+00:03:48,690 --> 00:03:48,700
+robots
+ 
+
+147
+00:03:48,700 --> 00:03:53,040
+robots
+because the average age of humanity is
+
+148
+00:03:53,040 --> 00:03:53,050
+because the average age of humanity is
+ 
+
+149
+00:03:53,050 --> 00:03:56,550
+because the average age of humanity is
+increasing very quickly and simply the
+
+150
+00:03:56,550 --> 00:03:56,560
+increasing very quickly and simply the
+ 
+
+151
+00:03:56,560 --> 00:04:00,570
+increasing very quickly and simply the
+number of people young enough and spry
+
+152
+00:04:00,570 --> 00:04:00,580
+number of people young enough and spry
+ 
+
+153
+00:04:00,580 --> 00:04:05,420
+number of people young enough and spry
+enough to care for the elder growing
+
+154
+00:04:05,420 --> 00:04:05,430
+enough to care for the elder growing
+ 
+
+155
+00:04:05,430 --> 00:04:09,660
+enough to care for the elder growing
+demographic is inadequate and so what is
+
+156
+00:04:09,660 --> 00:04:09,670
+demographic is inadequate and so what is
+ 
+
+157
+00:04:09,670 --> 00:04:12,479
+demographic is inadequate and so what is
+the role of robots today the role is to
+
+158
+00:04:12,479 --> 00:04:12,489
+the role of robots today the role is to
+ 
+
+159
+00:04:12,489 --> 00:04:15,540
+the role of robots today the role is to
+make our lives a little easier a little
+
+160
+00:04:15,540 --> 00:04:15,550
+make our lives a little easier a little
+ 
+
+161
+00:04:15,550 --> 00:04:19,110
+make our lives a little easier a little
+cleaner maybe a little healthier but in
+
+162
+00:04:19,110 --> 00:04:19,120
+cleaner maybe a little healthier but in
+ 
+
+163
+00:04:19,120 --> 00:04:21,810
+cleaner maybe a little healthier but in
+time robots are going to be the
+
+164
+00:04:21,810 --> 00:04:21,820
+time robots are going to be the
+ 
+
+165
+00:04:21,820 --> 00:04:24,690
+time robots are going to be the
+difference between real gut wrenching
+
+166
+00:04:24,690 --> 00:04:24,700
+difference between real gut wrenching
+ 
+
+167
+00:04:24,700 --> 00:04:26,790
+difference between real gut wrenching
+declines in our ability to live
+
+168
+00:04:26,790 --> 00:04:26,800
+declines in our ability to live
+ 
+
+169
+00:04:26,800 --> 00:04:29,430
+declines in our ability to live
+independently and maintain our standard
+
+170
+00:04:29,430 --> 00:04:29,440
+independently and maintain our standard
+ 
+
+171
+00:04:29,440 --> 00:04:33,450
+independently and maintain our standard
+of living and a future that is the
+
+172
+00:04:33,450 --> 00:04:33,460
+of living and a future that is the
+ 
+
+173
+00:04:33,460 --> 00:04:36,960
+of living and a future that is the
+bright one where we have more control of
+
+174
+00:04:36,960 --> 00:04:36,970
+bright one where we have more control of
+ 
+
+175
+00:04:36,970 --> 00:04:39,620
+bright one where we have more control of
+our lives can spend more of our time
+
+176
+00:04:39,620 --> 00:04:39,630
+our lives can spend more of our time
+ 
+
+177
+00:04:39,630 --> 00:04:47,250
+our lives can spend more of our time
+focused on activities we choose and so
+
+178
+00:04:47,250 --> 00:04:47,260
+focused on activities we choose and so
+ 
+
+179
+00:04:47,260 --> 00:04:49,260
+focused on activities we choose and so
+honored and excited to be playing a role
+
+180
+00:04:49,260 --> 00:04:49,270
+honored and excited to be playing a role
+ 
+
+181
+00:04:49,270 --> 00:04:51,900
+honored and excited to be playing a role
+in that journey so you give me a tour it
+
+182
+00:04:51,900 --> 00:04:51,910
+in that journey so you give me a tour it
+ 
+
+183
+00:04:51,910 --> 00:04:54,180
+in that journey so you give me a tour it
+showed me some of the long histories now
+
+184
+00:04:54,180 --> 00:04:54,190
+showed me some of the long histories now
+ 
+
+185
+00:04:54,190 --> 00:04:57,180
+showed me some of the long histories now
+29 years that I iRobot has been at it
+
+186
+00:04:57,180 --> 00:04:57,190
+29 years that I iRobot has been at it
+ 
+
+187
+00:04:57,190 --> 00:04:59,400
+29 years that I iRobot has been at it
+creating some incredible robots who
+
+188
+00:04:59,400 --> 00:04:59,410
+creating some incredible robots who
+ 
+
+189
+00:04:59,410 --> 00:05:01,860
+creating some incredible robots who
+showed me Pat bot he showed me a bunch
+
+190
+00:05:01,860 --> 00:05:01,870
+showed me Pat bot he showed me a bunch
+ 
+
+191
+00:05:01,870 --> 00:05:04,469
+showed me Pat bot he showed me a bunch
+of other stuff that led up to Roomba
+
+192
+00:05:04,469 --> 00:05:04,479
+of other stuff that led up to Roomba
+ 
+
+193
+00:05:04,479 --> 00:05:12,000
+of other stuff that led up to Roomba
+that led to Brava and Terra so let's
+
+194
+00:05:12,000 --> 00:05:12,010
+that led to Brava and Terra so let's
+ 
+
+195
+00:05:12,010 --> 00:05:14,250
+that led to Brava and Terra so let's
+skip that incredible history in the
+
+196
+00:05:14,250 --> 00:05:14,260
+skip that incredible history in the
+ 
+
+197
+00:05:14,260 --> 00:05:15,420
+skip that incredible history in the
+interest of time because we already
+
+198
+00:05:15,420 --> 00:05:15,430
+interest of time because we already
+ 
+
+199
+00:05:15,430 --> 00:05:16,529
+interest of time because we already
+talked about it I'll show this
+
+200
+00:05:16,529 --> 00:05:16,539
+talked about it I'll show this
+ 
+
+201
+00:05:16,539 --> 00:05:17,400
+talked about it I'll show this
+incredible footage
+
+202
+00:05:17,400 --> 00:05:17,410
+incredible footage
+ 
+
+203
+00:05:17,410 --> 00:05:21,719
+incredible footage
+you mentioned elderly and robotics and
+
+204
+00:05:21,719 --> 00:05:21,729
+you mentioned elderly and robotics and
+ 
+
+205
+00:05:21,729 --> 00:05:23,909
+you mentioned elderly and robotics and
+society I think the home is a
+
+206
+00:05:23,909 --> 00:05:23,919
+society I think the home is a
+ 
+
+207
+00:05:23,919 --> 00:05:26,400
+society I think the home is a
+fascinating place for robots to be so
+
+208
+00:05:26,400 --> 00:05:26,410
+fascinating place for robots to be so
+ 
+
+209
+00:05:26,410 --> 00:05:29,190
+fascinating place for robots to be so
+where do you see robots in the home
+
+210
+00:05:29,190 --> 00:05:29,200
+where do you see robots in the home
+ 
+
+211
+00:05:29,200 --> 00:05:31,409
+where do you see robots in the home
+currently I would say once again
+
+212
+00:05:31,409 --> 00:05:31,419
+currently I would say once again
+ 
+
+213
+00:05:31,419 --> 00:05:33,120
+currently I would say once again
+probably most homes in the world don't
+
+214
+00:05:33,120 --> 00:05:33,130
+probably most homes in the world don't
+ 
+
+215
+00:05:33,130 --> 00:05:35,610
+probably most homes in the world don't
+have a robot so how do you see that
+
+216
+00:05:35,610 --> 00:05:35,620
+have a robot so how do you see that
+ 
+
+217
+00:05:35,620 --> 00:05:38,279
+have a robot so how do you see that
+changing woody things the big initial
+
+218
+00:05:38,279 --> 00:05:38,289
+changing woody things the big initial
+ 
+
+219
+00:05:38,289 --> 00:05:42,510
+changing woody things the big initial
+value add that robots can do so iRobot
+
+220
+00:05:42,510 --> 00:05:42,520
+value add that robots can do so iRobot
+ 
+
+221
+00:05:42,520 --> 00:05:45,659
+value add that robots can do so iRobot
+has sort of over the years narrowed in
+
+222
+00:05:45,659 --> 00:05:45,669
+has sort of over the years narrowed in
+ 
+
+223
+00:05:45,669 --> 00:05:49,980
+has sort of over the years narrowed in
+on the home the consumers home as the
+
+224
+00:05:49,980 --> 00:05:49,990
+on the home the consumers home as the
+ 
+
+225
+00:05:49,990 --> 00:05:53,360
+on the home the consumers home as the
+place where we want to innovate and
+
+226
+00:05:53,360 --> 00:05:53,370
+place where we want to innovate and
+ 
+
+227
+00:05:53,370 --> 00:05:58,120
+place where we want to innovate and
+deliver tools that
+
+228
+00:05:58,120 --> 00:05:58,130
+deliver tools that
+ 
+
+229
+00:05:58,130 --> 00:06:01,530
+deliver tools that
+we'll help a home be a more
+
+230
+00:06:01,530 --> 00:06:01,540
+we'll help a home be a more
+ 
+
+231
+00:06:01,540 --> 00:06:04,270
+we'll help a home be a more
+automatically maintained place a
+
+232
+00:06:04,270 --> 00:06:04,280
+automatically maintained place a
+ 
+
+233
+00:06:04,280 --> 00:06:06,940
+automatically maintained place a
+healthier place a safer place and
+
+234
+00:06:06,940 --> 00:06:06,950
+healthier place a safer place and
+ 
+
+235
+00:06:06,950 --> 00:06:10,720
+healthier place a safer place and
+perhaps even a more efficient place to
+
+236
+00:06:10,720 --> 00:06:10,730
+perhaps even a more efficient place to
+ 
+
+237
+00:06:10,730 --> 00:06:14,800
+perhaps even a more efficient place to
+be and you know today we vacuum we mop
+
+238
+00:06:14,800 --> 00:06:14,810
+be and you know today we vacuum we mop
+ 
+
+239
+00:06:14,810 --> 00:06:19,330
+be and you know today we vacuum we mop
+soon we'll be mowing your lawn but where
+
+240
+00:06:19,330 --> 00:06:19,340
+soon we'll be mowing your lawn but where
+ 
+
+241
+00:06:19,340 --> 00:06:23,230
+soon we'll be mowing your lawn but where
+things are going is when do we get to
+
+242
+00:06:23,230 --> 00:06:23,240
+things are going is when do we get to
+ 
+
+243
+00:06:23,240 --> 00:06:27,550
+things are going is when do we get to
+the point where the home not just the
+
+244
+00:06:27,550 --> 00:06:27,560
+the point where the home not just the
+ 
+
+245
+00:06:27,560 --> 00:06:29,350
+the point where the home not just the
+robots that live in your home but the
+
+246
+00:06:29,350 --> 00:06:29,360
+robots that live in your home but the
+ 
+
+247
+00:06:29,360 --> 00:06:31,570
+robots that live in your home but the
+home itself becomes part of a system
+
+248
+00:06:31,570 --> 00:06:31,580
+home itself becomes part of a system
+ 
+
+249
+00:06:31,580 --> 00:06:34,570
+home itself becomes part of a system
+that maintains itself and plays an
+
+250
+00:06:34,570 --> 00:06:34,580
+that maintains itself and plays an
+ 
+
+251
+00:06:34,580 --> 00:06:38,980
+that maintains itself and plays an
+active role in caring for and helping
+
+252
+00:06:38,980 --> 00:06:38,990
+active role in caring for and helping
+ 
+
+253
+00:06:38,990 --> 00:06:40,960
+active role in caring for and helping
+the people who live in that home and I
+
+254
+00:06:40,960 --> 00:06:40,970
+the people who live in that home and I
+ 
+
+255
+00:06:40,970 --> 00:06:43,750
+the people who live in that home and I
+see everything that we're doing as steps
+
+256
+00:06:43,750 --> 00:06:43,760
+see everything that we're doing as steps
+ 
+
+257
+00:06:43,760 --> 00:06:46,270
+see everything that we're doing as steps
+along the path toward that future so
+
+258
+00:06:46,270 --> 00:06:46,280
+along the path toward that future so
+ 
+
+259
+00:06:46,280 --> 00:06:48,640
+along the path toward that future so
+what are the what are the steps so if we
+
+260
+00:06:48,640 --> 00:06:48,650
+what are the what are the steps so if we
+ 
+
+261
+00:06:48,650 --> 00:06:51,040
+what are the what are the steps so if we
+can summarize some of the history of
+
+262
+00:06:51,040 --> 00:06:51,050
+can summarize some of the history of
+ 
+
+263
+00:06:51,050 --> 00:06:54,460
+can summarize some of the history of
+Roomba the you've mentioned and maybe
+
+264
+00:06:54,460 --> 00:06:54,470
+Roomba the you've mentioned and maybe
+ 
+
+265
+00:06:54,470 --> 00:06:55,900
+Roomba the you've mentioned and maybe
+you can elaborate on it but you
+
+266
+00:06:55,900 --> 00:06:55,910
+you can elaborate on it but you
+ 
+
+267
+00:06:55,910 --> 00:06:57,310
+you can elaborate on it but you
+mentioned that the early days were
+
+268
+00:06:57,310 --> 00:06:57,320
+mentioned that the early days were
+ 
+
+269
+00:06:57,320 --> 00:07:01,540
+mentioned that the early days were
+really taking a robot from something
+
+270
+00:07:01,540 --> 00:07:01,550
+really taking a robot from something
+ 
+
+271
+00:07:01,550 --> 00:07:03,340
+really taking a robot from something
+that works either in the lab or
+
+272
+00:07:03,340 --> 00:07:03,350
+that works either in the lab or
+ 
+
+273
+00:07:03,350 --> 00:07:04,960
+that works either in the lab or
+something that works in the field that
+
+274
+00:07:04,960 --> 00:07:04,970
+something that works in the field that
+ 
+
+275
+00:07:04,970 --> 00:07:09,430
+something that works in the field that
+helps soldiers do the difficult work
+
+276
+00:07:09,430 --> 00:07:09,440
+helps soldiers do the difficult work
+ 
+
+277
+00:07:09,440 --> 00:07:11,470
+helps soldiers do the difficult work
+they do to actually be in the hands of
+
+278
+00:07:11,470 --> 00:07:11,480
+they do to actually be in the hands of
+ 
+
+279
+00:07:11,480 --> 00:07:14,710
+they do to actually be in the hands of
+consumers and tens of thousands hundreds
+
+280
+00:07:14,710 --> 00:07:14,720
+consumers and tens of thousands hundreds
+ 
+
+281
+00:07:14,720 --> 00:07:16,060
+consumers and tens of thousands hundreds
+of thousands robots that don't break
+
+282
+00:07:16,060 --> 00:07:16,070
+of thousands robots that don't break
+ 
+
+283
+00:07:16,070 --> 00:07:18,670
+of thousands robots that don't break
+down over how much people love them over
+
+284
+00:07:18,670 --> 00:07:18,680
+down over how much people love them over
+ 
+
+285
+00:07:18,680 --> 00:07:21,820
+down over how much people love them over
+months of very extensive use so that was
+
+286
+00:07:21,820 --> 00:07:21,830
+months of very extensive use so that was
+ 
+
+287
+00:07:21,830 --> 00:07:23,650
+months of very extensive use so that was
+the big first step and then the second
+
+288
+00:07:23,650 --> 00:07:23,660
+the big first step and then the second
+ 
+
+289
+00:07:23,660 --> 00:07:27,040
+the big first step and then the second
+big step was the ability to sense the
+
+290
+00:07:27,040 --> 00:07:27,050
+big step was the ability to sense the
+ 
+
+291
+00:07:27,050 --> 00:07:29,770
+big step was the ability to sense the
+environment to build a map to localize
+
+292
+00:07:29,770 --> 00:07:29,780
+environment to build a map to localize
+ 
+
+293
+00:07:29,780 --> 00:07:31,810
+environment to build a map to localize
+to be able to build a picture of the
+
+294
+00:07:31,810 --> 00:07:31,820
+to be able to build a picture of the
+ 
+
+295
+00:07:31,820 --> 00:07:33,820
+to be able to build a picture of the
+home that the human can then attach
+
+296
+00:07:33,820 --> 00:07:33,830
+home that the human can then attach
+ 
+
+297
+00:07:33,830 --> 00:07:37,000
+home that the human can then attach
+labels to in terms of you know giving
+
+298
+00:07:37,000 --> 00:07:37,010
+labels to in terms of you know giving
+ 
+
+299
+00:07:37,010 --> 00:07:39,010
+labels to in terms of you know giving
+some semantic knowledge to the robot
+
+300
+00:07:39,010 --> 00:07:39,020
+some semantic knowledge to the robot
+ 
+
+301
+00:07:39,020 --> 00:07:41,680
+some semantic knowledge to the robot
+about its environment okay so that's
+
+302
+00:07:41,680 --> 00:07:41,690
+about its environment okay so that's
+ 
+
+303
+00:07:41,690 --> 00:07:46,570
+about its environment okay so that's
+like a huge two big huge steps now maybe
+
+304
+00:07:46,570 --> 00:07:46,580
+like a huge two big huge steps now maybe
+ 
+
+305
+00:07:46,580 --> 00:07:48,610
+like a huge two big huge steps now maybe
+you can comment on them but also what is
+
+306
+00:07:48,610 --> 00:07:48,620
+you can comment on them but also what is
+ 
+
+307
+00:07:48,620 --> 00:07:53,560
+you can comment on them but also what is
+the the the next step of of making a
+
+308
+00:07:53,560 --> 00:07:53,570
+the the the next step of of making a
+ 
+
+309
+00:07:53,570 --> 00:07:56,800
+the the the next step of of making a
+robot part of the home sure so the goal
+
+310
+00:07:56,800 --> 00:07:56,810
+robot part of the home sure so the goal
+ 
+
+311
+00:07:56,810 --> 00:08:00,160
+robot part of the home sure so the goal
+is to make a home that that takes care
+
+312
+00:08:00,160 --> 00:08:00,170
+is to make a home that that takes care
+ 
+
+313
+00:08:00,170 --> 00:08:01,360
+is to make a home that that takes care
+of itself
+
+314
+00:08:01,360 --> 00:08:01,370
+of itself
+ 
+
+315
+00:08:01,370 --> 00:08:04,290
+of itself
+takes care of the people in the home and
+
+316
+00:08:04,290 --> 00:08:04,300
+takes care of the people in the home and
+ 
+
+317
+00:08:04,300 --> 00:08:06,970
+takes care of the people in the home and
+gives a user and experience of just
+
+318
+00:08:06,970 --> 00:08:06,980
+gives a user and experience of just
+ 
+
+319
+00:08:06,980 --> 00:08:08,560
+gives a user and experience of just
+living their life in the home is somehow
+
+320
+00:08:08,560 --> 00:08:08,570
+living their life in the home is somehow
+ 
+
+321
+00:08:08,570 --> 00:08:11,080
+living their life in the home is somehow
+doing the right thing
+
+322
+00:08:11,080 --> 00:08:11,090
+doing the right thing
+ 
+
+323
+00:08:11,090 --> 00:08:16,090
+doing the right thing
+lights when you leave cleaning up the
+
+324
+00:08:16,090 --> 00:08:16,100
+lights when you leave cleaning up the
+ 
+
+325
+00:08:16,100 --> 00:08:22,780
+lights when you leave cleaning up the
+environment and we went from robots that
+
+326
+00:08:22,780 --> 00:08:22,790
+environment and we went from robots that
+ 
+
+327
+00:08:22,790 --> 00:08:26,020
+environment and we went from robots that
+were great in the lab but we're both too
+
+328
+00:08:26,020 --> 00:08:26,030
+were great in the lab but we're both too
+ 
+
+329
+00:08:26,030 --> 00:08:29,680
+were great in the lab but we're both too
+expensive and not sufficiently capable
+
+330
+00:08:29,680 --> 00:08:29,690
+expensive and not sufficiently capable
+ 
+
+331
+00:08:29,690 --> 00:08:33,730
+expensive and not sufficiently capable
+to ever do an acceptable job of anything
+
+332
+00:08:33,730 --> 00:08:33,740
+to ever do an acceptable job of anything
+ 
+
+333
+00:08:33,740 --> 00:08:36,969
+to ever do an acceptable job of anything
+other than being a toy or curio in your
+
+334
+00:08:36,969 --> 00:08:36,979
+other than being a toy or curio in your
+ 
+
+335
+00:08:36,979 --> 00:08:40,170
+other than being a toy or curio in your
+home to something that was both
+
+336
+00:08:40,170 --> 00:08:40,180
+home to something that was both
+ 
+
+337
+00:08:40,180 --> 00:08:44,230
+home to something that was both
+affordable and sufficiently effective to
+
+338
+00:08:44,230 --> 00:08:44,240
+affordable and sufficiently effective to
+ 
+
+339
+00:08:44,240 --> 00:08:47,260
+affordable and sufficiently effective to
+drive you know be a threshold and drive
+
+340
+00:08:47,260 --> 00:08:47,270
+drive you know be a threshold and drive
+ 
+
+341
+00:08:47,270 --> 00:08:52,120
+drive you know be a threshold and drive
+purchase intent now we've disrupted the
+
+342
+00:08:52,120 --> 00:08:52,130
+purchase intent now we've disrupted the
+ 
+
+343
+00:08:52,130 --> 00:08:56,680
+purchase intent now we've disrupted the
+entire vacuuming industry the number one
+
+344
+00:08:56,680 --> 00:08:56,690
+entire vacuuming industry the number one
+ 
+
+345
+00:08:56,690 --> 00:08:59,710
+entire vacuuming industry the number one
+selling vacuums for example in the u.s.
+
+346
+00:08:59,710 --> 00:08:59,720
+selling vacuums for example in the u.s.
+ 
+
+347
+00:08:59,720 --> 00:09:02,500
+selling vacuums for example in the u.s.
+our room bows so not robot vacuums but
+
+348
+00:09:02,500 --> 00:09:02,510
+our room bows so not robot vacuums but
+ 
+
+349
+00:09:02,510 --> 00:09:03,760
+our room bows so not robot vacuums but
+vacuums and that's really crazy and
+
+350
+00:09:03,760 --> 00:09:03,770
+vacuums and that's really crazy and
+ 
+
+351
+00:09:03,770 --> 00:09:06,519
+vacuums and that's really crazy and
+weird and yes we need to pause and
+
+352
+00:09:06,519 --> 00:09:06,529
+weird and yes we need to pause and
+ 
+
+353
+00:09:06,529 --> 00:09:09,310
+weird and yes we need to pause and
+that's incredible that's this is
+
+354
+00:09:09,310 --> 00:09:09,320
+that's incredible that's this is
+ 
+
+355
+00:09:09,320 --> 00:09:11,710
+that's incredible that's this is
+incredible that a robot is this is the
+
+356
+00:09:11,710 --> 00:09:11,720
+incredible that a robot is this is the
+ 
+
+357
+00:09:11,720 --> 00:09:14,110
+incredible that a robot is this is the
+number one selling thing that does
+
+358
+00:09:14,110 --> 00:09:14,120
+number one selling thing that does
+ 
+
+359
+00:09:14,120 --> 00:09:17,200
+number one selling thing that does
+something yep everything as essential as
+
+360
+00:09:17,200 --> 00:09:17,210
+something yep everything as essential as
+ 
+
+361
+00:09:17,210 --> 00:09:21,910
+something yep everything as essential as
+vacuuming so we're it's still kind of
+
+362
+00:09:21,910 --> 00:09:21,920
+vacuuming so we're it's still kind of
+ 
+
+363
+00:09:21,920 --> 00:09:24,070
+vacuuming so we're it's still kind of
+fun to say but they just because this
+
+364
+00:09:24,070 --> 00:09:24,080
+fun to say but they just because this
+ 
+
+365
+00:09:24,080 --> 00:09:28,140
+fun to say but they just because this
+was a crazy idea that that just started
+
+366
+00:09:28,140 --> 00:09:28,150
+was a crazy idea that that just started
+ 
+
+367
+00:09:28,150 --> 00:09:32,350
+was a crazy idea that that just started
+you know in a room here we're like do
+
+368
+00:09:32,350 --> 00:09:32,360
+you know in a room here we're like do
+ 
+
+369
+00:09:32,360 --> 00:09:35,560
+you know in a room here we're like do
+you think we can do this hey let's give
+
+370
+00:09:35,560 --> 00:09:35,570
+you think we can do this hey let's give
+ 
+
+371
+00:09:35,570 --> 00:09:40,090
+you think we can do this hey let's give
+it a try but but now the robots are
+
+372
+00:09:40,090 --> 00:09:40,100
+it a try but but now the robots are
+ 
+
+373
+00:09:40,100 --> 00:09:41,829
+it a try but but now the robots are
+starting to understand their environment
+
+374
+00:09:41,829 --> 00:09:41,839
+starting to understand their environment
+ 
+
+375
+00:09:41,839 --> 00:09:45,570
+starting to understand their environment
+and if you think about the next step
+
+376
+00:09:45,570 --> 00:09:45,580
+and if you think about the next step
+ 
+
+377
+00:09:45,580 --> 00:09:49,600
+and if you think about the next step
+there's two dimensions I've been working
+
+378
+00:09:49,600 --> 00:09:49,610
+there's two dimensions I've been working
+ 
+
+379
+00:09:49,610 --> 00:09:53,140
+there's two dimensions I've been working
+so hard since the beginning of iRobot to
+
+380
+00:09:53,140 --> 00:09:53,150
+so hard since the beginning of iRobot to
+ 
+
+381
+00:09:53,150 --> 00:09:56,290
+so hard since the beginning of iRobot to
+make robots are autonomous that you know
+
+382
+00:09:56,290 --> 00:09:56,300
+make robots are autonomous that you know
+ 
+
+383
+00:09:56,300 --> 00:09:58,270
+make robots are autonomous that you know
+they're smart enough and understand
+
+384
+00:09:58,270 --> 00:09:58,280
+they're smart enough and understand
+ 
+
+385
+00:09:58,280 --> 00:10:00,160
+they're smart enough and understand
+their task enough they they can just go
+
+386
+00:10:00,160 --> 00:10:00,170
+their task enough they they can just go
+ 
+
+387
+00:10:00,170 --> 00:10:04,540
+their task enough they they can just go
+do it without human involvement now what
+
+388
+00:10:04,540 --> 00:10:04,550
+do it without human involvement now what
+ 
+
+389
+00:10:04,550 --> 00:10:07,840
+do it without human involvement now what
+I'm really excited and working on is how
+
+390
+00:10:07,840 --> 00:10:07,850
+I'm really excited and working on is how
+ 
+
+391
+00:10:07,850 --> 00:10:10,139
+I'm really excited and working on is how
+do I make them less autonomous
+
+392
+00:10:10,139 --> 00:10:10,149
+do I make them less autonomous
+ 
+
+393
+00:10:10,149 --> 00:10:14,189
+do I make them less autonomous
+meaning that the robot is supposed to be
+
+394
+00:10:14,189 --> 00:10:14,199
+meaning that the robot is supposed to be
+ 
+
+395
+00:10:14,199 --> 00:10:17,220
+meaning that the robot is supposed to be
+your partner not this automaton that
+
+396
+00:10:17,220 --> 00:10:17,230
+your partner not this automaton that
+ 
+
+397
+00:10:17,230 --> 00:10:20,340
+your partner not this automaton that
+just goes and does what a robot does and
+
+398
+00:10:20,340 --> 00:10:20,350
+just goes and does what a robot does and
+ 
+
+399
+00:10:20,350 --> 00:10:23,759
+just goes and does what a robot does and
+so that if you tell it hey I just
+
+400
+00:10:23,759 --> 00:10:23,769
+so that if you tell it hey I just
+ 
+
+401
+00:10:23,769 --> 00:10:26,160
+so that if you tell it hey I just
+dropped some flower by the fridge in the
+
+402
+00:10:26,160 --> 00:10:26,170
+dropped some flower by the fridge in the
+ 
+
+403
+00:10:26,170 --> 00:10:28,220
+dropped some flower by the fridge in the
+kitchen not can you deal with it
+
+404
+00:10:28,220 --> 00:10:28,230
+kitchen not can you deal with it
+ 
+
+405
+00:10:28,230 --> 00:10:30,900
+kitchen not can you deal with it
+wouldn't be awesome if the right thing
+
+406
+00:10:30,900 --> 00:10:30,910
+wouldn't be awesome if the right thing
+ 
+
+407
+00:10:30,910 --> 00:10:32,030
+wouldn't be awesome if the right thing
+just happened
+
+408
+00:10:32,030 --> 00:10:32,040
+just happened
+ 
+
+409
+00:10:32,040 --> 00:10:36,030
+just happened
+based on that utterance and to some
+
+410
+00:10:36,030 --> 00:10:36,040
+based on that utterance and to some
+ 
+
+411
+00:10:36,040 --> 00:10:38,009
+based on that utterance and to some
+extent that's less autonomous because
+
+412
+00:10:38,009 --> 00:10:38,019
+extent that's less autonomous because
+ 
+
+413
+00:10:38,019 --> 00:10:40,129
+extent that's less autonomous because
+it's actually listening to you
+
+414
+00:10:40,129 --> 00:10:40,139
+it's actually listening to you
+ 
+
+415
+00:10:40,139 --> 00:10:42,660
+it's actually listening to you
+understanding the context and intent of
+
+416
+00:10:42,660 --> 00:10:42,670
+understanding the context and intent of
+ 
+
+417
+00:10:42,670 --> 00:10:46,189
+understanding the context and intent of
+the sentence mapping it against its
+
+418
+00:10:46,189 --> 00:10:46,199
+the sentence mapping it against its
+ 
+
+419
+00:10:46,199 --> 00:10:49,470
+the sentence mapping it against its
+understanding of the home it lives in
+
+420
+00:10:49,470 --> 00:10:49,480
+understanding of the home it lives in
+ 
+
+421
+00:10:49,480 --> 00:10:53,970
+understanding of the home it lives in
+and knowing what to do and so that's an
+
+422
+00:10:53,970 --> 00:10:53,980
+and knowing what to do and so that's an
+ 
+
+423
+00:10:53,980 --> 00:10:57,420
+and knowing what to do and so that's an
+area of research it's an area where
+
+424
+00:10:57,420 --> 00:10:57,430
+area of research it's an area where
+ 
+
+425
+00:10:57,430 --> 00:10:59,489
+area of research it's an area where
+we're starting to roll out features you
+
+426
+00:10:59,489 --> 00:10:59,499
+we're starting to roll out features you
+ 
+
+427
+00:10:59,499 --> 00:11:02,160
+we're starting to roll out features you
+can now tell your robot to clean up the
+
+428
+00:11:02,160 --> 00:11:02,170
+can now tell your robot to clean up the
+ 
+
+429
+00:11:02,170 --> 00:11:04,259
+can now tell your robot to clean up the
+kitchen and it knows what the kitchen is
+
+430
+00:11:04,259 --> 00:11:04,269
+kitchen and it knows what the kitchen is
+ 
+
+431
+00:11:04,269 --> 00:11:08,189
+kitchen and it knows what the kitchen is
+and can do that and that's sort of 1.0
+
+432
+00:11:08,189 --> 00:11:08,199
+and can do that and that's sort of 1.0
+ 
+
+433
+00:11:08,199 --> 00:11:09,590
+and can do that and that's sort of 1.0
+of where we're going
+
+434
+00:11:09,590 --> 00:11:09,600
+of where we're going
+ 
+
+435
+00:11:09,600 --> 00:11:12,629
+of where we're going
+the other cool thing is that we're
+
+436
+00:11:12,629 --> 00:11:12,639
+the other cool thing is that we're
+ 
+
+437
+00:11:12,639 --> 00:11:14,970
+the other cool thing is that we're
+starting to know where stuff is and why
+
+438
+00:11:14,970 --> 00:11:14,980
+starting to know where stuff is and why
+ 
+
+439
+00:11:14,980 --> 00:11:18,629
+starting to know where stuff is and why
+is that important well robots are
+
+440
+00:11:18,629 --> 00:11:18,639
+is that important well robots are
+ 
+
+441
+00:11:18,639 --> 00:11:22,139
+is that important well robots are
+supposed to have arms right data had an
+
+442
+00:11:22,139 --> 00:11:22,149
+supposed to have arms right data had an
+ 
+
+443
+00:11:22,149 --> 00:11:24,689
+supposed to have arms right data had an
+arm Rosie had an arm yeah Robbie the
+
+444
+00:11:24,689 --> 00:11:24,699
+arm Rosie had an arm yeah Robbie the
+ 
+
+445
+00:11:24,699 --> 00:11:26,400
+arm Rosie had an arm yeah Robbie the
+robot Hatter I mean brother you know
+
+446
+00:11:26,400 --> 00:11:26,410
+robot Hatter I mean brother you know
+ 
+
+447
+00:11:26,410 --> 00:11:28,139
+robot Hatter I mean brother you know
+they are physical things that move her
+
+448
+00:11:28,139 --> 00:11:28,149
+they are physical things that move her
+ 
+
+449
+00:11:28,149 --> 00:11:29,699
+they are physical things that move her
+around in an environment they're
+
+450
+00:11:29,699 --> 00:11:29,709
+around in an environment they're
+ 
+
+451
+00:11:29,709 --> 00:11:32,759
+around in an environment they're
+supposed to like do work yeah and if you
+
+452
+00:11:32,759 --> 00:11:32,769
+supposed to like do work yeah and if you
+ 
+
+453
+00:11:32,769 --> 00:11:34,860
+supposed to like do work yeah and if you
+think about it if a robot doesn't know
+
+454
+00:11:34,860 --> 00:11:34,870
+think about it if a robot doesn't know
+ 
+
+455
+00:11:34,870 --> 00:11:38,069
+think about it if a robot doesn't know
+anything where anything is why should it
+
+456
+00:11:38,069 --> 00:11:38,079
+anything where anything is why should it
+ 
+
+457
+00:11:38,079 --> 00:11:42,780
+anything where anything is why should it
+have an arm but with this new dawn of
+
+458
+00:11:42,780 --> 00:11:42,790
+have an arm but with this new dawn of
+ 
+
+459
+00:11:42,790 --> 00:11:45,030
+have an arm but with this new dawn of
+home understanding that we're starting
+
+460
+00:11:45,030 --> 00:11:45,040
+home understanding that we're starting
+ 
+
+461
+00:11:45,040 --> 00:11:48,840
+home understanding that we're starting
+to go enjoy I know where the kitchen is
+
+462
+00:11:48,840 --> 00:11:48,850
+to go enjoy I know where the kitchen is
+ 
+
+463
+00:11:48,850 --> 00:11:51,179
+to go enjoy I know where the kitchen is
+I might in the future know where the
+
+464
+00:11:51,179 --> 00:11:51,189
+I might in the future know where the
+ 
+
+465
+00:11:51,189 --> 00:11:53,939
+I might in the future know where the
+refrigerators I might if I had an arm be
+
+466
+00:11:53,939 --> 00:11:53,949
+refrigerators I might if I had an arm be
+ 
+
+467
+00:11:53,949 --> 00:11:55,860
+refrigerators I might if I had an arm be
+able to find the hand I'll open it and
+
+468
+00:11:55,860 --> 00:11:55,870
+able to find the hand I'll open it and
+ 
+
+469
+00:11:55,870 --> 00:11:59,220
+able to find the hand I'll open it and
+even get myself a beer obviously that's
+
+470
+00:11:59,220 --> 00:11:59,230
+even get myself a beer obviously that's
+ 
+
+471
+00:11:59,230 --> 00:12:02,040
+even get myself a beer obviously that's
+one of the true dreams of robotics as
+
+472
+00:12:02,040 --> 00:12:02,050
+one of the true dreams of robotics as
+ 
+
+473
+00:12:02,050 --> 00:12:03,809
+one of the true dreams of robotics as
+Deb robots bringing us a beer while we
+
+474
+00:12:03,809 --> 00:12:03,819
+Deb robots bringing us a beer while we
+ 
+
+475
+00:12:03,819 --> 00:12:07,230
+Deb robots bringing us a beer while we
+watch television but um you know I think
+
+476
+00:12:07,230 --> 00:12:07,240
+watch television but um you know I think
+ 
+
+477
+00:12:07,240 --> 00:12:11,419
+watch television but um you know I think
+that that new category of tasks where
+
+478
+00:12:11,419 --> 00:12:11,429
+that that new category of tasks where
+ 
+
+479
+00:12:11,429 --> 00:12:14,689
+that that new category of tasks where
+physical manipulation robot arms is a
+
+480
+00:12:14,689 --> 00:12:14,699
+physical manipulation robot arms is a
+ 
+
+481
+00:12:14,699 --> 00:12:19,079
+physical manipulation robot arms is a
+just a potpourri of new opportunity and
+
+482
+00:12:19,079 --> 00:12:19,089
+just a potpourri of new opportunity and
+ 
+
+483
+00:12:19,089 --> 00:12:21,840
+just a potpourri of new opportunity and
+excitement and you see humans as a
+
+484
+00:12:21,840 --> 00:12:21,850
+excitement and you see humans as a
+ 
+
+485
+00:12:21,850 --> 00:12:23,740
+excitement and you see humans as a
+crucial part of that
+
+486
+00:12:23,740 --> 00:12:23,750
+crucial part of that
+ 
+
+487
+00:12:23,750 --> 00:12:26,590
+crucial part of that
+so you kind of mentioned that and I
+
+488
+00:12:26,590 --> 00:12:26,600
+so you kind of mentioned that and I
+ 
+
+489
+00:12:26,600 --> 00:12:28,449
+so you kind of mentioned that and I
+personally find that a really compelling
+
+490
+00:12:28,449 --> 00:12:28,459
+personally find that a really compelling
+ 
+
+491
+00:12:28,459 --> 00:12:30,690
+personally find that a really compelling
+idea I think
+
+492
+00:12:30,690 --> 00:12:30,700
+idea I think
+ 
+
+493
+00:12:30,700 --> 00:12:33,360
+idea I think
+full autonomy can only take us so far
+
+494
+00:12:33,360 --> 00:12:33,370
+full autonomy can only take us so far
+ 
+
+495
+00:12:33,370 --> 00:12:36,660
+full autonomy can only take us so far
+especially in the home so you see humans
+
+496
+00:12:36,660 --> 00:12:36,670
+especially in the home so you see humans
+ 
+
+497
+00:12:36,670 --> 00:12:39,590
+especially in the home so you see humans
+is helping the robot understand or give
+
+498
+00:12:39,590 --> 00:12:39,600
+is helping the robot understand or give
+ 
+
+499
+00:12:39,600 --> 00:12:41,820
+is helping the robot understand or give
+deeper meaning to the spatial
+
+500
+00:12:41,820 --> 00:12:41,830
+deeper meaning to the spatial
+ 
+
+501
+00:12:41,830 --> 00:12:44,639
+deeper meaning to the spatial
+information right it's it's a
+
+502
+00:12:44,639 --> 00:12:44,649
+information right it's it's a
+ 
+
+503
+00:12:44,649 --> 00:12:47,759
+information right it's it's a
+partnership the robot is supposed to
+
+504
+00:12:47,759 --> 00:12:47,769
+partnership the robot is supposed to
+ 
+
+505
+00:12:47,769 --> 00:12:52,590
+partnership the robot is supposed to
+operate according to descriptors that
+
+506
+00:12:52,590 --> 00:12:52,600
+operate according to descriptors that
+ 
+
+507
+00:12:52,600 --> 00:12:56,120
+operate according to descriptors that
+you would use to describe your own home
+
+508
+00:12:56,120 --> 00:12:56,130
+you would use to describe your own home
+ 
+
+509
+00:12:56,130 --> 00:12:59,810
+you would use to describe your own home
+the robot is supposed to in lieu of
+
+510
+00:12:59,810 --> 00:12:59,820
+the robot is supposed to in lieu of
+ 
+
+511
+00:12:59,820 --> 00:13:03,060
+the robot is supposed to in lieu of
+better direction kind of go about its
+
+512
+00:13:03,060 --> 00:13:03,070
+better direction kind of go about its
+ 
+
+513
+00:13:03,070 --> 00:13:05,960
+better direction kind of go about its
+routine which ought to be basically
+
+514
+00:13:05,960 --> 00:13:05,970
+routine which ought to be basically
+ 
+
+515
+00:13:05,970 --> 00:13:12,509
+routine which ought to be basically
+right and lead to a home maintained in a
+
+516
+00:13:12,509 --> 00:13:12,519
+right and lead to a home maintained in a
+ 
+
+517
+00:13:12,519 --> 00:13:15,269
+right and lead to a home maintained in a
+way that it's learned you like but also
+
+518
+00:13:15,269 --> 00:13:15,279
+way that it's learned you like but also
+ 
+
+519
+00:13:15,279 --> 00:13:21,090
+way that it's learned you like but also
+be perpetually ready to take direction
+
+520
+00:13:21,090 --> 00:13:21,100
+be perpetually ready to take direction
+ 
+
+521
+00:13:21,100 --> 00:13:25,180
+be perpetually ready to take direction
+that would activate a different
+
+522
+00:13:25,180 --> 00:13:25,190
+that would activate a different
+ 
+
+523
+00:13:25,190 --> 00:13:27,940
+that would activate a different
+set of behaviors or actions to meet a
+
+524
+00:13:27,940 --> 00:13:27,950
+set of behaviors or actions to meet a
+ 
+
+525
+00:13:27,950 --> 00:13:29,680
+set of behaviors or actions to meet a
+current need to the extent it could
+
+526
+00:13:29,680 --> 00:13:29,690
+current need to the extent it could
+ 
+
+527
+00:13:29,690 --> 00:13:32,920
+current need to the extent it could
+actually perform that task so I gotta
+
+528
+00:13:32,920 --> 00:13:32,930
+actually perform that task so I gotta
+ 
+
+529
+00:13:32,930 --> 00:13:35,050
+actually perform that task so I gotta
+ask you I think this is a fundamental
+
+530
+00:13:35,050 --> 00:13:35,060
+ask you I think this is a fundamental
+ 
+
+531
+00:13:35,060 --> 00:13:37,930
+ask you I think this is a fundamental
+and fascinating question because iRobot
+
+532
+00:13:37,930 --> 00:13:37,940
+and fascinating question because iRobot
+ 
+
+533
+00:13:37,940 --> 00:13:40,270
+and fascinating question because iRobot
+has been a successful company and a rare
+
+534
+00:13:40,270 --> 00:13:40,280
+has been a successful company and a rare
+ 
+
+535
+00:13:40,280 --> 00:13:43,210
+has been a successful company and a rare
+successful robotics company so Anki
+
+536
+00:13:43,210 --> 00:13:43,220
+successful robotics company so Anki
+ 
+
+537
+00:13:43,220 --> 00:13:46,060
+successful robotics company so Anki
+geebo Mayfield robotics with a robot
+
+538
+00:13:46,060 --> 00:13:46,070
+geebo Mayfield robotics with a robot
+ 
+
+539
+00:13:46,070 --> 00:13:48,480
+geebo Mayfield robotics with a robot
+curry sci-fi works rethink robotics
+
+540
+00:13:48,480 --> 00:13:48,490
+curry sci-fi works rethink robotics
+ 
+
+541
+00:13:48,490 --> 00:13:50,830
+curry sci-fi works rethink robotics
+these were robotics companies that were
+
+542
+00:13:50,830 --> 00:13:50,840
+these were robotics companies that were
+ 
+
+543
+00:13:50,840 --> 00:13:54,340
+these were robotics companies that were
+founded and run by brilliant people but
+
+544
+00:13:54,340 --> 00:13:54,350
+founded and run by brilliant people but
+ 
+
+545
+00:13:54,350 --> 00:13:57,700
+founded and run by brilliant people but
+all very unfortunately for at least for
+
+546
+00:13:57,700 --> 00:13:57,710
+all very unfortunately for at least for
+ 
+
+547
+00:13:57,710 --> 00:14:00,400
+all very unfortunately for at least for
+us roboticists that and all went out of
+
+548
+00:14:00,400 --> 00:14:00,410
+us roboticists that and all went out of
+ 
+
+549
+00:14:00,410 --> 00:14:02,920
+us roboticists that and all went out of
+business recently so why do you think
+
+550
+00:14:02,920 --> 00:14:02,930
+business recently so why do you think
+ 
+
+551
+00:14:02,930 --> 00:14:05,740
+business recently so why do you think
+they didn't last longer why do you think
+
+552
+00:14:05,740 --> 00:14:05,750
+they didn't last longer why do you think
+ 
+
+553
+00:14:05,750 --> 00:14:08,580
+they didn't last longer why do you think
+it is so hard to keep a robotics company
+
+554
+00:14:08,580 --> 00:14:08,590
+it is so hard to keep a robotics company
+ 
+
+555
+00:14:08,590 --> 00:14:09,940
+it is so hard to keep a robotics company
+alive
+
+556
+00:14:09,940 --> 00:14:09,950
+alive
+ 
+
+557
+00:14:09,950 --> 00:14:13,570
+alive
+you know I say this only partially in
+
+558
+00:14:13,570 --> 00:14:13,580
+you know I say this only partially in
+ 
+
+559
+00:14:13,580 --> 00:14:16,980
+you know I say this only partially in
+jest that back in the day before Roomba
+
+560
+00:14:16,980 --> 00:14:16,990
+jest that back in the day before Roomba
+ 
+
+561
+00:14:16,990 --> 00:14:20,470
+jest that back in the day before Roomba
+you know I was a I was a high-tech
+
+562
+00:14:20,470 --> 00:14:20,480
+you know I was a I was a high-tech
+ 
+
+563
+00:14:20,480 --> 00:14:24,160
+you know I was a I was a high-tech
+entrepreneur building robots but it
+
+564
+00:14:24,160 --> 00:14:24,170
+entrepreneur building robots but it
+ 
+
+565
+00:14:24,170 --> 00:14:25,690
+entrepreneur building robots but it
+wasn't until I became a vacuum cleaner
+
+566
+00:14:25,690 --> 00:14:25,700
+wasn't until I became a vacuum cleaner
+ 
+
+567
+00:14:25,700 --> 00:14:29,530
+wasn't until I became a vacuum cleaner
+salesman that we had any success so
+
+568
+00:14:29,530 --> 00:14:29,540
+salesman that we had any success so
+ 
+
+569
+00:14:29,540 --> 00:14:32,500
+salesman that we had any success so
+though I mean the point is technology
+
+570
+00:14:32,500 --> 00:14:32,510
+though I mean the point is technology
+ 
+
+571
+00:14:32,510 --> 00:14:35,860
+though I mean the point is technology
+alone doesn't equal a successful
+
+572
+00:14:35,860 --> 00:14:35,870
+alone doesn't equal a successful
+ 
+
+573
+00:14:35,870 --> 00:14:40,650
+alone doesn't equal a successful
+business we need to go and find the
+
+574
+00:14:40,650 --> 00:14:40,660
+business we need to go and find the
+ 
+
+575
+00:14:40,660 --> 00:14:44,830
+business we need to go and find the
+compelling need where the robot that
+
+576
+00:14:44,830 --> 00:14:44,840
+compelling need where the robot that
+ 
+
+577
+00:14:44,840 --> 00:14:51,250
+compelling need where the robot that
+we're creating can deliver clearly more
+
+578
+00:14:51,250 --> 00:14:51,260
+we're creating can deliver clearly more
+ 
+
+579
+00:14:51,260 --> 00:14:55,800
+we're creating can deliver clearly more
+value to the end user than it costs and
+
+580
+00:14:55,800 --> 00:14:55,810
+value to the end user than it costs and
+ 
+
+581
+00:14:55,810 --> 00:14:59,140
+value to the end user than it costs and
+it's this is not a marginal thing where
+
+582
+00:14:59,140 --> 00:14:59,150
+it's this is not a marginal thing where
+ 
+
+583
+00:14:59,150 --> 00:15:01,180
+it's this is not a marginal thing where
+you're looking at the skin like it's
+
+584
+00:15:01,180 --> 00:15:01,190
+you're looking at the skin like it's
+ 
+
+585
+00:15:01,190 --> 00:15:03,460
+you're looking at the skin like it's
+closed maybe we can hold our breath and
+
+586
+00:15:03,460 --> 00:15:03,470
+closed maybe we can hold our breath and
+ 
+
+587
+00:15:03,470 --> 00:15:06,520
+closed maybe we can hold our breath and
+make it work it's clearly more value
+
+588
+00:15:06,520 --> 00:15:06,530
+make it work it's clearly more value
+ 
+
+589
+00:15:06,530 --> 00:15:11,920
+make it work it's clearly more value
+than the the cost of the robot to bring
+
+590
+00:15:11,920 --> 00:15:11,930
+than the the cost of the robot to bring
+ 
+
+591
+00:15:11,930 --> 00:15:14,350
+than the the cost of the robot to bring
+you know in the store and I think that
+
+592
+00:15:14,350 --> 00:15:14,360
+you know in the store and I think that
+ 
+
+593
+00:15:14,360 --> 00:15:18,990
+you know in the store and I think that
+the challenge has been finding those
+
+594
+00:15:18,990 --> 00:15:19,000
+the challenge has been finding those
+ 
+
+595
+00:15:19,000 --> 00:15:24,940
+the challenge has been finding those
+businesses where that's true in a
+
+596
+00:15:24,940 --> 00:15:24,950
+businesses where that's true in a
+ 
+
+597
+00:15:24,950 --> 00:15:27,680
+businesses where that's true in a
+sustainable fashion
+
+598
+00:15:27,680 --> 00:15:27,690
+sustainable fashion
+ 
+
+599
+00:15:27,690 --> 00:15:31,910
+sustainable fashion
+you know the the when you get into
+
+600
+00:15:31,910 --> 00:15:31,920
+you know the the when you get into
+ 
+
+601
+00:15:31,920 --> 00:15:35,380
+you know the the when you get into
+entertainment style things you could be
+
+602
+00:15:35,380 --> 00:15:35,390
+entertainment style things you could be
+ 
+
+603
+00:15:35,390 --> 00:15:40,330
+entertainment style things you could be
+the cat's meow one year but 85% of toys
+
+604
+00:15:40,330 --> 00:15:40,340
+the cat's meow one year but 85% of toys
+ 
+
+605
+00:15:40,340 --> 00:15:44,000
+the cat's meow one year but 85% of toys
+regardless of their merit fail to make
+
+606
+00:15:44,000 --> 00:15:44,010
+regardless of their merit fail to make
+ 
+
+607
+00:15:44,010 --> 00:15:45,770
+regardless of their merit fail to make
+it to their second season it's just
+
+608
+00:15:45,770 --> 00:15:45,780
+it to their second season it's just
+ 
+
+609
+00:15:45,780 --> 00:15:51,830
+it to their second season it's just
+super hard to do so and so that that's
+
+610
+00:15:51,830 --> 00:15:51,840
+super hard to do so and so that that's
+ 
+
+611
+00:15:51,840 --> 00:15:56,090
+super hard to do so and so that that's
+just a tough business and there have
+
+612
+00:15:56,090 --> 00:15:56,100
+just a tough business and there have
+ 
+
+613
+00:15:56,100 --> 00:15:58,390
+just a tough business and there have
+been a lot of experimentation around
+
+614
+00:15:58,390 --> 00:15:58,400
+been a lot of experimentation around
+ 
+
+615
+00:15:58,400 --> 00:16:01,400
+been a lot of experimentation around
+what is the right type of social
+
+616
+00:16:01,400 --> 00:16:01,410
+what is the right type of social
+ 
+
+617
+00:16:01,410 --> 00:16:05,450
+what is the right type of social
+companion what is the right robot in the
+
+618
+00:16:05,450 --> 00:16:05,460
+companion what is the right robot in the
+ 
+
+619
+00:16:05,460 --> 00:16:10,210
+companion what is the right robot in the
+home that is doing something other than
+
+620
+00:16:10,210 --> 00:16:10,220
+home that is doing something other than
+ 
+
+621
+00:16:10,220 --> 00:16:14,870
+home that is doing something other than
+tasks people do every week that they'd
+
+622
+00:16:14,870 --> 00:16:14,880
+tasks people do every week that they'd
+ 
+
+623
+00:16:14,880 --> 00:16:19,130
+tasks people do every week that they'd
+rather not do and I'm not sure we've got
+
+624
+00:16:19,130 --> 00:16:19,140
+rather not do and I'm not sure we've got
+ 
+
+625
+00:16:19,140 --> 00:16:21,470
+rather not do and I'm not sure we've got
+it all figured out right and so that you
+
+626
+00:16:21,470 --> 00:16:21,480
+it all figured out right and so that you
+ 
+
+627
+00:16:21,480 --> 00:16:23,750
+it all figured out right and so that you
+get brilliant roboticist with super
+
+628
+00:16:23,750 --> 00:16:23,760
+get brilliant roboticist with super
+ 
+
+629
+00:16:23,760 --> 00:16:29,030
+get brilliant roboticist with super
+interesting robots that ultimately don't
+
+630
+00:16:29,030 --> 00:16:29,040
+interesting robots that ultimately don't
+ 
+
+631
+00:16:29,040 --> 00:16:31,900
+interesting robots that ultimately don't
+quite have that magical user experience
+
+632
+00:16:31,900 --> 00:16:31,910
+quite have that magical user experience
+ 
+
+633
+00:16:31,910 --> 00:16:38,360
+quite have that magical user experience
+and thus the that value benefit equation
+
+634
+00:16:38,360 --> 00:16:38,370
+and thus the that value benefit equation
+ 
+
+635
+00:16:38,370 --> 00:16:41,810
+and thus the that value benefit equation
+remains ambiguous so you as somebody who
+
+636
+00:16:41,810 --> 00:16:41,820
+remains ambiguous so you as somebody who
+ 
+
+637
+00:16:41,820 --> 00:16:44,690
+remains ambiguous so you as somebody who
+dreams of robots you know changing the
+
+638
+00:16:44,690 --> 00:16:44,700
+dreams of robots you know changing the
+ 
+
+639
+00:16:44,700 --> 00:16:49,190
+dreams of robots you know changing the
+world what's your estimate why how big
+
+640
+00:16:49,190 --> 00:16:49,200
+world what's your estimate why how big
+ 
+
+641
+00:16:49,200 --> 00:16:54,020
+world what's your estimate why how big
+is the space of applications that fit
+
+642
+00:16:54,020 --> 00:16:54,030
+is the space of applications that fit
+ 
+
+643
+00:16:54,030 --> 00:16:55,580
+is the space of applications that fit
+the criteria that you just described
+
+644
+00:16:55,580 --> 00:16:55,590
+the criteria that you just described
+ 
+
+645
+00:16:55,590 --> 00:16:57,980
+the criteria that you just described
+where you can really demonstrate an
+
+646
+00:16:57,980 --> 00:16:57,990
+where you can really demonstrate an
+ 
+
+647
+00:16:57,990 --> 00:17:00,800
+where you can really demonstrate an
+obvious significant value over the
+
+648
+00:17:00,800 --> 00:17:00,810
+obvious significant value over the
+ 
+
+649
+00:17:00,810 --> 00:17:04,809
+obvious significant value over the
+alternative non robot bought a solution
+
+650
+00:17:04,809 --> 00:17:04,819
+alternative non robot bought a solution
+ 
+
+651
+00:17:04,819 --> 00:17:07,819
+alternative non robot bought a solution
+well I think that we're just about none
+
+652
+00:17:07,819 --> 00:17:07,829
+well I think that we're just about none
+ 
+
+653
+00:17:07,829 --> 00:17:11,750
+well I think that we're just about none
+of the way to achieving the potential of
+
+654
+00:17:11,750 --> 00:17:11,760
+of the way to achieving the potential of
+ 
+
+655
+00:17:11,760 --> 00:17:14,300
+of the way to achieving the potential of
+robotics at home but we have to do it in
+
+656
+00:17:14,300 --> 00:17:14,310
+robotics at home but we have to do it in
+ 
+
+657
+00:17:14,310 --> 00:17:19,790
+robotics at home but we have to do it in
+a really eyes wide open
+
+658
+00:17:19,790 --> 00:17:19,800
+a really eyes wide open
+ 
+
+659
+00:17:19,800 --> 00:17:23,000
+a really eyes wide open
+honest fashion and so another way to put
+
+660
+00:17:23,000 --> 00:17:23,010
+honest fashion and so another way to put
+ 
+
+661
+00:17:23,010 --> 00:17:25,490
+honest fashion and so another way to put
+that is the potentials infinite because
+
+662
+00:17:25,490 --> 00:17:25,500
+that is the potentials infinite because
+ 
+
+663
+00:17:25,500 --> 00:17:27,260
+that is the potentials infinite because
+we did take a few steps but you're
+
+664
+00:17:27,260 --> 00:17:27,270
+we did take a few steps but you're
+ 
+
+665
+00:17:27,270 --> 00:17:29,030
+we did take a few steps but you're
+saying those steps is just very initial
+
+666
+00:17:29,030 --> 00:17:29,040
+saying those steps is just very initial
+ 
+
+667
+00:17:29,040 --> 00:17:30,800
+saying those steps is just very initial
+steps so the Rumba is a hugely
+
+668
+00:17:30,800 --> 00:17:30,810
+steps so the Rumba is a hugely
+ 
+
+669
+00:17:30,810 --> 00:17:33,020
+steps so the Rumba is a hugely
+successful product but you're saying
+
+670
+00:17:33,020 --> 00:17:33,030
+successful product but you're saying
+ 
+
+671
+00:17:33,030 --> 00:17:35,270
+successful product but you're saying
+that's just the very very just the very
+
+672
+00:17:35,270 --> 00:17:35,280
+that's just the very very just the very
+ 
+
+673
+00:17:35,280 --> 00:17:37,460
+that's just the very very just the very
+very beginning it's the foot in the door
+
+674
+00:17:37,460 --> 00:17:37,470
+very beginning it's the foot in the door
+ 
+
+675
+00:17:37,470 --> 00:17:42,620
+very beginning it's the foot in the door
+and you know I think I was lucky that in
+
+676
+00:17:42,620 --> 00:17:42,630
+and you know I think I was lucky that in
+ 
+
+677
+00:17:42,630 --> 00:17:45,620
+and you know I think I was lucky that in
+the early days of robotics people would
+
+678
+00:17:45,620 --> 00:17:45,630
+the early days of robotics people would
+ 
+
+679
+00:17:45,630 --> 00:17:47,530
+the early days of robotics people would
+ask me when are you gonna clean my floor
+
+680
+00:17:47,530 --> 00:17:47,540
+ask me when are you gonna clean my floor
+ 
+
+681
+00:17:47,540 --> 00:17:52,780
+ask me when are you gonna clean my floor
+it was something that I grew up saying I
+
+682
+00:17:52,780 --> 00:17:52,790
+it was something that I grew up saying I
+ 
+
+683
+00:17:52,790 --> 00:17:54,740
+it was something that I grew up saying I
+got all these really good ideas but
+
+684
+00:17:54,740 --> 00:17:54,750
+got all these really good ideas but
+ 
+
+685
+00:17:54,750 --> 00:17:57,080
+got all these really good ideas but
+everyone seems to want their floor clean
+
+686
+00:17:57,080 --> 00:17:57,090
+everyone seems to want their floor clean
+ 
+
+687
+00:17:57,090 --> 00:18:02,420
+everyone seems to want their floor clean
+and so maybe we should do that Betty
+
+688
+00:18:02,420 --> 00:18:02,430
+and so maybe we should do that Betty
+ 
+
+689
+00:18:02,430 --> 00:18:04,340
+and so maybe we should do that Betty
+your good ideas earned the right to do
+
+690
+00:18:04,340 --> 00:18:04,350
+your good ideas earned the right to do
+ 
+
+691
+00:18:04,350 --> 00:18:06,230
+your good ideas earned the right to do
+the next thing after that so the good
+
+692
+00:18:06,230 --> 00:18:06,240
+the next thing after that so the good
+ 
+
+693
+00:18:06,240 --> 00:18:09,260
+the next thing after that so the good
+ideas have to match with the desire of
+
+694
+00:18:09,260 --> 00:18:09,270
+ideas have to match with the desire of
+ 
+
+695
+00:18:09,270 --> 00:18:12,290
+ideas have to match with the desire of
+the people and then the actual cost has
+
+696
+00:18:12,290 --> 00:18:12,300
+the people and then the actual cost has
+ 
+
+697
+00:18:12,300 --> 00:18:14,840
+the people and then the actual cost has
+to like the business the financial
+
+698
+00:18:14,840 --> 00:18:14,850
+to like the business the financial
+ 
+
+699
+00:18:14,850 --> 00:18:17,830
+to like the business the financial
+aspect has to all mash together yeah I
+
+700
+00:18:17,830 --> 00:18:17,840
+aspect has to all mash together yeah I
+ 
+
+701
+00:18:17,840 --> 00:18:20,810
+aspect has to all mash together yeah I
+during our partnership back a number of
+
+702
+00:18:20,810 --> 00:18:20,820
+during our partnership back a number of
+ 
+
+703
+00:18:20,820 --> 00:18:23,510
+during our partnership back a number of
+years ago Johnson wax they would explain
+
+704
+00:18:23,510 --> 00:18:23,520
+years ago Johnson wax they would explain
+ 
+
+705
+00:18:23,520 --> 00:18:28,970
+years ago Johnson wax they would explain
+to me that they would go into homes and
+
+706
+00:18:28,970 --> 00:18:28,980
+to me that they would go into homes and
+ 
+
+707
+00:18:28,980 --> 00:18:32,870
+to me that they would go into homes and
+just watch how people lived and try to
+
+708
+00:18:32,870 --> 00:18:32,880
+just watch how people lived and try to
+ 
+
+709
+00:18:32,880 --> 00:18:36,040
+just watch how people lived and try to
+figure out what were they doing that
+
+710
+00:18:36,040 --> 00:18:36,050
+figure out what were they doing that
+ 
+
+711
+00:18:36,050 --> 00:18:40,100
+figure out what were they doing that
+they really didn't really like to do but
+
+712
+00:18:40,100 --> 00:18:40,110
+they really didn't really like to do but
+ 
+
+713
+00:18:40,110 --> 00:18:42,590
+they really didn't really like to do but
+they had to do it frequently enough that
+
+714
+00:18:42,590 --> 00:18:42,600
+they had to do it frequently enough that
+ 
+
+715
+00:18:42,600 --> 00:18:46,760
+they had to do it frequently enough that
+it was top of mind and and understood as
+
+716
+00:18:46,760 --> 00:18:46,770
+it was top of mind and and understood as
+ 
+
+717
+00:18:46,770 --> 00:18:54,230
+it was top of mind and and understood as
+a a burden hey let's make a product or
+
+718
+00:18:54,230 --> 00:18:54,240
+a a burden hey let's make a product or
+ 
+
+719
+00:18:54,240 --> 00:18:56,690
+a a burden hey let's make a product or
+come up with a solution to make that
+
+720
+00:18:56,690 --> 00:18:56,700
+come up with a solution to make that
+ 
+
+721
+00:18:56,700 --> 00:18:57,940
+come up with a solution to make that
+pain point
+
+722
+00:18:57,940 --> 00:18:57,950
+pain point
+ 
+
+723
+00:18:57,950 --> 00:19:03,320
+pain point
+lesyk less challenging and sometimes we
+
+724
+00:19:03,320 --> 00:19:03,330
+lesyk less challenging and sometimes we
+ 
+
+725
+00:19:03,330 --> 00:19:06,920
+lesyk less challenging and sometimes we
+do certain burdens so often as a society
+
+726
+00:19:06,920 --> 00:19:06,930
+do certain burdens so often as a society
+ 
+
+727
+00:19:06,930 --> 00:19:09,530
+do certain burdens so often as a society
+that we actually don't even realize like
+
+728
+00:19:09,530 --> 00:19:09,540
+that we actually don't even realize like
+ 
+
+729
+00:19:09,540 --> 00:19:10,940
+that we actually don't even realize like
+it's actually hard to see that that
+
+730
+00:19:10,940 --> 00:19:10,950
+it's actually hard to see that that
+ 
+
+731
+00:19:10,950 --> 00:19:12,260
+it's actually hard to see that that
+burden is something that could be
+
+732
+00:19:12,260 --> 00:19:12,270
+burden is something that could be
+ 
+
+733
+00:19:12,270 --> 00:19:15,170
+burden is something that could be
+removed so it does require just going
+
+734
+00:19:15,170 --> 00:19:15,180
+removed so it does require just going
+ 
+
+735
+00:19:15,180 --> 00:19:17,840
+removed so it does require just going
+into the home and staring it wait how do
+
+736
+00:19:17,840 --> 00:19:17,850
+into the home and staring it wait how do
+ 
+
+737
+00:19:17,850 --> 00:19:20,240
+into the home and staring it wait how do
+I actually live life what are the pain
+
+738
+00:19:20,240 --> 00:19:20,250
+I actually live life what are the pain
+ 
+
+739
+00:19:20,250 --> 00:19:22,610
+I actually live life what are the pain
+points yeah and it getting those
+
+740
+00:19:22,610 --> 00:19:22,620
+points yeah and it getting those
+ 
+
+741
+00:19:22,620 --> 00:19:26,960
+points yeah and it getting those
+insights is a lot harder than it would
+
+742
+00:19:26,960 --> 00:19:26,970
+insights is a lot harder than it would
+ 
+
+743
+00:19:26,970 --> 00:19:30,680
+insights is a lot harder than it would
+seem it should be in retrospect so how
+
+744
+00:19:30,680 --> 00:19:30,690
+seem it should be in retrospect so how
+ 
+
+745
+00:19:30,690 --> 00:19:34,600
+seem it should be in retrospect so how
+hard on that point I mean one of the big
+
+746
+00:19:34,600 --> 00:19:34,610
+hard on that point I mean one of the big
+ 
+
+747
+00:19:34,610 --> 00:19:38,570
+hard on that point I mean one of the big
+challenges of robotics is driving the
+
+748
+00:19:38,570 --> 00:19:38,580
+challenges of robotics is driving the
+ 
+
+749
+00:19:38,580 --> 00:19:41,120
+challenges of robotics is driving the
+cost to something driving the cost down
+
+750
+00:19:41,120 --> 00:19:41,130
+cost to something driving the cost down
+ 
+
+751
+00:19:41,130 --> 00:19:44,230
+cost to something driving the cost down
+to something that consumers people would
+
+752
+00:19:44,230 --> 00:19:44,240
+to something that consumers people would
+ 
+
+753
+00:19:44,240 --> 00:19:48,170
+to something that consumers people would
+afford so people would be less likely to
+
+754
+00:19:48,170 --> 00:19:48,180
+afford so people would be less likely to
+ 
+
+755
+00:19:48,180 --> 00:19:51,460
+afford so people would be less likely to
+buy a Roomba for cost $500,000 right
+
+756
+00:19:51,460 --> 00:19:51,470
+buy a Roomba for cost $500,000 right
+ 
+
+757
+00:19:51,470 --> 00:19:54,470
+buy a Roomba for cost $500,000 right
+which is probably sort of what a Roomba
+
+758
+00:19:54,470 --> 00:19:54,480
+which is probably sort of what a Roomba
+ 
+
+759
+00:19:54,480 --> 00:19:55,430
+which is probably sort of what a Roomba
+would costs
+
+760
+00:19:55,430 --> 00:19:55,440
+would costs
+ 
+
+761
+00:19:55,440 --> 00:20:00,200
+would costs
+several decades ago so how do you drive
+
+762
+00:20:00,200 --> 00:20:00,210
+several decades ago so how do you drive
+ 
+
+763
+00:20:00,210 --> 00:20:02,360
+several decades ago so how do you drive
+which I mention is very difficult how do
+
+764
+00:20:02,360 --> 00:20:02,370
+which I mention is very difficult how do
+ 
+
+765
+00:20:02,370 --> 00:20:04,040
+which I mention is very difficult how do
+you drive the cost of a Roomba or a
+
+766
+00:20:04,040 --> 00:20:04,050
+you drive the cost of a Roomba or a
+ 
+
+767
+00:20:04,050 --> 00:20:06,200
+you drive the cost of a Roomba or a
+robot down such that people wouldn't
+
+768
+00:20:06,200 --> 00:20:06,210
+robot down such that people wouldn't
+ 
+
+769
+00:20:06,210 --> 00:20:08,570
+robot down such that people wouldn't
+want to buy it when I started building
+
+770
+00:20:08,570 --> 00:20:08,580
+want to buy it when I started building
+ 
+
+771
+00:20:08,580 --> 00:20:11,990
+want to buy it when I started building
+robots the cost of the robot had a lot
+
+772
+00:20:11,990 --> 00:20:12,000
+robots the cost of the robot had a lot
+ 
+
+773
+00:20:12,000 --> 00:20:14,210
+robots the cost of the robot had a lot
+to do with the amount of time it took to
+
+774
+00:20:14,210 --> 00:20:14,220
+to do with the amount of time it took to
+ 
+
+775
+00:20:14,220 --> 00:20:16,970
+to do with the amount of time it took to
+build it and so that we build our robots
+
+776
+00:20:16,970 --> 00:20:16,980
+build it and so that we build our robots
+ 
+
+777
+00:20:16,980 --> 00:20:19,610
+build it and so that we build our robots
+out of aluminum I would go spend my time
+
+778
+00:20:19,610 --> 00:20:19,620
+out of aluminum I would go spend my time
+ 
+
+779
+00:20:19,620 --> 00:20:21,980
+out of aluminum I would go spend my time
+in the machine shop on the milling
+
+780
+00:20:21,980 --> 00:20:21,990
+in the machine shop on the milling
+ 
+
+781
+00:20:21,990 --> 00:20:25,880
+in the machine shop on the milling
+machine cutting out the the the parts
+
+782
+00:20:25,880 --> 00:20:25,890
+machine cutting out the the the parts
+ 
+
+783
+00:20:25,890 --> 00:20:28,760
+machine cutting out the the the parts
+and and so forth and then when we got
+
+784
+00:20:28,760 --> 00:20:28,770
+and and so forth and then when we got
+ 
+
+785
+00:20:28,770 --> 00:20:32,630
+and and so forth and then when we got
+into the toy industry I realized that if
+
+786
+00:20:32,630 --> 00:20:32,640
+into the toy industry I realized that if
+ 
+
+787
+00:20:32,640 --> 00:20:34,700
+into the toy industry I realized that if
+we were building at scale I could
+
+788
+00:20:34,700 --> 00:20:34,710
+we were building at scale I could
+ 
+
+789
+00:20:34,710 --> 00:20:36,110
+we were building at scale I could
+determine the cost of the rope instead
+
+790
+00:20:36,110 --> 00:20:36,120
+determine the cost of the rope instead
+ 
+
+791
+00:20:36,120 --> 00:20:38,330
+determine the cost of the rope instead
+of adding up all the hours to mill out
+
+792
+00:20:38,330 --> 00:20:38,340
+of adding up all the hours to mill out
+ 
+
+793
+00:20:38,340 --> 00:20:43,130
+of adding up all the hours to mill out
+the parts but by weighing it and that's
+
+794
+00:20:43,130 --> 00:20:43,140
+the parts but by weighing it and that's
+ 
+
+795
+00:20:43,140 --> 00:20:47,960
+the parts but by weighing it and that's
+liberating you can say wow the world is
+
+796
+00:20:47,960 --> 00:20:47,970
+liberating you can say wow the world is
+ 
+
+797
+00:20:47,970 --> 00:20:50,450
+liberating you can say wow the world is
+has just changed as I think about
+
+798
+00:20:50,450 --> 00:20:50,460
+has just changed as I think about
+ 
+
+799
+00:20:50,460 --> 00:20:54,230
+has just changed as I think about
+construction in a different way the 3d
+
+800
+00:20:54,230 --> 00:20:54,240
+construction in a different way the 3d
+ 
+
+801
+00:20:54,240 --> 00:20:56,300
+construction in a different way the 3d
+CAD tools that are available to us today
+
+802
+00:20:56,300 --> 00:20:56,310
+CAD tools that are available to us today
+ 
+
+803
+00:20:56,310 --> 00:21:00,010
+CAD tools that are available to us today
+the operating at scale where I can do
+
+804
+00:21:00,010 --> 00:21:00,020
+the operating at scale where I can do
+ 
+
+805
+00:21:00,020 --> 00:21:04,630
+the operating at scale where I can do
+tooling and injection mold an
+
+806
+00:21:04,630 --> 00:21:04,640
+tooling and injection mold an
+ 
+
+807
+00:21:04,640 --> 00:21:07,310
+tooling and injection mold an
+arbitrarily complicated part and the
+
+808
+00:21:07,310 --> 00:21:07,320
+arbitrarily complicated part and the
+ 
+
+809
+00:21:07,320 --> 00:21:10,190
+arbitrarily complicated part and the
+cost is going to be basically the weight
+
+810
+00:21:10,190 --> 00:21:10,200
+cost is going to be basically the weight
+ 
+
+811
+00:21:10,200 --> 00:21:13,900
+cost is going to be basically the weight
+of the plastic in that part is
+
+812
+00:21:13,900 --> 00:21:13,910
+of the plastic in that part is
+ 
+
+813
+00:21:13,910 --> 00:21:16,460
+of the plastic in that part is
+incredibly exciting and liberating and
+
+814
+00:21:16,460 --> 00:21:16,470
+incredibly exciting and liberating and
+ 
+
+815
+00:21:16,470 --> 00:21:18,620
+incredibly exciting and liberating and
+opens up all sorts of opportunities and
+
+816
+00:21:18,620 --> 00:21:18,630
+opens up all sorts of opportunities and
+ 
+
+817
+00:21:18,630 --> 00:21:22,820
+opens up all sorts of opportunities and
+for the sensing part of it
+
+818
+00:21:22,820 --> 00:21:22,830
+for the sensing part of it
+ 
+
+819
+00:21:22,830 --> 00:21:27,110
+for the sensing part of it
+where we are today is instead of trying
+
+820
+00:21:27,110 --> 00:21:27,120
+where we are today is instead of trying
+ 
+
+821
+00:21:27,120 --> 00:21:30,230
+where we are today is instead of trying
+to build skin which is like really hard
+
+822
+00:21:30,230 --> 00:21:30,240
+to build skin which is like really hard
+ 
+
+823
+00:21:30,240 --> 00:21:35,710
+to build skin which is like really hard
+for a long time spent creating
+
+824
+00:21:35,710 --> 00:21:35,720
+for a long time spent creating
+ 
+
+825
+00:21:35,720 --> 00:21:38,450
+for a long time spent creating
+strategies and and ideas around how
+
+826
+00:21:38,450 --> 00:21:38,460
+strategies and and ideas around how
+ 
+
+827
+00:21:38,460 --> 00:21:41,470
+strategies and and ideas around how
+could we duplicate the skin on the human
+
+828
+00:21:41,470 --> 00:21:41,480
+could we duplicate the skin on the human
+ 
+
+829
+00:21:41,480 --> 00:21:45,110
+could we duplicate the skin on the human
+body because it's such an amazing sensor
+
+830
+00:21:45,110 --> 00:21:45,120
+body because it's such an amazing sensor
+ 
+
+831
+00:21:45,120 --> 00:21:50,790
+body because it's such an amazing sensor
+the instead of going down that path
+
+832
+00:21:50,790 --> 00:21:50,800
+the instead of going down that path
+ 
+
+833
+00:21:50,800 --> 00:21:55,290
+the instead of going down that path
+why don't we focus on vision and how
+
+834
+00:21:55,290 --> 00:21:55,300
+why don't we focus on vision and how
+ 
+
+835
+00:21:55,300 --> 00:21:59,790
+why don't we focus on vision and how
+many of the problems that face a robot
+
+836
+00:21:59,790 --> 00:21:59,800
+many of the problems that face a robot
+ 
+
+837
+00:21:59,800 --> 00:22:04,049
+many of the problems that face a robot
+trying to do real work could be solved
+
+838
+00:22:04,049 --> 00:22:04,059
+trying to do real work could be solved
+ 
+
+839
+00:22:04,059 --> 00:22:07,230
+trying to do real work could be solved
+with a cheap camera and a big-ass
+
+840
+00:22:07,230 --> 00:22:07,240
+with a cheap camera and a big-ass
+ 
+
+841
+00:22:07,240 --> 00:22:11,070
+with a cheap camera and a big-ass
+computer yeah and Moore's Law continues
+
+842
+00:22:11,070 --> 00:22:11,080
+computer yeah and Moore's Law continues
+ 
+
+843
+00:22:11,080 --> 00:22:15,630
+computer yeah and Moore's Law continues
+to work the cell phone industry the
+
+844
+00:22:15,630 --> 00:22:15,640
+to work the cell phone industry the
+ 
+
+845
+00:22:15,640 --> 00:22:17,370
+to work the cell phone industry the
+mobile industry is giving us better and
+
+846
+00:22:17,370 --> 00:22:17,380
+mobile industry is giving us better and
+ 
+
+847
+00:22:17,380 --> 00:22:19,680
+mobile industry is giving us better and
+better tools that can run on these
+
+848
+00:22:19,680 --> 00:22:19,690
+better tools that can run on these
+ 
+
+849
+00:22:19,690 --> 00:22:22,230
+better tools that can run on these
+embedded computers and I think we passed
+
+850
+00:22:22,230 --> 00:22:22,240
+embedded computers and I think we passed
+ 
+
+851
+00:22:22,240 --> 00:22:28,320
+embedded computers and I think we passed
+a an important moment maybe two years
+
+852
+00:22:28,320 --> 00:22:28,330
+a an important moment maybe two years
+ 
+
+853
+00:22:28,330 --> 00:22:33,390
+a an important moment maybe two years
+ago where you could put machine vision
+
+854
+00:22:33,390 --> 00:22:33,400
+ago where you could put machine vision
+ 
+
+855
+00:22:33,400 --> 00:22:38,220
+ago where you could put machine vision
+capable processors on robots at consumer
+
+856
+00:22:38,220 --> 00:22:38,230
+capable processors on robots at consumer
+ 
+
+857
+00:22:38,230 --> 00:22:41,669
+capable processors on robots at consumer
+price points and I was waiting for it
+
+858
+00:22:41,669 --> 00:22:41,679
+price points and I was waiting for it
+ 
+
+859
+00:22:41,679 --> 00:22:45,210
+price points and I was waiting for it
+happed to happen we avoided putting
+
+860
+00:22:45,210 --> 00:22:45,220
+happed to happen we avoided putting
+ 
+
+861
+00:22:45,220 --> 00:22:48,650
+happed to happen we avoided putting
+lasers on our robots to do navigation
+
+862
+00:22:48,650 --> 00:22:48,660
+lasers on our robots to do navigation
+ 
+
+863
+00:22:48,660 --> 00:22:51,930
+lasers on our robots to do navigation
+and instead spent years researching how
+
+864
+00:22:51,930 --> 00:22:51,940
+and instead spent years researching how
+ 
+
+865
+00:22:51,940 --> 00:22:56,150
+and instead spent years researching how
+to do vision based navigation because
+
+866
+00:22:56,150 --> 00:22:56,160
+to do vision based navigation because
+ 
+
+867
+00:22:56,160 --> 00:22:59,940
+to do vision based navigation because
+you could just see it where these
+
+868
+00:22:59,940 --> 00:22:59,950
+you could just see it where these
+ 
+
+869
+00:22:59,950 --> 00:23:03,750
+you could just see it where these
+technology trends were going and between
+
+870
+00:23:03,750 --> 00:23:03,760
+technology trends were going and between
+ 
+
+871
+00:23:03,760 --> 00:23:06,630
+technology trends were going and between
+injection molded plastic and a camera
+
+872
+00:23:06,630 --> 00:23:06,640
+injection molded plastic and a camera
+ 
+
+873
+00:23:06,640 --> 00:23:09,320
+injection molded plastic and a camera
+with a computer capable of running
+
+874
+00:23:09,320 --> 00:23:09,330
+with a computer capable of running
+ 
+
+875
+00:23:09,330 --> 00:23:11,549
+with a computer capable of running
+machine learning and visual object
+
+876
+00:23:11,549 --> 00:23:11,559
+machine learning and visual object
+ 
+
+877
+00:23:11,559 --> 00:23:14,340
+machine learning and visual object
+recognition I could build an incredibly
+
+878
+00:23:14,340 --> 00:23:14,350
+recognition I could build an incredibly
+ 
+
+879
+00:23:14,350 --> 00:23:18,799
+recognition I could build an incredibly
+affordable incredibly capable robot and
+
+880
+00:23:18,799 --> 00:23:18,809
+affordable incredibly capable robot and
+ 
+
+881
+00:23:18,809 --> 00:23:21,690
+affordable incredibly capable robot and
+that's gonna be the future you know on
+
+882
+00:23:21,690 --> 00:23:21,700
+that's gonna be the future you know on
+ 
+
+883
+00:23:21,700 --> 00:23:23,580
+that's gonna be the future you know on
+that point with a small tangent but I
+
+884
+00:23:23,580 --> 00:23:23,590
+that point with a small tangent but I
+ 
+
+885
+00:23:23,590 --> 00:23:25,830
+that point with a small tangent but I
+think an important one another industry
+
+886
+00:23:25,830 --> 00:23:25,840
+think an important one another industry
+ 
+
+887
+00:23:25,840 --> 00:23:28,530
+think an important one another industry
+in which I would say the only other
+
+888
+00:23:28,530 --> 00:23:28,540
+in which I would say the only other
+ 
+
+889
+00:23:28,540 --> 00:23:30,570
+in which I would say the only other
+industry in which they're true
+
+890
+00:23:30,570 --> 00:23:30,580
+industry in which they're true
+ 
+
+891
+00:23:30,580 --> 00:23:32,610
+industry in which they're true
+there is automation actually touching
+
+892
+00:23:32,610 --> 00:23:32,620
+there is automation actually touching
+ 
+
+893
+00:23:32,620 --> 00:23:35,640
+there is automation actually touching
+people's lives today is autonomous
+
+894
+00:23:35,640 --> 00:23:35,650
+people's lives today is autonomous
+ 
+
+895
+00:23:35,650 --> 00:23:39,510
+people's lives today is autonomous
+vehicles mm-hmm what the vision each is
+
+896
+00:23:39,510 --> 00:23:39,520
+vehicles mm-hmm what the vision each is
+ 
+
+897
+00:23:39,520 --> 00:23:41,970
+vehicles mm-hmm what the vision each is
+described of using computer vision and
+
+898
+00:23:41,970 --> 00:23:41,980
+described of using computer vision and
+ 
+
+899
+00:23:41,980 --> 00:23:44,190
+described of using computer vision and
+using cheap camera sensors that's
+
+900
+00:23:44,190 --> 00:23:44,200
+using cheap camera sensors that's
+ 
+
+901
+00:23:44,200 --> 00:23:46,890
+using cheap camera sensors that's
+there's a debate on that of lidar versus
+
+902
+00:23:46,890 --> 00:23:46,900
+there's a debate on that of lidar versus
+ 
+
+903
+00:23:46,900 --> 00:23:52,020
+there's a debate on that of lidar versus
+computer vision and sort of the Elon
+
+904
+00:23:52,020 --> 00:23:52,030
+computer vision and sort of the Elon
+ 
+
+905
+00:23:52,030 --> 00:23:54,480
+computer vision and sort of the Elon
+Musk famously said that lidar is a
+
+906
+00:23:54,480 --> 00:23:54,490
+Musk famously said that lidar is a
+ 
+
+907
+00:23:54,490 --> 00:23:57,690
+Musk famously said that lidar is a
+crutch that really in camera in the long
+
+908
+00:23:57,690 --> 00:23:57,700
+crutch that really in camera in the long
+ 
+
+909
+00:23:57,700 --> 00:23:59,990
+crutch that really in camera in the long
+term camera only is the right solution
+
+910
+00:23:59,990 --> 00:24:00,000
+term camera only is the right solution
+ 
+
+911
+00:24:00,000 --> 00:24:02,880
+term camera only is the right solution
+which echoes some of the ideas you're
+
+912
+00:24:02,880 --> 00:24:02,890
+which echoes some of the ideas you're
+ 
+
+913
+00:24:02,890 --> 00:24:04,380
+which echoes some of the ideas you're
+expressing of course
+
+914
+00:24:04,380 --> 00:24:04,390
+expressing of course
+ 
+
+915
+00:24:04,390 --> 00:24:06,810
+expressing of course
+in terms of its safety criticality is
+
+916
+00:24:06,810 --> 00:24:06,820
+in terms of its safety criticality is
+ 
+
+917
+00:24:06,820 --> 00:24:08,880
+in terms of its safety criticality is
+different but what do you think about
+
+918
+00:24:08,880 --> 00:24:08,890
+different but what do you think about
+ 
+
+919
+00:24:08,890 --> 00:24:12,630
+different but what do you think about
+that approach in the autonomous vehicle
+
+920
+00:24:12,630 --> 00:24:12,640
+that approach in the autonomous vehicle
+ 
+
+921
+00:24:12,640 --> 00:24:14,550
+that approach in the autonomous vehicle
+space and in general do you see a
+
+922
+00:24:14,550 --> 00:24:14,560
+space and in general do you see a
+ 
+
+923
+00:24:14,560 --> 00:24:17,520
+space and in general do you see a
+connection between the incredible
+
+924
+00:24:17,520 --> 00:24:17,530
+connection between the incredible
+ 
+
+925
+00:24:17,530 --> 00:24:19,050
+connection between the incredible
+real-world challenges you have to solve
+
+926
+00:24:19,050 --> 00:24:19,060
+real-world challenges you have to solve
+ 
+
+927
+00:24:19,060 --> 00:24:21,180
+real-world challenges you have to solve
+in the home with Roomba and I saw a
+
+928
+00:24:21,180 --> 00:24:21,190
+in the home with Roomba and I saw a
+ 
+
+929
+00:24:21,190 --> 00:24:23,310
+in the home with Roomba and I saw a
+demonstration of some of them corner
+
+930
+00:24:23,310 --> 00:24:23,320
+demonstration of some of them corner
+ 
+
+931
+00:24:23,320 --> 00:24:27,180
+demonstration of some of them corner
+cases literally and autonomous vehicles
+
+932
+00:24:27,180 --> 00:24:27,190
+cases literally and autonomous vehicles
+ 
+
+933
+00:24:27,190 --> 00:24:30,660
+cases literally and autonomous vehicles
+so there's absolutely a tremendous
+
+934
+00:24:30,660 --> 00:24:30,670
+so there's absolutely a tremendous
+ 
+
+935
+00:24:30,670 --> 00:24:35,310
+so there's absolutely a tremendous
+overlap between both the problems you
+
+936
+00:24:35,310 --> 00:24:35,320
+overlap between both the problems you
+ 
+
+937
+00:24:35,320 --> 00:24:37,320
+overlap between both the problems you
+know a robot vacuum and a Thomas vehicle
+
+938
+00:24:37,320 --> 00:24:37,330
+know a robot vacuum and a Thomas vehicle
+ 
+
+939
+00:24:37,330 --> 00:24:40,260
+know a robot vacuum and a Thomas vehicle
+are trying to solve and the tools and
+
+940
+00:24:40,260 --> 00:24:40,270
+are trying to solve and the tools and
+ 
+
+941
+00:24:40,270 --> 00:24:42,750
+are trying to solve and the tools and
+the types of sensors that are being
+
+942
+00:24:42,750 --> 00:24:42,760
+the types of sensors that are being
+ 
+
+943
+00:24:42,760 --> 00:24:46,670
+the types of sensors that are being
+applied in the pursuit of the solutions
+
+944
+00:24:46,670 --> 00:24:46,680
+applied in the pursuit of the solutions
+ 
+
+945
+00:24:46,680 --> 00:24:53,880
+applied in the pursuit of the solutions
+in my world my environment is actually
+
+946
+00:24:53,880 --> 00:24:53,890
+in my world my environment is actually
+ 
+
+947
+00:24:53,890 --> 00:24:55,740
+in my world my environment is actually
+much harder than the environment and
+
+948
+00:24:55,740 --> 00:24:55,750
+much harder than the environment and
+ 
+
+949
+00:24:55,750 --> 00:24:58,950
+much harder than the environment and
+automobile travel we don't have roads we
+
+950
+00:24:58,950 --> 00:24:58,960
+automobile travel we don't have roads we
+ 
+
+951
+00:24:58,960 --> 00:25:03,510
+automobile travel we don't have roads we
+have t-shirts we have steps we have a
+
+952
+00:25:03,510 --> 00:25:03,520
+have t-shirts we have steps we have a
+ 
+
+953
+00:25:03,520 --> 00:25:06,420
+have t-shirts we have steps we have a
+near infinite number of patterns and
+
+954
+00:25:06,420 --> 00:25:06,430
+near infinite number of patterns and
+ 
+
+955
+00:25:06,430 --> 00:25:09,780
+near infinite number of patterns and
+colors and surface textures on the floor
+
+956
+00:25:09,780 --> 00:25:09,790
+colors and surface textures on the floor
+ 
+
+957
+00:25:09,790 --> 00:25:11,760
+colors and surface textures on the floor
+especially from a visual perspective
+
+958
+00:25:11,760 --> 00:25:11,770
+especially from a visual perspective
+ 
+
+959
+00:25:11,770 --> 00:25:14,370
+especially from a visual perspective
+yeah wait William looks it's really
+
+960
+00:25:14,370 --> 00:25:14,380
+yeah wait William looks it's really
+ 
+
+961
+00:25:14,380 --> 00:25:19,050
+yeah wait William looks it's really
+tough is an infinitely variable on the
+
+962
+00:25:19,050 --> 00:25:19,060
+tough is an infinitely variable on the
+ 
+
+963
+00:25:19,060 --> 00:25:21,960
+tough is an infinitely variable on the
+other hand safety is way easier on the
+
+964
+00:25:21,960 --> 00:25:21,970
+other hand safety is way easier on the
+ 
+
+965
+00:25:21,970 --> 00:25:25,380
+other hand safety is way easier on the
+inside my robots they're not far you
+
+966
+00:25:25,380 --> 00:25:25,390
+inside my robots they're not far you
+ 
+
+967
+00:25:25,390 --> 00:25:25,950
+inside my robots they're not far you
+heavy
+
+968
+00:25:25,950 --> 00:25:25,960
+heavy
+ 
+
+969
+00:25:25,960 --> 00:25:29,220
+heavy
+they're not very fast if they bump into
+
+970
+00:25:29,220 --> 00:25:29,230
+they're not very fast if they bump into
+ 
+
+971
+00:25:29,230 --> 00:25:34,110
+they're not very fast if they bump into
+your foot you think it's funny and you
+
+972
+00:25:34,110 --> 00:25:34,120
+your foot you think it's funny and you
+ 
+
+973
+00:25:34,120 --> 00:25:37,230
+your foot you think it's funny and you
+know and autonomous vehicles kind of
+
+974
+00:25:37,230 --> 00:25:37,240
+know and autonomous vehicles kind of
+ 
+
+975
+00:25:37,240 --> 00:25:41,250
+know and autonomous vehicles kind of
+have the inverse problem and so that for
+
+976
+00:25:41,250 --> 00:25:41,260
+have the inverse problem and so that for
+ 
+
+977
+00:25:41,260 --> 00:25:45,850
+have the inverse problem and so that for
+me saying vision is the future
+
+978
+00:25:45,850 --> 00:25:45,860
+me saying vision is the future
+ 
+
+979
+00:25:45,860 --> 00:25:49,629
+me saying vision is the future
+I can say that without reservation for
+
+980
+00:25:49,629 --> 00:25:49,639
+I can say that without reservation for
+ 
+
+981
+00:25:49,639 --> 00:25:52,180
+I can say that without reservation for
+autonomous vehicles I think I believe
+
+982
+00:25:52,180 --> 00:25:52,190
+autonomous vehicles I think I believe
+ 
+
+983
+00:25:52,190 --> 00:25:56,409
+autonomous vehicles I think I believe
+what you know I'm saying about the
+
+984
+00:25:56,409 --> 00:25:56,419
+what you know I'm saying about the
+ 
+
+985
+00:25:56,419 --> 00:25:58,269
+what you know I'm saying about the
+future is ultimately going to be vision
+
+986
+00:25:58,269 --> 00:25:58,279
+future is ultimately going to be vision
+ 
+
+987
+00:25:58,279 --> 00:26:00,759
+future is ultimately going to be vision
+maybe if we put a cheap lighter on there
+
+988
+00:26:00,759 --> 00:26:00,769
+maybe if we put a cheap lighter on there
+ 
+
+989
+00:26:00,769 --> 00:26:02,830
+maybe if we put a cheap lighter on there
+as a backup sensor it might not be the
+
+990
+00:26:02,830 --> 00:26:02,840
+as a backup sensor it might not be the
+ 
+
+991
+00:26:02,840 --> 00:26:03,700
+as a backup sensor it might not be the
+worst idea in the world
+
+992
+00:26:03,700 --> 00:26:03,710
+worst idea in the world
+ 
+
+993
+00:26:03,710 --> 00:26:05,229
+worst idea in the world
+so the something so much hi thanks so
+
+994
+00:26:05,229 --> 00:26:05,239
+so the something so much hi thanks so
+ 
+
+995
+00:26:05,239 --> 00:26:06,909
+so the something so much hi thanks so
+much higher that's you much more careful
+
+996
+00:26:06,909 --> 00:26:06,919
+much higher that's you much more careful
+ 
+
+997
+00:26:06,919 --> 00:26:09,249
+much higher that's you much more careful
+thinking through how far away that
+
+998
+00:26:09,249 --> 00:26:09,259
+thinking through how far away that
+ 
+
+999
+00:26:09,259 --> 00:26:12,070
+thinking through how far away that
+feature is right right and but I think
+
+1000
+00:26:12,070 --> 00:26:12,080
+feature is right right and but I think
+ 
+
+1001
+00:26:12,080 --> 00:26:15,880
+feature is right right and but I think
+that the primary
+
+1002
+00:26:15,880 --> 00:26:15,890
+
+ 
+
+1003
+00:26:15,890 --> 00:26:19,060
+
+environmental understanding sensor is
+
+1004
+00:26:19,060 --> 00:26:19,070
+environmental understanding sensor is
+ 
+
+1005
+00:26:19,070 --> 00:26:22,100
+environmental understanding sensor is
+going to be a visual system visual
+
+1006
+00:26:22,100 --> 00:26:22,110
+going to be a visual system visual
+ 
+
+1007
+00:26:22,110 --> 00:26:25,280
+going to be a visual system visual
+system so on that point well let me ask
+
+1008
+00:26:25,280 --> 00:26:25,290
+system so on that point well let me ask
+ 
+
+1009
+00:26:25,290 --> 00:26:28,460
+system so on that point well let me ask
+do you hope there's an AI robot robot in
+
+1010
+00:26:28,460 --> 00:26:28,470
+do you hope there's an AI robot robot in
+ 
+
+1011
+00:26:28,470 --> 00:26:30,140
+do you hope there's an AI robot robot in
+every home in the world
+
+1012
+00:26:30,140 --> 00:26:30,150
+every home in the world
+ 
+
+1013
+00:26:30,150 --> 00:26:33,590
+every home in the world
+one day I expect there to be at least
+
+1014
+00:26:33,590 --> 00:26:33,600
+one day I expect there to be at least
+ 
+
+1015
+00:26:33,600 --> 00:26:37,850
+one day I expect there to be at least
+when I robot robot in every home you
+
+1016
+00:26:37,850 --> 00:26:37,860
+when I robot robot in every home you
+ 
+
+1017
+00:26:37,860 --> 00:26:40,270
+when I robot robot in every home you
+know we've we've sold 25 million robots
+
+1018
+00:26:40,270 --> 00:26:40,280
+know we've we've sold 25 million robots
+ 
+
+1019
+00:26:40,280 --> 00:26:43,750
+know we've we've sold 25 million robots
+so we're in about 10 percent of US homes
+
+1020
+00:26:43,750 --> 00:26:43,760
+so we're in about 10 percent of US homes
+ 
+
+1021
+00:26:43,760 --> 00:26:47,780
+so we're in about 10 percent of US homes
+which is a great start but I think that
+
+1022
+00:26:47,780 --> 00:26:47,790
+which is a great start but I think that
+ 
+
+1023
+00:26:47,790 --> 00:26:51,170
+which is a great start but I think that
+when we think about the numbers of
+
+1024
+00:26:51,170 --> 00:26:51,180
+when we think about the numbers of
+ 
+
+1025
+00:26:51,180 --> 00:26:56,120
+when we think about the numbers of
+things that robots can do you know today
+
+1026
+00:26:56,120 --> 00:26:56,130
+things that robots can do you know today
+ 
+
+1027
+00:26:56,130 --> 00:26:58,070
+things that robots can do you know today
+I can vacuum your floor mop your floor
+
+1028
+00:26:58,070 --> 00:26:58,080
+I can vacuum your floor mop your floor
+ 
+
+1029
+00:26:58,080 --> 00:27:00,500
+I can vacuum your floor mop your floor
+cut your lawn or soon we'll be able to
+
+1030
+00:27:00,500 --> 00:27:00,510
+cut your lawn or soon we'll be able to
+ 
+
+1031
+00:27:00,510 --> 00:27:04,700
+cut your lawn or soon we'll be able to
+cut your lawn but there are more things
+
+1032
+00:27:04,700 --> 00:27:04,710
+cut your lawn but there are more things
+ 
+
+1033
+00:27:04,710 --> 00:27:08,480
+cut your lawn but there are more things
+that we could do in the home and I hope
+
+1034
+00:27:08,480 --> 00:27:08,490
+that we could do in the home and I hope
+ 
+
+1035
+00:27:08,490 --> 00:27:11,570
+that we could do in the home and I hope
+that we continue using the techniques I
+
+1036
+00:27:11,570 --> 00:27:11,580
+that we continue using the techniques I
+ 
+
+1037
+00:27:11,580 --> 00:27:14,030
+that we continue using the techniques I
+described around exploiting computer
+
+1038
+00:27:14,030 --> 00:27:14,040
+described around exploiting computer
+ 
+
+1039
+00:27:14,040 --> 00:27:17,810
+described around exploiting computer
+vision and low cost manufacturing that
+
+1040
+00:27:17,810 --> 00:27:17,820
+vision and low cost manufacturing that
+ 
+
+1041
+00:27:17,820 --> 00:27:19,990
+vision and low cost manufacturing that
+we'll be able to create these solutions
+
+1042
+00:27:19,990 --> 00:27:20,000
+we'll be able to create these solutions
+ 
+
+1043
+00:27:20,000 --> 00:27:23,150
+we'll be able to create these solutions
+at affordable price points so let me ask
+
+1044
+00:27:23,150 --> 00:27:23,160
+at affordable price points so let me ask
+ 
+
+1045
+00:27:23,160 --> 00:27:25,460
+at affordable price points so let me ask
+on that point of a robot in every home
+
+1046
+00:27:25,460 --> 00:27:25,470
+on that point of a robot in every home
+ 
+
+1047
+00:27:25,470 --> 00:27:27,860
+on that point of a robot in every home
+that's my dream as well I'd love love to
+
+1048
+00:27:27,860 --> 00:27:27,870
+that's my dream as well I'd love love to
+ 
+
+1049
+00:27:27,870 --> 00:27:30,320
+that's my dream as well I'd love love to
+see that I you know I think the
+
+1050
+00:27:30,320 --> 00:27:30,330
+see that I you know I think the
+ 
+
+1051
+00:27:30,330 --> 00:27:32,560
+see that I you know I think the
+possibilities there are indeed infinite
+
+1052
+00:27:32,560 --> 00:27:32,570
+possibilities there are indeed infinite
+ 
+
+1053
+00:27:32,570 --> 00:27:35,420
+possibilities there are indeed infinite
+positive possibilities but you know in
+
+1054
+00:27:35,420 --> 00:27:35,430
+positive possibilities but you know in
+ 
+
+1055
+00:27:35,430 --> 00:27:39,110
+positive possibilities but you know in
+our current culture no thanks to science
+
+1056
+00:27:39,110 --> 00:27:39,120
+our current culture no thanks to science
+ 
+
+1057
+00:27:39,120 --> 00:27:43,250
+our current culture no thanks to science
+fiction and so on there's a serious kind
+
+1058
+00:27:43,250 --> 00:27:43,260
+fiction and so on there's a serious kind
+ 
+
+1059
+00:27:43,260 --> 00:27:45,950
+fiction and so on there's a serious kind
+of hesitation anxiety concern about
+
+1060
+00:27:45,950 --> 00:27:45,960
+of hesitation anxiety concern about
+ 
+
+1061
+00:27:45,960 --> 00:27:49,930
+of hesitation anxiety concern about
+robots and also a concern about privacy
+
+1062
+00:27:49,930 --> 00:27:49,940
+robots and also a concern about privacy
+ 
+
+1063
+00:27:49,940 --> 00:27:54,550
+robots and also a concern about privacy
+and it's a fascinating question to me
+
+1064
+00:27:54,550 --> 00:27:54,560
+and it's a fascinating question to me
+ 
+
+1065
+00:27:54,560 --> 00:27:58,790
+and it's a fascinating question to me
+why that concern is amongst a certain
+
+1066
+00:27:58,790 --> 00:27:58,800
+why that concern is amongst a certain
+ 
+
+1067
+00:27:58,800 --> 00:28:02,150
+why that concern is amongst a certain
+group of people as as intense as it is
+
+1068
+00:28:02,150 --> 00:28:02,160
+group of people as as intense as it is
+ 
+
+1069
+00:28:02,160 --> 00:28:04,370
+group of people as as intense as it is
+so you have to think about it because
+
+1070
+00:28:04,370 --> 00:28:04,380
+so you have to think about it because
+ 
+
+1071
+00:28:04,380 --> 00:28:06,980
+so you have to think about it because
+it's a serious concern but I wonder how
+
+1072
+00:28:06,980 --> 00:28:06,990
+it's a serious concern but I wonder how
+ 
+
+1073
+00:28:06,990 --> 00:28:08,390
+it's a serious concern but I wonder how
+you address it best so from a
+
+1074
+00:28:08,390 --> 00:28:08,400
+you address it best so from a
+ 
+
+1075
+00:28:08,400 --> 00:28:10,520
+you address it best so from a
+perspective of a vision sensor so robots
+
+1076
+00:28:10,520 --> 00:28:10,530
+perspective of a vision sensor so robots
+ 
+
+1077
+00:28:10,530 --> 00:28:12,920
+perspective of a vision sensor so robots
+that move about the home and sense the
+
+1078
+00:28:12,920 --> 00:28:12,930
+that move about the home and sense the
+ 
+
+1079
+00:28:12,930 --> 00:28:18,320
+that move about the home and sense the
+world how do how do you alleviate
+
+1080
+00:28:18,320 --> 00:28:18,330
+world how do how do you alleviate
+ 
+
+1081
+00:28:18,330 --> 00:28:20,060
+world how do how do you alleviate
+people's privacy concerns how do you
+
+1082
+00:28:20,060 --> 00:28:20,070
+people's privacy concerns how do you
+ 
+
+1083
+00:28:20,070 --> 00:28:21,560
+people's privacy concerns how do you
+make sure that they can trust
+
+1084
+00:28:21,560 --> 00:28:21,570
+make sure that they can trust
+ 
+
+1085
+00:28:21,570 --> 00:28:24,440
+make sure that they can trust
+iRobot and the robots that they share
+
+1086
+00:28:24,440 --> 00:28:24,450
+iRobot and the robots that they share
+ 
+
+1087
+00:28:24,450 --> 00:28:27,380
+iRobot and the robots that they share
+their home with I think that's a great
+
+1088
+00:28:27,380 --> 00:28:27,390
+their home with I think that's a great
+ 
+
+1089
+00:28:27,390 --> 00:28:28,620
+their home with I think that's a great
+question
+
+1090
+00:28:28,620 --> 00:28:28,630
+question
+ 
+
+1091
+00:28:28,630 --> 00:28:33,540
+question
+and we've really leaned way forward on
+
+1092
+00:28:33,540 --> 00:28:33,550
+and we've really leaned way forward on
+ 
+
+1093
+00:28:33,550 --> 00:28:37,230
+and we've really leaned way forward on
+this because given our vision as to the
+
+1094
+00:28:37,230 --> 00:28:37,240
+this because given our vision as to the
+ 
+
+1095
+00:28:37,240 --> 00:28:40,110
+this because given our vision as to the
+role the company intends to play in the
+
+1096
+00:28:40,110 --> 00:28:40,120
+role the company intends to play in the
+ 
+
+1097
+00:28:40,120 --> 00:28:42,279
+role the company intends to play in the
+home
+
+1098
+00:28:42,279 --> 00:28:42,289
+home
+ 
+
+1099
+00:28:42,289 --> 00:28:46,450
+home
+really for us make-or-break is can our
+
+1100
+00:28:46,450 --> 00:28:46,460
+really for us make-or-break is can our
+ 
+
+1101
+00:28:46,460 --> 00:28:50,509
+really for us make-or-break is can our
+approach be trusted to protecting the
+
+1102
+00:28:50,509 --> 00:28:50,519
+approach be trusted to protecting the
+ 
+
+1103
+00:28:50,519 --> 00:28:52,580
+approach be trusted to protecting the
+data and the privacy of the people who
+
+1104
+00:28:52,580 --> 00:28:52,590
+data and the privacy of the people who
+ 
+
+1105
+00:28:52,590 --> 00:28:55,210
+data and the privacy of the people who
+have our robots and so we've gone out
+
+1106
+00:28:55,210 --> 00:28:55,220
+have our robots and so we've gone out
+ 
+
+1107
+00:28:55,220 --> 00:28:58,700
+have our robots and so we've gone out
+publicly the privacy manifesto stating
+
+1108
+00:28:58,700 --> 00:28:58,710
+publicly the privacy manifesto stating
+ 
+
+1109
+00:28:58,710 --> 00:29:01,029
+publicly the privacy manifesto stating
+we'll never sell your data we've adopted
+
+1110
+00:29:01,029 --> 00:29:01,039
+we'll never sell your data we've adopted
+ 
+
+1111
+00:29:01,039 --> 00:29:04,820
+we'll never sell your data we've adopted
+GDP are not just where GDP are is
+
+1112
+00:29:04,820 --> 00:29:04,830
+GDP are not just where GDP are is
+ 
+
+1113
+00:29:04,830 --> 00:29:11,419
+GDP are not just where GDP are is
+required but globally we have ensured
+
+1114
+00:29:11,419 --> 00:29:11,429
+required but globally we have ensured
+ 
+
+1115
+00:29:11,429 --> 00:29:17,480
+required but globally we have ensured
+that any that images don't leave the
+
+1116
+00:29:17,480 --> 00:29:17,490
+that any that images don't leave the
+ 
+
+1117
+00:29:17,490 --> 00:29:21,499
+that any that images don't leave the
+robot so processing data from the visual
+
+1118
+00:29:21,499 --> 00:29:21,509
+robot so processing data from the visual
+ 
+
+1119
+00:29:21,509 --> 00:29:23,629
+robot so processing data from the visual
+sensors happens locally on the robot and
+
+1120
+00:29:23,629 --> 00:29:23,639
+sensors happens locally on the robot and
+ 
+
+1121
+00:29:23,639 --> 00:29:29,749
+sensors happens locally on the robot and
+only semantic knowledge of the home with
+
+1122
+00:29:29,749 --> 00:29:29,759
+only semantic knowledge of the home with
+ 
+
+1123
+00:29:29,759 --> 00:29:33,019
+only semantic knowledge of the home with
+the consumers consent is sent up we show
+
+1124
+00:29:33,019 --> 00:29:33,029
+the consumers consent is sent up we show
+ 
+
+1125
+00:29:33,029 --> 00:29:37,760
+the consumers consent is sent up we show
+you what we know and are trying to go
+
+1126
+00:29:37,760 --> 00:29:37,770
+you what we know and are trying to go
+ 
+
+1127
+00:29:37,770 --> 00:29:42,120
+you what we know and are trying to go
+use data as an enabler for the
+
+1128
+00:29:42,120 --> 00:29:42,130
+use data as an enabler for the
+ 
+
+1129
+00:29:42,130 --> 00:29:45,920
+use data as an enabler for the
+performance of the robots with the
+
+1130
+00:29:45,920 --> 00:29:45,930
+performance of the robots with the
+ 
+
+1131
+00:29:45,930 --> 00:29:50,070
+performance of the robots with the
+informed consent and understanding of
+
+1132
+00:29:50,070 --> 00:29:50,080
+informed consent and understanding of
+ 
+
+1133
+00:29:50,080 --> 00:29:54,730
+informed consent and understanding of
+the people who own those robots and
+
+1134
+00:29:54,730 --> 00:29:54,740
+
+ 
+
+1135
+00:29:54,740 --> 00:29:57,030
+
+you know we take it very seriously and
+
+1136
+00:29:57,030 --> 00:29:57,040
+you know we take it very seriously and
+ 
+
+1137
+00:29:57,040 --> 00:30:00,730
+you know we take it very seriously and
+ultimately we think that by showing a
+
+1138
+00:30:00,730 --> 00:30:00,740
+ultimately we think that by showing a
+ 
+
+1139
+00:30:00,740 --> 00:30:04,360
+ultimately we think that by showing a
+customer that you know if you let us
+
+1140
+00:30:04,360 --> 00:30:04,370
+customer that you know if you let us
+ 
+
+1141
+00:30:04,370 --> 00:30:07,450
+customer that you know if you let us
+build a semantic map of your home and
+
+1142
+00:30:07,450 --> 00:30:07,460
+build a semantic map of your home and
+ 
+
+1143
+00:30:07,460 --> 00:30:09,340
+build a semantic map of your home and
+know where the rooms are well then you
+
+1144
+00:30:09,340 --> 00:30:09,350
+know where the rooms are well then you
+ 
+
+1145
+00:30:09,350 --> 00:30:12,100
+know where the rooms are well then you
+can say clean the kitchen if you don't
+
+1146
+00:30:12,100 --> 00:30:12,110
+can say clean the kitchen if you don't
+ 
+
+1147
+00:30:12,110 --> 00:30:14,080
+can say clean the kitchen if you don't
+want to robot to do that don't make the
+
+1148
+00:30:14,080 --> 00:30:14,090
+want to robot to do that don't make the
+ 
+
+1149
+00:30:14,090 --> 00:30:16,210
+want to robot to do that don't make the
+map it'll do its best job cleaning your
+
+1150
+00:30:16,210 --> 00:30:16,220
+map it'll do its best job cleaning your
+ 
+
+1151
+00:30:16,220 --> 00:30:18,280
+map it'll do its best job cleaning your
+home but it won't be able to do that and
+
+1152
+00:30:18,280 --> 00:30:18,290
+home but it won't be able to do that and
+ 
+
+1153
+00:30:18,290 --> 00:30:20,560
+home but it won't be able to do that and
+if you ever want us to forget that we
+
+1154
+00:30:20,560 --> 00:30:20,570
+if you ever want us to forget that we
+ 
+
+1155
+00:30:20,570 --> 00:30:23,830
+if you ever want us to forget that we
+know that it's your kitchen you can have
+
+1156
+00:30:23,830 --> 00:30:23,840
+know that it's your kitchen you can have
+ 
+
+1157
+00:30:23,840 --> 00:30:25,780
+know that it's your kitchen you can have
+confidence that we will do that for you
+
+1158
+00:30:25,780 --> 00:30:25,790
+confidence that we will do that for you
+ 
+
+1159
+00:30:25,790 --> 00:30:31,710
+confidence that we will do that for you
+so we're trying to go and be a sort of a
+
+1160
+00:30:31,710 --> 00:30:31,720
+so we're trying to go and be a sort of a
+ 
+
+1161
+00:30:31,720 --> 00:30:36,130
+so we're trying to go and be a sort of a
+data 2.0 perspective company where we
+
+1162
+00:30:36,130 --> 00:30:36,140
+data 2.0 perspective company where we
+ 
+
+1163
+00:30:36,140 --> 00:30:38,800
+data 2.0 perspective company where we
+treat the data that the robots average
+
+1164
+00:30:38,800 --> 00:30:38,810
+treat the data that the robots average
+ 
+
+1165
+00:30:38,810 --> 00:30:41,620
+treat the data that the robots average
+of the consumers home as if it were the
+
+1166
+00:30:41,620 --> 00:30:41,630
+of the consumers home as if it were the
+ 
+
+1167
+00:30:41,630 --> 00:30:45,670
+of the consumers home as if it were the
+consumers data and that they have rights
+
+1168
+00:30:45,670 --> 00:30:45,680
+consumers data and that they have rights
+ 
+
+1169
+00:30:45,680 --> 00:30:50,050
+consumers data and that they have rights
+to it so we think by being the good guys
+
+1170
+00:30:50,050 --> 00:30:50,060
+to it so we think by being the good guys
+ 
+
+1171
+00:30:50,060 --> 00:30:52,390
+to it so we think by being the good guys
+on this front we can build the trust and
+
+1172
+00:30:52,390 --> 00:30:52,400
+on this front we can build the trust and
+ 
+
+1173
+00:30:52,400 --> 00:30:57,760
+on this front we can build the trust and
+thus be entrusted to enable robots to do
+
+1174
+00:30:57,760 --> 00:30:57,770
+thus be entrusted to enable robots to do
+ 
+
+1175
+00:30:57,770 --> 00:31:00,310
+thus be entrusted to enable robots to do
+more things that are thoughtful you
+
+1176
+00:31:00,310 --> 00:31:00,320
+more things that are thoughtful you
+ 
+
+1177
+00:31:00,320 --> 00:31:02,650
+more things that are thoughtful you
+think people's worries will diminish
+
+1178
+00:31:02,650 --> 00:31:02,660
+think people's worries will diminish
+ 
+
+1179
+00:31:02,660 --> 00:31:06,280
+think people's worries will diminish
+over time as a society broadly speaking
+
+1180
+00:31:06,280 --> 00:31:06,290
+over time as a society broadly speaking
+ 
+
+1181
+00:31:06,290 --> 00:31:09,400
+over time as a society broadly speaking
+do you think you can win over trust not
+
+1182
+00:31:09,400 --> 00:31:09,410
+do you think you can win over trust not
+ 
+
+1183
+00:31:09,410 --> 00:31:11,140
+do you think you can win over trust not
+just for the company but just the
+
+1184
+00:31:11,140 --> 00:31:11,150
+just for the company but just the
+ 
+
+1185
+00:31:11,150 --> 00:31:13,960
+just for the company but just the
+comfort of people have with AI in their
+
+1186
+00:31:13,960 --> 00:31:13,970
+comfort of people have with AI in their
+ 
+
+1187
+00:31:13,970 --> 00:31:16,600
+comfort of people have with AI in their
+home enriching their lives in some way I
+
+1188
+00:31:16,600 --> 00:31:16,610
+home enriching their lives in some way I
+ 
+
+1189
+00:31:16,610 --> 00:31:19,090
+home enriching their lives in some way I
+think we're an interesting place today
+
+1190
+00:31:19,090 --> 00:31:19,100
+think we're an interesting place today
+ 
+
+1191
+00:31:19,100 --> 00:31:22,480
+think we're an interesting place today
+we're less about winning them over and
+
+1192
+00:31:22,480 --> 00:31:22,490
+we're less about winning them over and
+ 
+
+1193
+00:31:22,490 --> 00:31:25,170
+we're less about winning them over and
+more about finding a way to talk about
+
+1194
+00:31:25,170 --> 00:31:25,180
+more about finding a way to talk about
+ 
+
+1195
+00:31:25,180 --> 00:31:27,580
+more about finding a way to talk about
+privacy in a way that more people can
+
+1196
+00:31:27,580 --> 00:31:27,590
+privacy in a way that more people can
+ 
+
+1197
+00:31:27,590 --> 00:31:30,060
+privacy in a way that more people can
+understand I would tell you that today
+
+1198
+00:31:30,060 --> 00:31:30,070
+understand I would tell you that today
+ 
+
+1199
+00:31:30,070 --> 00:31:33,850
+understand I would tell you that today
+when there's a privacy breach people get
+
+1200
+00:31:33,850 --> 00:31:33,860
+when there's a privacy breach people get
+ 
+
+1201
+00:31:33,860 --> 00:31:36,970
+when there's a privacy breach people get
+very upset and then then go to the store
+
+1202
+00:31:36,970 --> 00:31:36,980
+very upset and then then go to the store
+ 
+
+1203
+00:31:36,980 --> 00:31:38,740
+very upset and then then go to the store
+and buy the cheapest thing paying no
+
+1204
+00:31:38,740 --> 00:31:38,750
+and buy the cheapest thing paying no
+ 
+
+1205
+00:31:38,750 --> 00:31:40,960
+and buy the cheapest thing paying no
+attention to whether or not the products
+
+1206
+00:31:40,960 --> 00:31:40,970
+attention to whether or not the products
+ 
+
+1207
+00:31:40,970 --> 00:31:42,880
+attention to whether or not the products
+that they're buying honor privacy
+
+1208
+00:31:42,880 --> 00:31:42,890
+that they're buying honor privacy
+ 
+
+1209
+00:31:42,890 --> 00:31:44,290
+that they're buying honor privacy
+standards or not
+
+1210
+00:31:44,290 --> 00:31:44,300
+standards or not
+ 
+
+1211
+00:31:44,300 --> 00:31:47,890
+standards or not
+in fact if I put on the package of my
+
+1212
+00:31:47,890 --> 00:31:47,900
+in fact if I put on the package of my
+ 
+
+1213
+00:31:47,900 --> 00:31:49,859
+in fact if I put on the package of my
+Roomba
+
+1214
+00:31:49,859 --> 00:31:49,869
+Roomba
+ 
+
+1215
+00:31:49,869 --> 00:31:53,190
+Roomba
+the privacy commitments that we have I
+
+1216
+00:31:53,190 --> 00:31:53,200
+the privacy commitments that we have I
+ 
+
+1217
+00:31:53,200 --> 00:31:57,690
+the privacy commitments that we have I
+would sell less than I would if I did
+
+1218
+00:31:57,690 --> 00:31:57,700
+would sell less than I would if I did
+ 
+
+1219
+00:31:57,700 --> 00:31:59,700
+would sell less than I would if I did
+nothing at all and that needs to change
+
+1220
+00:31:59,700 --> 00:31:59,710
+nothing at all and that needs to change
+ 
+
+1221
+00:31:59,710 --> 00:32:01,680
+nothing at all and that needs to change
+so it's it's not a question about
+
+1222
+00:32:01,680 --> 00:32:01,690
+so it's it's not a question about
+ 
+
+1223
+00:32:01,690 --> 00:32:03,810
+so it's it's not a question about
+earning trust I think that's necessary
+
+1224
+00:32:03,810 --> 00:32:03,820
+earning trust I think that's necessary
+ 
+
+1225
+00:32:03,820 --> 00:32:05,909
+earning trust I think that's necessary
+by not sufficient we need to figure out
+
+1226
+00:32:05,909 --> 00:32:05,919
+by not sufficient we need to figure out
+ 
+
+1227
+00:32:05,919 --> 00:32:09,450
+by not sufficient we need to figure out
+how to have a comfortable set of what is
+
+1228
+00:32:09,450 --> 00:32:09,460
+how to have a comfortable set of what is
+ 
+
+1229
+00:32:09,460 --> 00:32:12,930
+how to have a comfortable set of what is
+the grade a meet standard applied to
+
+1230
+00:32:12,930 --> 00:32:12,940
+the grade a meet standard applied to
+ 
+
+1231
+00:32:12,940 --> 00:32:17,759
+the grade a meet standard applied to
+privacy that customers can trust and
+
+1232
+00:32:17,759 --> 00:32:17,769
+privacy that customers can trust and
+ 
+
+1233
+00:32:17,769 --> 00:32:19,409
+privacy that customers can trust and
+understand and then use in the buying
+
+1234
+00:32:19,409 --> 00:32:19,419
+understand and then use in the buying
+ 
+
+1235
+00:32:19,419 --> 00:32:22,250
+understand and then use in the buying
+decisions
+
+1236
+00:32:22,250 --> 00:32:22,260
+
+ 
+
+1237
+00:32:22,260 --> 00:32:24,510
+
+that will reward companies for good
+
+1238
+00:32:24,510 --> 00:32:24,520
+that will reward companies for good
+ 
+
+1239
+00:32:24,520 --> 00:32:28,049
+that will reward companies for good
+behavior and that will ultimately be how
+
+1240
+00:32:28,049 --> 00:32:28,059
+behavior and that will ultimately be how
+ 
+
+1241
+00:32:28,059 --> 00:32:31,200
+behavior and that will ultimately be how
+this moves forward and maybe be part of
+
+1242
+00:32:31,200 --> 00:32:31,210
+this moves forward and maybe be part of
+ 
+
+1243
+00:32:31,210 --> 00:32:33,630
+this moves forward and maybe be part of
+the conversation between regular people
+
+1244
+00:32:33,630 --> 00:32:33,640
+the conversation between regular people
+ 
+
+1245
+00:32:33,640 --> 00:32:35,399
+the conversation between regular people
+about what it means what privacy means
+
+1246
+00:32:35,399 --> 00:32:35,409
+about what it means what privacy means
+ 
+
+1247
+00:32:35,409 --> 00:32:37,740
+about what it means what privacy means
+if you have some standards you can say
+
+1248
+00:32:37,740 --> 00:32:37,750
+if you have some standards you can say
+ 
+
+1249
+00:32:37,750 --> 00:32:40,380
+if you have some standards you can say
+you're gonna start talking about who's
+
+1250
+00:32:40,380 --> 00:32:40,390
+you're gonna start talking about who's
+ 
+
+1251
+00:32:40,390 --> 00:32:42,269
+you're gonna start talking about who's
+following them who's not have more
+
+1252
+00:32:42,269 --> 00:32:42,279
+following them who's not have more
+ 
+
+1253
+00:32:42,279 --> 00:32:44,360
+following them who's not have more
+because most people are actually quite
+
+1254
+00:32:44,360 --> 00:32:44,370
+because most people are actually quite
+ 
+
+1255
+00:32:44,370 --> 00:32:46,710
+because most people are actually quite
+clueless about all aspects of artificial
+
+1256
+00:32:46,710 --> 00:32:46,720
+clueless about all aspects of artificial
+ 
+
+1257
+00:32:46,720 --> 00:32:48,450
+clueless about all aspects of artificial
+intelligence of data collection so on it
+
+1258
+00:32:48,450 --> 00:32:48,460
+intelligence of data collection so on it
+ 
+
+1259
+00:32:48,460 --> 00:32:50,399
+intelligence of data collection so on it
+would be nice to change that for people
+
+1260
+00:32:50,399 --> 00:32:50,409
+would be nice to change that for people
+ 
+
+1261
+00:32:50,409 --> 00:32:52,649
+would be nice to change that for people
+to understand the good that AI can do
+
+1262
+00:32:52,649 --> 00:32:52,659
+to understand the good that AI can do
+ 
+
+1263
+00:32:52,659 --> 00:32:55,350
+to understand the good that AI can do
+and it's not some some system that's
+
+1264
+00:32:55,350 --> 00:32:55,360
+and it's not some some system that's
+ 
+
+1265
+00:32:55,360 --> 00:32:57,450
+and it's not some some system that's
+trying to steal all the most sensitive
+
+1266
+00:32:57,450 --> 00:32:57,460
+trying to steal all the most sensitive
+ 
+
+1267
+00:32:57,460 --> 00:33:02,100
+trying to steal all the most sensitive
+data yep do you think do you dream of a
+
+1268
+00:33:02,100 --> 00:33:02,110
+data yep do you think do you dream of a
+ 
+
+1269
+00:33:02,110 --> 00:33:04,080
+data yep do you think do you dream of a
+Roomba with human level intelligence one
+
+1270
+00:33:04,080 --> 00:33:04,090
+Roomba with human level intelligence one
+ 
+
+1271
+00:33:04,090 --> 00:33:07,639
+Roomba with human level intelligence one
+day so you've mentioned a very
+
+1272
+00:33:07,639 --> 00:33:07,649
+day so you've mentioned a very
+ 
+
+1273
+00:33:07,649 --> 00:33:11,130
+day so you've mentioned a very
+successful localization and mapping of
+
+1274
+00:33:11,130 --> 00:33:11,140
+successful localization and mapping of
+ 
+
+1275
+00:33:11,140 --> 00:33:12,870
+successful localization and mapping of
+the environment being able to do some
+
+1276
+00:33:12,870 --> 00:33:12,880
+the environment being able to do some
+ 
+
+1277
+00:33:12,880 --> 00:33:15,240
+the environment being able to do some
+basic communication to say go clean the
+
+1278
+00:33:15,240 --> 00:33:15,250
+basic communication to say go clean the
+ 
+
+1279
+00:33:15,250 --> 00:33:19,950
+basic communication to say go clean the
+kitchen do you see and you're maybe more
+
+1280
+00:33:19,950 --> 00:33:19,960
+kitchen do you see and you're maybe more
+ 
+
+1281
+00:33:19,960 --> 00:33:24,930
+kitchen do you see and you're maybe more
+bored moments once you get the beer to
+
+1282
+00:33:24,930 --> 00:33:24,940
+bored moments once you get the beer to
+ 
+
+1283
+00:33:24,940 --> 00:33:28,620
+bored moments once you get the beer to
+sit back with that beer and have a chat
+
+1284
+00:33:28,620 --> 00:33:28,630
+sit back with that beer and have a chat
+ 
+
+1285
+00:33:28,630 --> 00:33:31,080
+sit back with that beer and have a chat
+on a Friday night with the Roomba about
+
+1286
+00:33:31,080 --> 00:33:31,090
+on a Friday night with the Roomba about
+ 
+
+1287
+00:33:31,090 --> 00:33:33,280
+on a Friday night with the Roomba about
+how your day one
+
+1288
+00:33:33,280 --> 00:33:33,290
+how your day one
+ 
+
+1289
+00:33:33,290 --> 00:33:37,750
+how your day one
+so true your latter question absolutely
+
+1290
+00:33:37,750 --> 00:33:37,760
+so true your latter question absolutely
+ 
+
+1291
+00:33:37,760 --> 00:33:40,340
+so true your latter question absolutely
+- your former question as to whether
+
+1292
+00:33:40,340 --> 00:33:40,350
+- your former question as to whether
+ 
+
+1293
+00:33:40,350 --> 00:33:41,800
+- your former question as to whether
+robot can have human level intelligence
+
+1294
+00:33:41,800 --> 00:33:41,810
+robot can have human level intelligence
+ 
+
+1295
+00:33:41,810 --> 00:33:46,640
+robot can have human level intelligence
+not my lifetime you can have you I think
+
+1296
+00:33:46,640 --> 00:33:46,650
+not my lifetime you can have you I think
+ 
+
+1297
+00:33:46,650 --> 00:33:49,090
+not my lifetime you can have you I think
+you can have a great conversation a
+
+1298
+00:33:49,090 --> 00:33:49,100
+you can have a great conversation a
+ 
+
+1299
+00:33:49,100 --> 00:33:53,290
+you can have a great conversation a
+meaningful conversation with a robot
+
+1300
+00:33:53,290 --> 00:33:53,300
+meaningful conversation with a robot
+ 
+
+1301
+00:33:53,300 --> 00:33:55,520
+meaningful conversation with a robot
+without it having anything that
+
+1302
+00:33:55,520 --> 00:33:55,530
+without it having anything that
+ 
+
+1303
+00:33:55,530 --> 00:33:59,240
+without it having anything that
+resembles human level intelligence and I
+
+1304
+00:33:59,240 --> 00:33:59,250
+resembles human level intelligence and I
+ 
+
+1305
+00:33:59,250 --> 00:34:02,600
+resembles human level intelligence and I
+think that as long as you realize that
+
+1306
+00:34:02,600 --> 00:34:02,610
+think that as long as you realize that
+ 
+
+1307
+00:34:02,610 --> 00:34:06,320
+think that as long as you realize that
+conversation is not about the robot and
+
+1308
+00:34:06,320 --> 00:34:06,330
+conversation is not about the robot and
+ 
+
+1309
+00:34:06,330 --> 00:34:08,659
+conversation is not about the robot and
+making the robot feel good that
+
+1310
+00:34:08,659 --> 00:34:08,669
+making the robot feel good that
+ 
+
+1311
+00:34:08,669 --> 00:34:12,070
+making the robot feel good that
+conversation is about you learning
+
+1312
+00:34:12,070 --> 00:34:12,080
+conversation is about you learning
+ 
+
+1313
+00:34:12,080 --> 00:34:16,430
+conversation is about you learning
+interesting things that make you feel
+
+1314
+00:34:16,430 --> 00:34:16,440
+interesting things that make you feel
+ 
+
+1315
+00:34:16,440 --> 00:34:18,860
+interesting things that make you feel
+like the conversation that you had with
+
+1316
+00:34:18,860 --> 00:34:18,870
+like the conversation that you had with
+ 
+
+1317
+00:34:18,870 --> 00:34:23,260
+like the conversation that you had with
+a robot is
+
+1318
+00:34:23,260 --> 00:34:23,270
+
+ 
+
+1319
+00:34:23,270 --> 00:34:26,049
+
+a pretty awesome way of learning
+
+1320
+00:34:26,049 --> 00:34:26,059
+a pretty awesome way of learning
+ 
+
+1321
+00:34:26,059 --> 00:34:29,349
+a pretty awesome way of learning
+something and it could be about what
+
+1322
+00:34:29,349 --> 00:34:29,359
+something and it could be about what
+ 
+
+1323
+00:34:29,359 --> 00:34:31,419
+something and it could be about what
+kind of day your pet had it could be
+
+1324
+00:34:31,419 --> 00:34:31,429
+kind of day your pet had it could be
+ 
+
+1325
+00:34:31,429 --> 00:34:34,960
+kind of day your pet had it could be
+about you know how can I make my home
+
+1326
+00:34:34,960 --> 00:34:34,970
+about you know how can I make my home
+ 
+
+1327
+00:34:34,970 --> 00:34:37,889
+about you know how can I make my home
+more energy-efficient it could be about
+
+1328
+00:34:37,889 --> 00:34:37,899
+more energy-efficient it could be about
+ 
+
+1329
+00:34:37,899 --> 00:34:40,030
+more energy-efficient it could be about
+you know if I'm thinking about climbing
+
+1330
+00:34:40,030 --> 00:34:40,040
+you know if I'm thinking about climbing
+ 
+
+1331
+00:34:40,040 --> 00:34:43,680
+you know if I'm thinking about climbing
+Mount Everest what should I know and
+
+1332
+00:34:43,680 --> 00:34:43,690
+Mount Everest what should I know and
+ 
+
+1333
+00:34:43,690 --> 00:34:48,849
+Mount Everest what should I know and
+that's a very doable thing you know but
+
+1334
+00:34:48,849 --> 00:34:48,859
+that's a very doable thing you know but
+ 
+
+1335
+00:34:48,859 --> 00:34:51,700
+that's a very doable thing you know but
+if I think that that conversation gonna
+
+1336
+00:34:51,700 --> 00:34:51,710
+if I think that that conversation gonna
+ 
+
+1337
+00:34:51,710 --> 00:34:54,099
+if I think that that conversation gonna
+have of the robot is I'm gonna be
+
+1338
+00:34:54,099 --> 00:34:54,109
+have of the robot is I'm gonna be
+ 
+
+1339
+00:34:54,109 --> 00:34:57,010
+have of the robot is I'm gonna be
+rewarded by making the robot happy but I
+
+1340
+00:34:57,010 --> 00:34:57,020
+rewarded by making the robot happy but I
+ 
+
+1341
+00:34:57,020 --> 00:34:58,359
+rewarded by making the robot happy but I
+couldn't have just put a button on the
+
+1342
+00:34:58,359 --> 00:34:58,369
+couldn't have just put a button on the
+ 
+
+1343
+00:34:58,369 --> 00:34:59,829
+couldn't have just put a button on the
+robot you could push in the robot would
+
+1344
+00:34:59,829 --> 00:34:59,839
+robot you could push in the robot would
+ 
+
+1345
+00:34:59,839 --> 00:35:02,410
+robot you could push in the robot would
+smile and that sort of thing so I think
+
+1346
+00:35:02,410 --> 00:35:02,420
+smile and that sort of thing so I think
+ 
+
+1347
+00:35:02,420 --> 00:35:04,299
+smile and that sort of thing so I think
+you need to think about the question in
+
+1348
+00:35:04,299 --> 00:35:04,309
+you need to think about the question in
+ 
+
+1349
+00:35:04,309 --> 00:35:09,450
+you need to think about the question in
+the the right way and and robots can be
+
+1350
+00:35:09,450 --> 00:35:09,460
+the the right way and and robots can be
+ 
+
+1351
+00:35:09,460 --> 00:35:12,520
+the the right way and and robots can be
+awesomely effective at helping people
+
+1352
+00:35:12,520 --> 00:35:12,530
+awesomely effective at helping people
+ 
+
+1353
+00:35:12,530 --> 00:35:16,059
+awesomely effective at helping people
+feel less isolated learn more about the
+
+1354
+00:35:16,059 --> 00:35:16,069
+feel less isolated learn more about the
+ 
+
+1355
+00:35:16,069 --> 00:35:19,660
+feel less isolated learn more about the
+home that they live in and fill some of
+
+1356
+00:35:19,660 --> 00:35:19,670
+home that they live in and fill some of
+ 
+
+1357
+00:35:19,670 --> 00:35:23,020
+home that they live in and fill some of
+those lonely gaps that we wish we were
+
+1358
+00:35:23,020 --> 00:35:23,030
+those lonely gaps that we wish we were
+ 
+
+1359
+00:35:23,030 --> 00:35:25,120
+those lonely gaps that we wish we were
+engaged learning cool stuff about our
+
+1360
+00:35:25,120 --> 00:35:25,130
+engaged learning cool stuff about our
+ 
+
+1361
+00:35:25,130 --> 00:35:29,500
+engaged learning cool stuff about our
+world last question if you could hang
+
+1362
+00:35:29,500 --> 00:35:29,510
+world last question if you could hang
+ 
+
+1363
+00:35:29,510 --> 00:35:32,920
+world last question if you could hang
+out for a day with a robot from science
+
+1364
+00:35:32,920 --> 00:35:32,930
+out for a day with a robot from science
+ 
+
+1365
+00:35:32,930 --> 00:35:36,609
+out for a day with a robot from science
+fiction movies books and safely pick
+
+1366
+00:35:36,609 --> 00:35:36,619
+fiction movies books and safely pick
+ 
+
+1367
+00:35:36,619 --> 00:35:40,539
+fiction movies books and safely pick
+safely pick its brain for that day who
+
+1368
+00:35:40,539 --> 00:35:40,549
+safely pick its brain for that day who
+ 
+
+1369
+00:35:40,549 --> 00:35:44,680
+safely pick its brain for that day who
+would you pick data data from Star Trek
+
+1370
+00:35:44,680 --> 00:35:44,690
+would you pick data data from Star Trek
+ 
+
+1371
+00:35:44,690 --> 00:35:49,049
+would you pick data data from Star Trek
+I think that a data is really smart
+
+1372
+00:35:49,049 --> 00:35:49,059
+I think that a data is really smart
+ 
+
+1373
+00:35:49,059 --> 00:35:51,849
+I think that a data is really smart
+data's been through a lot trying to go
+
+1374
+00:35:51,849 --> 00:35:51,859
+data's been through a lot trying to go
+ 
+
+1375
+00:35:51,859 --> 00:35:56,470
+data's been through a lot trying to go
+and save the galaxy and I'm really
+
+1376
+00:35:56,470 --> 00:35:56,480
+and save the galaxy and I'm really
+ 
+
+1377
+00:35:56,480 --> 00:35:59,430
+and save the galaxy and I'm really
+interested actually in emotion and
+
+1378
+00:35:59,430 --> 00:35:59,440
+interested actually in emotion and
+ 
+
+1379
+00:35:59,440 --> 00:36:02,319
+interested actually in emotion and
+robotics and I think he'd have a lot to
+
+1380
+00:36:02,319 --> 00:36:02,329
+robotics and I think he'd have a lot to
+ 
+
+1381
+00:36:02,329 --> 00:36:04,299
+robotics and I think he'd have a lot to
+say about that because I believe
+
+1382
+00:36:04,299 --> 00:36:04,309
+say about that because I believe
+ 
+
+1383
+00:36:04,309 --> 00:36:08,589
+say about that because I believe
+actually that emotion play is an
+
+1384
+00:36:08,589 --> 00:36:08,599
+actually that emotion play is an
+ 
+
+1385
+00:36:08,599 --> 00:36:11,849
+actually that emotion play is an
+incredibly useful role in doing
+
+1386
+00:36:11,849 --> 00:36:11,859
+incredibly useful role in doing
+ 
+
+1387
+00:36:11,859 --> 00:36:15,220
+incredibly useful role in doing
+reasonable things in situations where I
+
+1388
+00:36:15,220 --> 00:36:15,230
+reasonable things in situations where I
+ 
+
+1389
+00:36:15,230 --> 00:36:17,109
+reasonable things in situations where I
+have imperfect understanding of what's
+
+1390
+00:36:17,109 --> 00:36:17,119
+have imperfect understanding of what's
+ 
+
+1391
+00:36:17,119 --> 00:36:19,539
+have imperfect understanding of what's
+going on in social situations on there's
+
+1392
+00:36:19,539 --> 00:36:19,549
+going on in social situations on there's
+ 
+
+1393
+00:36:19,549 --> 00:36:21,280
+going on in social situations on there's
+been perfect information in social
+
+1394
+00:36:21,280 --> 00:36:21,290
+been perfect information in social
+ 
+
+1395
+00:36:21,290 --> 00:36:25,539
+been perfect information in social
+situations also in competitive or
+
+1396
+00:36:25,539 --> 00:36:25,549
+situations also in competitive or
+ 
+
+1397
+00:36:25,549 --> 00:36:28,540
+situations also in competitive or
+dangerous situations
+
+1398
+00:36:28,540 --> 00:36:28,550
+dangerous situations
+ 
+
+1399
+00:36:28,550 --> 00:36:32,620
+dangerous situations
+that we have a motion for a reason and
+
+1400
+00:36:32,620 --> 00:36:32,630
+that we have a motion for a reason and
+ 
+
+1401
+00:36:32,630 --> 00:36:36,430
+that we have a motion for a reason and
+so that ultimately this my theory is
+
+1402
+00:36:36,430 --> 00:36:36,440
+so that ultimately this my theory is
+ 
+
+1403
+00:36:36,440 --> 00:36:38,320
+so that ultimately this my theory is
+that as robots get smart and smarter
+
+1404
+00:36:38,320 --> 00:36:38,330
+that as robots get smart and smarter
+ 
+
+1405
+00:36:38,330 --> 00:36:39,340
+that as robots get smart and smarter
+they're actually going to get more
+
+1406
+00:36:39,340 --> 00:36:39,350
+they're actually going to get more
+ 
+
+1407
+00:36:39,350 --> 00:36:46,050
+they're actually going to get more
+emotional because you can't actually
+
+1408
+00:36:46,050 --> 00:36:46,060
+emotional because you can't actually
+ 
+
+1409
+00:36:46,060 --> 00:36:50,650
+emotional because you can't actually
+survive on pure logic because only a
+
+1410
+00:36:50,650 --> 00:36:50,660
+survive on pure logic because only a
+ 
+
+1411
+00:36:50,660 --> 00:36:53,890
+survive on pure logic because only a
+very tiny fraction of the situations you
+
+1412
+00:36:53,890 --> 00:36:53,900
+very tiny fraction of the situations you
+ 
+
+1413
+00:36:53,900 --> 00:36:55,540
+very tiny fraction of the situations you
+find ourselves and can be resolved
+
+1414
+00:36:55,540 --> 00:36:55,550
+find ourselves and can be resolved
+ 
+
+1415
+00:36:55,550 --> 00:36:57,850
+find ourselves and can be resolved
+reasonably with logic and so I think
+
+1416
+00:36:57,850 --> 00:36:57,860
+reasonably with logic and so I think
+ 
+
+1417
+00:36:57,860 --> 00:36:59,290
+reasonably with logic and so I think
+data would have a lot to say about that
+
+1418
+00:36:59,290 --> 00:36:59,300
+data would have a lot to say about that
+ 
+
+1419
+00:36:59,300 --> 00:37:00,850
+data would have a lot to say about that
+and so I could find out whether he
+
+1420
+00:37:00,850 --> 00:37:00,860
+and so I could find out whether he
+ 
+
+1421
+00:37:00,860 --> 00:37:04,180
+and so I could find out whether he
+agrees what if you could ask data one
+
+1422
+00:37:04,180 --> 00:37:04,190
+agrees what if you could ask data one
+ 
+
+1423
+00:37:04,190 --> 00:37:06,100
+agrees what if you could ask data one
+question you would get a deep honest
+
+1424
+00:37:06,100 --> 00:37:06,110
+question you would get a deep honest
+ 
+
+1425
+00:37:06,110 --> 00:37:08,770
+question you would get a deep honest
+answer to what would you ask what's
+
+1426
+00:37:08,770 --> 00:37:08,780
+answer to what would you ask what's
+ 
+
+1427
+00:37:08,780 --> 00:37:12,940
+answer to what would you ask what's
+Captain Picard really like okay I think
+
+1428
+00:37:12,940 --> 00:37:12,950
+Captain Picard really like okay I think
+ 
+
+1429
+00:37:12,950 --> 00:37:14,500
+Captain Picard really like okay I think
+that's the perfect way to end the call
+
+1430
+00:37:14,500 --> 00:37:14,510
+that's the perfect way to end the call
+ 
+
+1431
+00:37:14,510 --> 00:37:15,970
+that's the perfect way to end the call
+and thank you so much for talking today
+
+1432
+00:37:15,970 --> 00:37:15,980
+and thank you so much for talking today
+ 
+
+1433
+00:37:15,980 --> 00:37:25,160
+and thank you so much for talking today
+I really appreciate it my pleasure
+
+1434
+00:37:25,160 --> 00:37:25,170
+
+ 
+
+1435
+00:37:25,170 --> 00:37:27,230
+
+you
+
