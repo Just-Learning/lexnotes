@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - action-deploy-docs
 
 permissions:
   contents: write
