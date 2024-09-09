@@ -1,4 +1,20 @@
-# Generate Summary
+# Summary
+
+Calling OpenAI & LangChain to summrise given transcript or subtitle
+
+## Ask Claude.AI to compare 2 approaches
+
+From a reader's perspective, summary #1 (refine algorithm) is generally better. It offers a more comprehensive, detailed, and context-rich overview of the podcast. This summary would be particularly useful for readers who want a thorough understanding of the discussion or who might be using the summary as a reference.
+
+However, summary #2 (map reduce algorithm) might be preferred by readers looking for a quicker, more concise overview of the main points. Its brevity could be an advantage for those who want just the key takeaways without diving into too much detail.
+
+For a general audience seeking a comprehensive understanding of the podcast, summary #1 would be the better option.
+
+## Ask Claude.AI to compare refine algorithm to Google NotebookLM
+
+
+## Final Conclusion
+
 
 To implement the MapReduceDocumentsChain in a Jupyter Notebook, you can follow these steps:
 Setup
