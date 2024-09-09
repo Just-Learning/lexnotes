@@ -70,3 +70,4 @@ ENV/
 
 # MkDocs documentation
 /site/
+.env
