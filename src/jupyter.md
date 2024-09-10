@@ -1,9 +1,6 @@
-# Clean
-
-Transform raw data to a cleaned format and persist to local files
+# Jupyter Setup
 
 ## Start a Jupyter Notebook
-
 
 ```bash
 # pyenv
@@ -24,3 +21,11 @@ pip3 install jupyterlab
 jupyter lab # select the venv as python kernel
 ```
 
+## Enable Execution Timing
+
+
+1. Go to Settings -> Advanced Settings Editor -> Notebook
+
+2. Install the jupyterlab-execute-time extension: `%pip install jupyterlab_execute_time`
+
+3. Restart JupyterLab or refresh your browser window.
