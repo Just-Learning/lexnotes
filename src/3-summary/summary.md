@@ -2,19 +2,21 @@
 
 Calling OpenAI & LangChain to summrise given transcript or subtitle
 
-## Ask Claude.AI to compare 2 approaches
+claude acts as the judge to help us measure summary performance.
 
-From a reader's perspective, summary #1 (refine algorithm) is generally better. It offers a more comprehensive, detailed, and context-rich overview of the podcast. This summary would be particularly useful for readers who want a thorough understanding of the discussion or who might be using the summary as a reference.
-
-However, summary #2 (map reduce algorithm) might be preferred by readers looking for a quicker, more concise overview of the main points. Its brevity could be an advantage for those who want just the key takeaways without diving into too much detail.
+## MapReduce vs Refine
 
 For a general audience seeking a comprehensive understanding of the podcast, summary #1 would be the better option.
 
-## Ask Claude.AI to compare refine algorithm to Google NotebookLM
+## GPT-4o vs GPT-4o-mini
+
+with GPT-4 excelling in comprehensiveness and detail, and GPT-4 mini in conciseness and scannability.
+
+> Pro tip: GPT-4o blowed by OpenAPI credit
+
 
 
 ## Final Conclusion
-
 
 To implement the MapReduceDocumentsChain in a Jupyter Notebook, you can follow these steps:
 Setup
