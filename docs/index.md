@@ -11,13 +11,24 @@ Ingredients
 - [Official Website](https://lexfridman.com/podcast)
 - [YouTube Channel](https://www.youtube.com/@lexfridman)
 
-Method
+Sourcing
 
+- Instant Data Scraper (Chrome Extension)
+- Listly (Chrome Extension)
+- wget, yt-dlp, html2text (CLI)
+- Jupyter Lab (IDE)
+
+Summerising
+
+- OpenAI GPT-4o and GPT-4o-mini (LLM)
+- LangChain RefineDocumentsChain (Framework)
+
+Measuring
+
+- Anthropic Claude AI
 - Google NotebookLM
-- OpenAI Whisper
-- OpenAI GPT-4
 
-Serves
+Serving
 
 - GitHub Page for hosting
 - Cloudflare for custon domain
