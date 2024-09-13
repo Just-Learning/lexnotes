@@ -4,9 +4,3 @@ theme: readthedocs
 plugins:
     - search
     - awesome-pages
-
-nav:
-    - index.md
-    - ...
-    - thanks.md
-   
