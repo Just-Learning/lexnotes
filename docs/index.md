@@ -11,24 +11,24 @@ Ingredients
 - [Official Website](https://lexfridman.com/podcast)
 - [YouTube Channel](https://www.youtube.com/@lexfridman)
 
-Sourcing
+#### Sourcing
 
 - Instant Data Scraper (Chrome Extension)
 - Listly (Chrome Extension)
 - wget, yt-dlp, html2text (CLI)
 - Jupyter Lab (IDE)
 
-Summerising
+#### Summerising
 
 - OpenAI GPT-4o and GPT-4o-mini (LLM)
 - LangChain RefineDocumentsChain (Framework)
 
-Measuring
+#### Measuring
 
 - Anthropic Claude AI
 - Google NotebookLM
 
-Serving
+#### Serving
 
 - GitHub Page for hosting
 - Cloudflare for custon domain
