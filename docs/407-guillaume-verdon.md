@@ -1,5 +1,10 @@
 # 407 Guillaume Verdon
 
+
+Link: https://www.linkedin.com/in/gverdon
+
+
+
 ## The Main Arguments
 
 - **Effective Accelerationism (e/acc)**: Verdon introduces e/acc as a cultural framework that promotes rapid technological advancement to enhance human potential. He argues that this mindset is crucial for societal progress, challenging the prevalent caution surrounding technological development. The significance lies in its optimistic approach, advocating for growth and innovation.

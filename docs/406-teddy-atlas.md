@@ -1,5 +1,20 @@
 # 406 Teddy Atlas
 
+
+![Teddy Atlas](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-cYQ9l1k40VaTaM7EVudX4MS7TzCbjo01Wcdp7g&s=0)
+
+American boxing coach
+
+> Theodore A. Atlas Jr. is an American boxing trainer and fight commentator.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Teddy_Atlas)
+
+- **Born**: 1956 , Staten Island, New York, NY
+- **Spouse**: Elaine Atlas
+- **Children**: Teddy Atlas III and Nicole
+- **Parents**: Dr.Theodore A. Atlas and Mari Ryan Atlas
+
+
 ## The Main Arguments
 
 - **Influence of Family**: Teddy Atlas discusses the profound impact of his father on his values and character development. He emphasizes that children learn more from observing their parents' actions than from direct teachings. This argument underscores the importance of positive role models in shaping a child's future.

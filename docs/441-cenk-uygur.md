@@ -1,5 +1,25 @@
 # 441 Cenk Uygur
 
+
+![Cenk Uygur](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm-Pp4vRNPczAtQTUEWw7swD0803hWLfCkM5P195rGNDnwx5VBSp25xA&s=0)
+
+Turkish-American politician
+
+> Cenk Kadir Uygur is a Turkish-born American politician, political commentator and media host. He is the co-creator of The Young Turks, a left-wing, progressive, sociopolitical news and commentary program. In 1996, Uygur worked briefly as an...
+
+Website: https://twitter.com/cenkuygur
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Cenk_Uygur)
+
+- **Born**: 1970 , İstanbul, Türkiye
+- **Spouse**: Wendy Lang
+- **Books**: Justice Is Coming: How Progressives Are Going to Take Over the Country and America Is Going to Love It
+- **Height**: 5′ 9″
+- **Party**: Democratic Party
+- **Education**: Wharton School (1992), University of Pennsylvania, and Columbia Law School
+- **Parents**: Dogan Uygur
+
+
 ## The Main Arguments
 
 - **Progressivism vs. Establishment Politics**: Uygur emphasizes that progressivism aims to expand liberty and justice for all, contrasting it with establishment politics that often serve corporate interests. This distinction is significant as it frames the ideological battle in American politics, advocating for a populist approach that prioritizes the majority over the elite.

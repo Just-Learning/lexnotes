@@ -1,5 +1,23 @@
 # 422 Mark Cuban
 
+
+![Mark Cuban](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW7RmsXWgoBib1uBcltN4eGctuhWsG99SvS5JWNA&s=0)
+
+American businessman and investor
+
+> Mark Cuban is an American businessman, investor and television presenter. He is the former principal owner and current minority owner of the Dallas Mavericks of the National Basketball Association, co-owner of 2929 Entertainment, and one of the...
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Mark_Cuban)
+
+- **Born**: July 31, 1958 , Pittsburgh, PA
+- **Net worth**: 5.7 billion USD (2024)
+- **Organizations founded**: Cost Plus Drugs, Broadcast.com, HDNet Fights, and more
+- **Spouse**: Tiffany Stewart (m. 2002)
+- **Children**: Alexis Sofia Cuban and Alyssa Cuban
+- **Education**: Kelley School of Business at Indiana University (1981) and University of Pittsburgh
+- **Height**: 6′ 2″
+
+
 ## The main arguments
 
 - **Entrepreneurial Traits**: Mark Cuban emphasizes that successful entrepreneurs must be curious, agile, and skilled at selling. He argues that curiosity fosters continuous learning, agility enables adaptation to changing environments, and sales skills are vital for business survival. This highlights the multifaceted nature of entrepreneurship, moving beyond the simplistic view of having a good idea.

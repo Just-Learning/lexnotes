@@ -1,5 +1,22 @@
 # 387 George Hotz 3
 
+
+![George Hotz](https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcR77g5yayU7NpdDV4HHq8Mj7wdIbnt92q2gf-cbFrLx9PLyk2nEcC9azjkCNJBK_dSG9JP6&s=19)
+
+American hacker and entrepreneur
+
+> George Francis Hotz, alias geohot, is an American security hacker, entrepreneur, and software engineer. He is known for developing iOS jailbreaks, reverse engineering the PlayStation 3, and for the subsequent lawsuit brought against him by Sony.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/George_Hotz)
+
+- **Born**: 1989 , Glen Rock, NJ
+- **Education**: Center for Talented Youth, Bergen County Academies, and Rochester Institute of Technology
+- **Height**: 5′ 4″
+- **Parents**: Marie Minichiello and George Hotz, Sr.
+- **Notable work**: Jailbreak, comma.ai, tinygrad
+- **Other names**: geohot, tomcr00se
+
+
 ## The Main Arguments
 
 - **Time as a Construct**: Hotz posits that time may be an illusion, serving as a useful model rather than an objective reality. This philosophical stance encourages listeners to reconsider their understanding of existence and reality, challenging conventional views.

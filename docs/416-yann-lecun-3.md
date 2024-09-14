@@ -1,5 +1,25 @@
 # 416 Yann LeCun
 
+
+![Yann LeCun](https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSatDRGeUTYiH0zT46jPHpHXJfyxi0_e15uULmVWfQvuYX4N7QKxdbMs8yOhMjjR9Hnpnur&s=19)
+
+French-American computer scientist
+
+> Yann André LeCun is a French-American computer scientist working primarily in the fields of machine learning, computer vision, mobile robotics and computational neuroscience.
+
+Website: http://yann.lecun.com/
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Yann_LeCun)
+
+- **Born**: 1960 , Paris, France
+- **Education**: Sorbonne University Pierre and Marie Curie Campus (1983–1987) and Esiee Paris (1983)
+- **Academic advisors**: Geoffrey Hinton and Maurice Milgram
+- **Known for**: Deep learning
+- **Awards**: Turing Award (2018), AAAI Fellow (2019), and Legion of Honour (2023)
+- **Affiliation**: New York University
+- **Research interests**: AI, Machine Learning, Computer Vision, and more
+
+
 ## The Main Arguments
 
 - **Limits of Large Language Models (LLMs)**: Yann LeCun argues that while LLMs can generate fluent text, they lack true understanding and reasoning abilities. This limitation is significant as it underscores the need for AI systems that can interact with the physical world, not just process language.

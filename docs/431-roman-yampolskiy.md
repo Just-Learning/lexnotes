@@ -1,5 +1,19 @@
 # 431 Roman Yampolskiy
 
+
+![Roman Yampolskiy](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHE3lziKWyO7R56rrZhRo7q6mQdWj9OlwDcrl6Vg&s=0)
+
+Latvian computer scientist
+
+> Roman Vladimirovich Yampolskiy is a Latvian computer scientist at the University of Louisville, known for his work on behavioral biometrics, security of cyberworlds, and AI safety. He holds a PhD from the University at Buffalo.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Roman_Yampolskiy)
+
+- **Born**: 1979 , Latvian Soviet Socialist Republic
+- **Affiliation**: University of Louisville
+- **Research interests**: AI Safety, Artificial General Intelligence, Singularity, and more
+
+
 ## The Main Arguments
 
 - **Existential Risk of AGI**: Yampolskiy asserts that the development of superintelligent AI poses a 99.99% chance of catastrophic outcomes for humanity. This alarming statistic underscores the critical need for prioritizing AI safety measures before AGI is realized, emphasizing the high stakes involved.

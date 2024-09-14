@@ -1,5 +1,22 @@
 # 433 Sara Walker
 
+
+![Sara Imari Walker](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT20TP_bAVAOhHuvm00ZLx3Mx47N1JYUIW1gCY8IR4&s=0)
+
+American physicist
+
+> Sara Imari Walker is an American theoretical physicist and astrobiologist with research interests in the origins of life, astrobiology, physics of life, emergence, complex and dynamical systems, and artificial life.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Sara_Imari_Walker)
+
+- **Born**: Connecticut
+- **Education**: Cape Cod Community College, Dartmouth College, and Florida Institute of Technology
+- **Affiliation**: Arizona State University
+- **Research interests**: Astrobiology, Theoretical Physics, Origins of Life, and more
+- **Doctoral advisor**: Marcelo Gleiser
+- **Thesis**: Theoretical Models for the Emergence of Biomolecular Homochirality
+
+
 ## The main arguments
 
 - **Definition of Life**: Sara Walker explores the contrasting views of materialism and vitalism regarding the essence of life. Materialists believe life can be entirely explained through physical properties, while vitalists argue for a non-physical essence. This distinction is significant as it shapes scientific and philosophical inquiries into life's nature and origins.

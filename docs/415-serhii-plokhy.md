@@ -1,5 +1,18 @@
 # 415 Serhii Plokhy
 
+
+![Serhii Plokhy](https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTU_uJVG0wJj4hbUHPE7Q1_7XJd6Ac8xEzINwu2c65eiWgOOzeJIREPlSOQJ6xjFMeuADN1&s=19)
+
+Academic
+
+> Serhii Mykolayovych Plokhy is the Mykhailo Hrushevsky professor of Ukrainian history at Harvard University, where he also serves as the director of the Harvard Ukrainian Research Institute.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Serhii_Plokhy)
+
+- **Born**: 1957 , Nizhny Novgorod, Russia
+- **Education**: Oles Honchar Dnipro National University (1980) and Taras Shevchenko National University of Kyiv
+
+
 ## The Main Arguments
 
 - **Complexity of the Soviet Union's Collapse**: Plokhy argues that the dissolution of the Soviet Union was not merely an ideological failure but a multifaceted event influenced by geography, economics, and nationalism. This perspective situates the Soviet collapse within a historical pattern of empire disintegration, suggesting that such events are not unique but rather part of a recurring theme in history.

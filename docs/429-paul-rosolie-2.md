@@ -1,5 +1,23 @@
 # 429 Paul Rosolie
 
+
+![Paul Rosolie](https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQv84VRFfCNw4d8s0pWWtEjb5RWglzumvlKIap_C6-qId2QXR1t96763sX-rDwKl82htLJD&s=19)
+
+American conservationist and author
+
+> Paul Rosolie is an American conservationist and author. His 2014 memoir, Mother of God, detailed his work in the Amazon rainforest in southeastern Peru. He was also the host of the Discovery Channel's 2014 film, Eaten Alive.
+
+Website: https://www.paulrosolie.com/
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Paul_Rosolie)
+
+- **Born**: New York
+- **Spouse**: Gowri Varanashi
+- **Nationality**: American
+- **Education**: Environmental Studies
+- **TV shows**: Eaten Alive, Dark Green: Alone in the Amazon, and Uncharted Amazon
+
+
 ## The main arguments
 
 - **Biodiversity of the Amazon**: Paul Rosolie emphasizes the Amazon rainforest as the most biodiverse area on Earth, with over 1,500 species of trees alone. He argues that this biodiversity is crucial for ecological health and global stability, highlighting the ongoing discovery of new species and the importance of preserving these ecosystems. This argument underscores the urgency of conservation efforts in the face of deforestation and climate change.

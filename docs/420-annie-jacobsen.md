@@ -1,5 +1,20 @@
 # 420 Annie Jacobsen
 
+
+![Annie Jacobsen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFN-FjrWTa2ScEEYsCXYtI3VMG5byoJyn4tKIw6kax9-m83A8FPn-8_w&s=0)
+
+American journalist and author
+
+> Annie Jacobsen is an American investigative journalist, author, and a 2016 Pulitzer Prize finalist. She writes for and produces television programs, including Tom Clancy's Jack Ryan for Amazon Studios, and Clarice for CBS. She was a contributing...
+
+Website: https://anniejacobsen.com/
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Annie_Jacobsen)
+
+- **Born**: 1967 , Middletown, CT
+- **Education**: Princeton University and St. Paul's School
+
+
 ## The main arguments
 
 - **Nuclear War's Catastrophic Potential**: Jacobsen emphasizes that nuclear war could result in billions of deaths, not only from immediate explosions but also from subsequent nuclear winter and starvation. This argument underscores the urgent need for reform in nuclear weapons policies and global disarmament discussions, highlighting the existential threat posed by nuclear arsenals.

@@ -1,5 +1,22 @@
 # 424 Bassem Youssef
 
+
+![Bassem Youssef](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcslYLafzjWi0VFDWTZ7w4PIRbhAKmJrgWznbpCA&s=0)
+
+Egyptian-American comedian and television host
+
+> Bassem Raafat Mohamed Youssef is an Egyptian-American comedian, television host, and surgeon. Beginning his career with The B+ Show, which was inspired by his experience during the 2011 Egyptian Revolution, he later rose to prominence as the host...
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Bassem_Youssef)
+
+- **Born**: 1974 , Cairo, Egypt
+- **Spouse**: Hala Diab (m. 2010)
+- **Education**: Faculty of Medicine Cairo University (1998), Faculty of Medicine Cairo University, and Cairo University
+- **Children**: 2
+- **Parents**: Nadia Hamdy Saleh and Raafat Youssef
+- **Citizenship**: : Egypt; United States;
+
+
 ## The Main Arguments
 
 - **Complexity of Human Emotions in Conflict**: Bassem Youssef emphasizes the emotional responses of communities involved in the Israel-Palestine conflict. He argues that understanding these emotions is essential for fostering empathy and dialogue, highlighting the often-overlooked human aspect of geopolitical conflicts. This perspective is significant as it challenges the reductionist view of conflicts as mere political or territorial disputes.

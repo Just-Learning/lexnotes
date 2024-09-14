@@ -1,5 +1,20 @@
 # 430 Charan Ranganath
 
+
+![Charan Ranganath](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsSvHK4nEDu_zXZFwkcrgEjrTKxtOyhNjAY3zCcA&s=0)
+
+Researcher
+
+> CHARAN RANGANATH is a Professor at the Center for Neuroscience and Department of Psychology and director of the Dynamic Memory Lab at the University of California at Davis. ...
+
+Website: https://charanranganath.com/
+
+Source: [Google Books](https://books.google.com/books/about/Why_We_Remember.html?id=Mda_EAAAQBAJ&source=kp_author_description)
+
+- **Affiliation**: University of California, Davis
+- **Research interests**: Cognitive Neuroscience, Memory, Neuroimaging, and more
+
+
 ## The main arguments
 
 - **Experiencing Self vs. Remembering Self**: Ranganath differentiates between the "experiencing self," which is engaged in the present moment, and the "remembering self," which interprets and reflects on past experiences. This distinction is significant as it reveals how our memories can be biased, influencing our happiness and decision-making.

@@ -1,6 +1,23 @@
 
 # 423 Tulsi Gabbard
 
+![Tulsi Gabbard](https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTc-01xWjPjMumJ19Ixes9QhZh654O0gnW_ZK1zAPgpyYoqjMt031BKEDDQvkYtgH7yiWk_&s=19)
+
+Former United States Representative
+
+> Tulsi Gabbard is an American politician, United States Army Reserve officer, and conservative political commentator who was the U.S. representative for Hawaii's 2nd congressional district from 2013 to 2021. Gabbard was the first Samoan-American to...
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Tulsi_Gabbard)
+
+- **Born**: April 12, 1981 , Leloaloa, American Samoa
+- **Spouse**: Abraham Williams (m. 2015) and Eduardo Tamayo (m. 2002–2006)
+- **Previous offices**: Representative, HI 2nd District (2013–2021), Member of the Honolulu City Council (2011–2012), and Hawaii State Representative (2002–2004)
+- **Parents**: Mike Gabbard and Carol Porter Gabbard
+- **Marriage location**: Kahaluu, HI
+- **Previous campaigns**: United States Presidential election, 2020 and United States House of Representatives elections, 2018
+
+
+
 ## The Main Arguments
 
 - **Cost of War**: Tulsi Gabbard emphasizes the profound human and financial costs of war, drawing from her experiences as a soldier in Iraq. She argues that the disconnect between military operations and the realities faced by soldiers and civilians necessitates accountability in military spending and operations. This argument is significant as it highlights the often-overlooked consequences of military actions on both soldiers and civilians.

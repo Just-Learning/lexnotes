@@ -1,5 +1,39 @@
 # 395 Walter Isaacson
 
+
+![Walter Isaacson](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXNp-3BhGaAHiZSzu6Jws54FkS2rgYhcAGnAgAHg&s=0)
+
+Former president of the Aspen Institute
+
+> Walter Seff Isaacson is an American historian and journalist best known for having written biographies of important public figures, including Henry Kissinger, Benjamin Franklin, Albert Einstein, Steve Jobs, Jennifer Doudna and Elon Musk.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Walter_Isaacson)
+
+- **Born**: 1952 , New Orleans, LA
+- **Spouse**: Cathy Isaacson (m. 1984)
+- **Education**: Harvard University, Isidore Newman School, University of Oxford, and more
+- **Children**: 1
+- **Parents**: Betty Lee Isaacson and Irwin Isaacson
+- **Awards**: Benjamin Franklin Medal (2013), The Nichols-Chancellor's Medal (2015), and National Humanities Medal (2023)
+
+
+
+![Walter Isaacson](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXNp-3BhGaAHiZSzu6Jws54FkS2rgYhcAGnAgAHg&s=0)
+
+Former president of the Aspen Institute
+
+> Walter Seff Isaacson is an American historian and journalist best known for having written biographies of important public figures, including Henry Kissinger, Benjamin Franklin, Albert Einstein, Steve Jobs, Jennifer Doudna and Elon Musk.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Walter_Isaacson)
+
+- **Born**: 1952 , New Orleans, LA
+- **Spouse**: Cathy Isaacson (m. 1984)
+- **Education**: Harvard University, Isidore Newman School, University of Oxford, and more
+- **Children**: 1
+- **Parents**: Betty Lee Isaacson and Irwin Isaacson
+- **Awards**: Benjamin Franklin Medal (2013), The Nichols-Chancellor's Medal (2015), and National Humanities Medal (2023)
+
+
 ## The Main Arguments
 
 - **The Impact of Difficult Childhoods**: Isaacson discusses how challenging childhood experiences can shape the ambitions of successful individuals, particularly using Elon Musk as an example. This argument underscores the complex relationship between personal trauma and achievement, suggesting that while such experiences are not prerequisites for success, they can serve as powerful motivators.

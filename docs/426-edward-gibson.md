@@ -1,5 +1,16 @@
 #  426 Edward Gibson
 
+
+![Edward Gibson](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXv3pH39Z8GW3SkPtAS_I0_EDsFK8L-4QEXQR1MbwLzqxxYmV5kDvcmw&s=0)
+
+Mel Gibson's son
+
+- **Born**: 1982 , Australia
+- **Siblings**: Christian Gibson, Louis Gibson, William Gibson, and more
+- **Parents**: Mel Gibson and Robyn Moore Gibson
+- **Uncle**: Donal Gibson
+
+
 ## The Main Arguments
 
 - **Human Language as a Structured System**: Edward Gibson argues that human language operates like a mathematical puzzle, emphasizing its structured nature. This perspective is significant as it allows for logical analysis and deeper insights into linguistic phenomena, which is crucial for cognitive science and linguistics.

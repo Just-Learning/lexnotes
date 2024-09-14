@@ -1,5 +1,41 @@
 # 435 Andrew Huberman
 
+
+![Andrew Huberman](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDG8xW_Fb01ndjEDohbPnQT9lJIgd8NhIq8gojk3I&s=0)
+
+American neuroscientist
+
+> Andrew David Huberman is an American neuroscientist and podcaster. He is an associate professor of neurobiology and ophthalmology at the Stanford University School of Medicine. Since 2021, he has hosted the popular health and science focused...
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Andrew_Huberman)
+
+- **Born**: 1975 , Palo Alto, CA
+- **Books**: Protocols: An Operating Manual for the Human Body
+- **Height**: 6′ 1″
+- **Parents**: Bernardo Huberman
+- **Affiliation**: Stanford University
+- **Research interests**: Neuroscience and Ophthalmology
+- **Academic advisors**: Ben Barres (Stanford); Barbara Chapman (UCD)
+
+
+
+![Andrew Huberman](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDG8xW_Fb01ndjEDohbPnQT9lJIgd8NhIq8gojk3I&s=0)
+
+American neuroscientist
+
+> Andrew David Huberman is an American neuroscientist and podcaster. He is an associate professor of neurobiology and ophthalmology at the Stanford University School of Medicine. Since 2021, he has hosted the popular health and science focused...
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Andrew_Huberman)
+
+- **Born**: 1975 , Palo Alto, CA
+- **Books**: Protocols: An Operating Manual for the Human Body
+- **Height**: 6′ 1″
+- **Parents**: Bernardo Huberman
+- **Affiliation**: Stanford University
+- **Research interests**: Neuroscience and Ophthalmology
+- **Academic advisors**: Ben Barres (Stanford); Barbara Chapman (UCD)
+
+
 ## The Main Arguments
 
 - **Mentorship and Legacy**: Huberman emphasizes the importance of mentorship in both science and podcasting. He argues that true success is measured not just by personal achievements but by the ability to nurture and guide the next generation. This perspective highlights the long-term impact of mentorship on future innovators and the scientific community.

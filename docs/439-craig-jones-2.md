@@ -1,5 +1,19 @@
 # 439 Craig Jones 2
 
+
+![Craig Jones](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQnTROkk2K0S9pz0Y8TwZypVkEHx_E97HqJJRV-Wg&s=0)
+
+Australian competitor
+
+> Craig Benjamin Jones is an Australian grappler and Brazilian jiu-jitsu black belt competitor and coach. An IBJJF World No-Gi Brazilian jiu-jitsu champion as a white belt, Jones is a two-time ADCC Submission Wrestling World Championship silver...
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Craig_Jones_(grappler))
+
+- **Born**: 1991 , Adelaide, Australia
+- **Weight**: 213 lbs
+- **Height**: 6′ 0″
+
+
 ## The Main Arguments
 
 - **Risk vs. Adventure**: Craig Jones distinguishes between risk and adventure, framing his travels to conflict zones, such as Ukraine, as opportunities for personal growth rather than mere recklessness. This perspective emphasizes the value of seeking enriching experiences, even in dangerous settings.

@@ -1,5 +1,21 @@
 # 417 Kimbal Musk
 
+
+![Kimbal Musk](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrqZKlN2R4GJpyAjOjBgcnEGh5ZzvWWxfORmIVYQ&s=0)
+
+South African restaurateur and chef
+
+> Kimbal James Musk is a South African restaurateur, chef, and entrepreneur. He owns The Kitchen Restaurant Group, a collection of restaurants located in Colorado and Chicago.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Kimbal_Musk)
+
+- **Born**: 1972 , Pretoria, South Africa
+- **Spouse**: Christiana Wyly (m. 2018)
+- **Siblings**: Tosca Musk and Elon Musk
+- **Education**: Queen's University (1995) and French Culinary Institute
+- **Parents**: Maye Musk and Errol Musk
+
+
 ## The main arguments
 
 - **Value of Human Life**: Kimbal Musk reflects on his upbringing in apartheid South Africa, contrasting the devaluation of human life he witnessed there with the American perspective that values individual lives more highly. This argument emphasizes how cultural contexts shape personal experiences and relationships, highlighting the psychological impact of societal norms.

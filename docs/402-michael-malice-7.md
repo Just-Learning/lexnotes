@@ -1,5 +1,17 @@
 # 402 Michael Malice
 
+
+![Michael Malice](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm_GZS11mkiMOvcjkO6bRyKPYwyBBiVWPfd8w2Mog&s=0)
+
+American author
+
+> Michael Krechmer, better known as Michael Malice, is a Ukrainian-American anarcho-capitalist, author, and podcaster. He is the host of "YOUR WELCOME" with Michael Malice, a video podcast which airs on Podcast One. He has also been a ghostwriter...
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Michael_Malice)
+
+- **Born**: 1976 , Lviv, Ukraine
+
+
 ## The main arguments
 
 - **Humor as a Coping Mechanism**: Michael Malice discusses the role of humor in helping individuals navigate adversity, particularly in oppressive environments. He argues that humor fosters resilience and connection among those suffering, serving as a form of resistance against oppression. This perspective is significant as it highlights the psychological benefits of laughter in dire circumstances.

@@ -1,5 +1,22 @@
 # 388 Robert F. Kennedy Jr.
 
+
+![Robert F. Kennedy Jr.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKn8L0d4LvJQN1DVARXgGkqs4OuO1OCvhrV9_t9d3aPOyeiufOUe9AMQ&s=0)
+
+American Politician
+
+> Robert Francis Kennedy Jr., also known by his initials RFK Jr., is an American politician, environmental lawyer, anti-vaccine activist, and conspiracy theorist. He is the chairman and founder of Children's Health Defense, an anti-vaccine advocacy...
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Robert_F._Kennedy_Jr.)
+
+- **Born**: January 17, 1954 , Washington, D.C.
+- **Spouse**: Cheryl Hines (m. 2014), Mary Richardson Kennedy (m. 1994–2012), and Emily Ruth Black (m. 1982–1994)
+- **Children**: Kathleen Alexandra Kennedy, Conor Kennedy, Bobby Kennedy III, and more
+- **Party**: We The People
+- **Parents**: Robert F. Kennedy and Ethel Kennedy
+- **Siblings**: Kerry Kennedy, Kathleen Kennedy Townsend, Rory Kennedy, and more
+
+
 ## The main arguments
 
 - **Historical Context of Democracy**: Kennedy argues that the U.S. has a unique responsibility as the first democracy to uphold democratic ideals globally. He emphasizes the need for the U.S. to serve as a model for governance, especially in a world where democratic values are increasingly under threat.

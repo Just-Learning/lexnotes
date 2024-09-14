@@ -1,5 +1,22 @@
 # 413 Bill Ackman
 
+
+![Bill Ackman](https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQhnSI30h68fLpDGiv3l4MSAkbHJOwegHgP4-6saA7VNIcyY88jT_8S9-V89X9ohtWstjOI&s=19)
+
+American hedge fund manager
+
+> William Albert Ackman is an American billionaire hedge fund manager who is the founder and chief executive officer of Pershing Square Capital Management, a hedge fund management company. His investment approach has made him an activist investor.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Bill_Ackman)
+
+- **Born**: 1966 , New York
+- **Net worth**: 9 billion USD (2024)
+- **Spouse**: Neri Oxman (m. 2019) and Karen Ann Herskovitz (m. 1994–2017)
+- **Education**: Harvard Business School (1992), Harvard College (1988), and Harvard University
+- **Children**: 4
+- **Parents**: Lawrence D. Ackman and Ronnie I. Ackman
+
+
 ## The Main Arguments
 
 - **Value vs. Price**: Ackman emphasizes the distinction between price (market value) and value (intrinsic worth), a principle rooted in Benjamin Graham's teachings. This understanding is crucial for investors to avoid speculative decisions and focus on long-term potential, especially during market volatility.

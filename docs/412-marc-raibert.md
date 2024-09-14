@@ -1,5 +1,21 @@
 # 412 Marc Raibert
 
+
+![Marc Raibert](https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTd68xXqhERj0FBjai34IrpPM0KF1pEWy9yTfW68EjthAE9gx7uRwh4as30qcLVklSkWXQ0&s=19)
+
+Chairperson of Boston Dynamics
+
+> Marc Raibert is the Executive Director of the Boston Dynamics AI Institute, a Hyundai Motor Group organization. Raibert was the founder, former CEO, and now Chairman of Boston Dynamics, a robotics company known for creating BigDog, Atlas, Spot,...
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Marc_Raibert)
+
+- **Born**: 1949
+- **Education**: Northeastern University (1968–1973) and Massachusetts Institute of Technology
+- **Books**: Legged Robots that Balance
+- **Doctoral advisor**: Berthold K.P. Horn and Whitman Richards
+- **Thesis**: Motor Control and Learning by the State Space Model
+
+
 ## The Main Arguments
 
 - **The Evolution of Robotics**: Raibert outlines the significant advancements in robotics over the past 40 years, transitioning from basic mechanical systems to sophisticated robots capable of dynamic movements. This evolution is essential for understanding the current landscape and future possibilities in robotics.

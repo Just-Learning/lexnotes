@@ -1,5 +1,23 @@
 # 389 Benjamin Netanyahu
 
+
+![Benjamin Netanyahu](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-TLcHbhgFknyPdnyKMSg0z3OXzhcH7781VOJk42vl7Cq_09BxsYsEIA&s=0)
+
+Prime Minister of Israel
+
+> Benjamin "Bibi" Netanyahu is an Israeli politician, serving as the prime minister of Israel since 2022, having previously held the office in 1996–1999 and 2009–2021. He is chair of the Likud party. Netanyahu is the longest-serving prime minister...
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Benjamin_Netanyahu)
+
+- **Born**: October 21, 1949 , Tel Aviv-Yafo, Israel
+- **Previous offices**: Leader of the Opposition in Israel (2021–2022), Minister of Defence of Israel (2018–2019), Foreign Affairs Minister of Israel (2015–2019), and more
+- **Education**: MIT Sloan School of Management (1976), Massachusetts Institute of Technology (1972–1975), Cheltenham High School (1967), and more
+- **Spouse**: Sara Netanyahu (m. 1991), Fleur Cates (m. 1981–1989), and Miriam Haran (m. 1972–1979)
+- **Party**: Likud
+- **Children**: Yair Netanyahu, Avner Netanyahu, and Noa Netanyahu-Roth
+- **Height**: 6′ 0″
+
+
 ## The Main Arguments
 
 - **Hate and Its Origins**: Netanyahu asserts that the animosity towards him and Israel stems from ignorance and a misunderstanding of Israel's global contributions. He emphasizes that anti-Zionism equates to anti-Semitism, arguing that denying the Jewish people a state is akin to denying any nation its right to exist. This argument is significant as it frames the discourse around Israel's legitimacy and the historical context of Jewish claims to the land.

@@ -1,5 +1,22 @@
 # 390 Yuval Noah Harari
 
+
+![Yuval Noah Harari](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqW9jLOLb_BBaXlhdz2RXABEibLAMEbxNJk-xog&s=0)
+
+Israeli medieval historian
+
+> Yuval Noah Harari is an Israeli medievalist, military historian, public intellectual, and writer. He currently serves as professor in the Department of History at the Hebrew University of Jerusalem.
+
+Website: http://www.ynharari.com/
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Yuval_Noah_Harari)
+
+- **Born**: 1976 , Kiryat Ata, Israel
+- **Spouse**: Itzik Yahav
+- **Education**: Jesus College (1998–2002), The Hebrew University of Jerusalem (1996–1998), The Hebrew University of Jerusalem (1993–1996), and more
+- **Doctoral advisor**: Steven Gunn
+
+
 ## The Main Arguments
 
 - **Intelligence vs. Consciousness**: Harari emphasizes that intelligence does not guarantee ethical behavior or happiness. This distinction is crucial as it challenges the assumption that higher intelligence leads to better decision-making, highlighting the importance of emotional and ethical intelligence in human interactions.

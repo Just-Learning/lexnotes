@@ -1,5 +1,10 @@
 # 440 Pieter Levels
 
+
+Link: https://twitter.com/levelsio
+
+
+
 ## The Main Arguments
 
 - **Startup Philosophy**: Pieter Levels promotes a self-sufficient, scrappy approach to entrepreneurship, advocating for rapid prototyping and quick launches. He argues that aspiring entrepreneurs can validate their ideas without relying on venture capital, which allows for greater agility and independence. This perspective challenges the traditional VC-backed startup model and highlights the potential of self-funded ventures.

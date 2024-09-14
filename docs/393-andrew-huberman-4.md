@@ -1,5 +1,23 @@
 #  393 Andrew Huberman 4
 
+
+![Andrew Huberman](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDG8xW_Fb01ndjEDohbPnQT9lJIgd8NhIq8gojk3I&s=0)
+
+American neuroscientist
+
+> Andrew David Huberman is an American neuroscientist and podcaster. He is an associate professor of neurobiology and ophthalmology at the Stanford University School of Medicine. Since 2021, he has hosted the popular health and science focused...
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Andrew_Huberman)
+
+- **Born**: 1975 , Palo Alto, CA
+- **Books**: Protocols: An Operating Manual for the Human Body
+- **Height**: 6′ 1″
+- **Parents**: Bernardo Huberman
+- **Affiliation**: Stanford University
+- **Research interests**: Neuroscience and Ophthalmology
+- **Academic advisors**: Ben Barres (Stanford); Barbara Chapman (UCD)
+
+
 ## The Main Arguments
 
 - **Trusting Intuition**: Huberman emphasizes the importance of trusting one's gut feelings over external opinions. He argues that as individuals age, they become better at recognizing and trusting these internal signals, leading to improved life choices. This highlights the significance of self-awareness and introspection in personal development.

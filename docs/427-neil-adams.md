@@ -1,5 +1,22 @@
 # 427 Neil Adams
 
+
+![Neil Adams](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpeNkV60lNNy5V9bZaykNd0gMlvxmmb0Ls7gvRoNRHbZmU4jxNTcw1ow&s=0)
+
+Olympic athlete
+
+> Adrian Neil Adams, MBE is an English judoka who won numerous Olympic and World Championship medals in judo representing Great Britain. He was appointed Member of the Order of the British Empire in the 1983 New Year Honours for services to judo.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Neil_Adams_(judoka))
+
+- **Born**: 1958 , Rugby, United Kingdom
+- **Spouse**: Niki Jenkins
+- **Siblings**: Chris Adams
+- **Height**: 5′ 10″
+- **Parents**: Jean Adams and Cyril Adams
+- **Olympic Games**: (1980, 1984)
+
+
 ## The main arguments
 
 - **The Importance of Nutrition in Sports**: Neil Adams shares his experience from the 1980 Olympics, where he felt physically prepared but suffered from poor dietary choices. This highlights the critical role nutrition plays in athletic performance, especially at elite levels, suggesting that even the most rigorous training can be undermined by inadequate fueling.

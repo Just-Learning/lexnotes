@@ -1,5 +1,23 @@
 # 399 Jared Kushner
 
+
+![Jared Kushner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS148ImIxME2JcANR6WuxNID-PGKs2KOxzJAGYQcaH9l0FytF-iWLEgkA&s=0)
+
+Former Senior Advisor to the President of the United States
+
+> Jared Corey Kushner is an American businessman, investor, and former government official. He is the son-in-law of former president Donald Trump through his marriage to Ivanka Trump, and served as a senior advisor to Trump from 2017 to 2021. He was...
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Jared_Kushner)
+
+- **Born**: 1981 , Livingston, NJ
+- **Spouse**: Ivanka Trump (m. 2009)
+- **Education**: NYU School of Law (2007), NYU Stern School of Business (2007), Harvard University (1999–2003), and more
+- **Height**: 6′ 3″
+- **Siblings**: Joshua Kushner, Dara Kushner, and Nicole Kushner
+- **Parents**: Charles Kushner and Seryl Kushner
+- **Organizations founded**: Affinity Partners and Observer Media
+
+
 ## The Main Arguments
 
 - **Hamas as a Terrorist Organization**: Kushner emphasizes that Hamas is a terrorist group that poses a threat to both Israeli and Palestinian lives. This framing is crucial as it justifies Israel's military actions and shapes public perception of the conflict.

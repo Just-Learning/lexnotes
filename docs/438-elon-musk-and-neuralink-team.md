@@ -1,5 +1,10 @@
 # 438 Elon Musk and-Neuralink Team
 
+
+Link: https://neuralink.com/
+
+
+
 ## The main arguments
 
 - **Assistive Technology and Independence**: Arbaugh discusses how Neuralink's technology offers unprecedented independence for individuals with severe disabilities. This independence allows users to interact with their environment in ways that traditional assistive technologies cannot, significantly enhancing their quality of life. The argument emphasizes the transformative potential of brain-computer interfaces (BCIs) in promoting autonomy.

@@ -1,5 +1,39 @@
 # 411 Omar Suleiman
 
+
+![Omar Suleiman](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSuHigOUAZ4l7bQ8kv8fwLnrnDQFMD6k44s6M_KKU&s=0)
+
+American civil rights activist
+
+> Omar Suleiman is an American Islamic scholar and civil rights activist. He is the founding president of the Yaqeen Institute for Islamic Research and an adjunct professor of Islamic studies and member of the Ethics Center Advisory Board at...
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Omar_Suleiman_(imam))
+
+- **Born**: 1986 , New Orleans, LA
+- **Education**: International Islamic University Malaysia
+- **Children**: 3
+- **Associated acts**: Muslim Speakers
+- **Channel**: Yaqeen Institute
+- **Total views**: 300~ million
+
+
+
+![Omar Suleiman](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSuHigOUAZ4l7bQ8kv8fwLnrnDQFMD6k44s6M_KKU&s=0)
+
+American civil rights activist
+
+> Omar Suleiman is an American Islamic scholar and civil rights activist. He is the founding president of the Yaqeen Institute for Islamic Research and an adjunct professor of Islamic studies and member of the Ethics Center Advisory Board at...
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Omar_Suleiman_(imam))
+
+- **Born**: 1986 , New Orleans, LA
+- **Education**: International Islamic University Malaysia
+- **Children**: 3
+- **Associated acts**: Muslim Speakers
+- **Channel**: Yaqeen Institute
+- **Total views**: 300~ million
+
+
 ## The Main Arguments
 
 - **Predictability of Violence**: Omar Suleiman argues that the violence following October 7th was foreseeable due to the long-standing oppression of Palestinians. He describes the situation as a "pressure cooker," where the lack of hope and ongoing injustices lead to inevitable explosions of violence. This argument underscores the cyclical nature of violence in the Israeli-Palestinian conflict and emphasizes the need for understanding the historical context.

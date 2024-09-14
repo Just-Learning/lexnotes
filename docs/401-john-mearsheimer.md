@@ -1,5 +1,24 @@
 # 401 John Mearsheimer
 
+
+![John Joseph Mearsheimer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYb2Y08GZFCJp4rGhPXhyAYSkouBr9JazkiyHHg&s=0)
+
+American political scientist
+
+> John Joseph Mearsheimer is an American political scientist and international relations scholar. He is the R. Wendell Harrison Distinguished Service Professor at the University of Chicago.
+
+Website: https://www.mearsheimer.com/
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/John_Mearsheimer)
+
+- **Born**: 1947 , Brooklyn, New York, NY
+- **Education**: University of Southern California, Cornell University, and United States Military Academy
+- **Spouse**: Pamela Mearsheimer
+- **Affiliation**: University of Chicago
+- **Research interests**: IR Theory
+- **Main interests**: International relations theory, international security, deterrence theory
+
+
 ## The main arguments
 
 - **Power as the Currency of International Relations**: Mearsheimer asserts that power is the primary currency in international politics, with states focused on maximizing their power to ensure survival. This argument is significant as it frames the competitive nature of state interactions in an anarchic system, where no higher authority exists to enforce order.

@@ -1,5 +1,21 @@
 # 432 Kevin Spacey
 
+
+![Kevin Spacey](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXpOsFWj3ITnOtt9gP3d618-sI-8c-_wDAEbbV-g&s=0)
+
+American actor
+
+> Kevin Spacey Fowler is an American actor. Known for his work on stage and screen, he has received numerous accolades, including two Academy Awards, a BAFTA Award, a Golden Globe Award, a Tony Award, and two Laurence Olivier Awards as well as...
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Kevin_Spacey)
+
+- **Born**: July 26, 1959 , South Orange, NJ
+- **Height**: 5′ 10″
+- **Parents**: Thomas Fowler and Kathleen Fowler
+- **Siblings**: Randall Fowler and Julie Ann Fowler
+- **Education**: Juilliard School
+
+
 ## The Main Arguments
 
 - **The Nature of Acting vs. Performance**: Spacey emphasizes the distinction between acting, which involves dramatizing a text, and performance, which is about engaging the audience. This distinction is significant as it highlights the different skills required for each aspect of the craft, suggesting that a successful actor must master both.

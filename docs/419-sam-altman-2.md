@@ -1,5 +1,25 @@
 # 419 Sam Altman 2
 
+
+![Sam Altman](https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSJa2d8O6HrqHGimOdd8184sV5fARCz1mEpXWOoAR5o2Z6rB-86CskIrjDYeUWa8L36s0_J&s=19)
+
+CEO of OpenAI
+
+> Samuel Harris Altman is an American entrepreneur and investor best known as the CEO of OpenAI since 2019. He is also the chairman of clean energy companies Oklo Inc. and Helion Energy. Altman is considered to be one of the leading figures of the...
+
+Website: https://blog.samaltman.com/
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Sam_Altman)
+
+- **Born**: 1985 , Chicago, IL
+- **Net worth**: 1 billion USD (2024)
+- **Spouse**: Oliver Louis Mulherin (m. 2024)
+- **Education**: Stanford University (2005) and John Burroughs School
+- **Parents**: Connie Gibstine
+- **Known for**: Loopt, Y Combinator, OpenAI
+- **Title**: CEO of OpenAI; Chairman of Oklo Inc. Chairman of Helion Energy
+
+
 ## The Main Arguments
 
 - **Power Struggles in AI Development**: Altman emphasizes that the journey toward Artificial General Intelligence (AGI) is marked by intense competition and power dynamics. This assertion highlights the challenges leaders face in navigating a rapidly evolving technological landscape, where governance structures must adapt to these power struggles.

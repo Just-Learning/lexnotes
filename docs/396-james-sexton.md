@@ -1,5 +1,19 @@
 # 396 James Sexton
 
+
+![James Sexton](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHwwWIe8sHVHPdszvrx6hV1iVSqgLwyBW2_DrJMnXKVL3im8xPNcLk2Q&s=0)
+
+Attorney
+
+> James Joseph Sexton is an American attorney focusing his practice exclusively in divorce and family law in the New York metropolitan area. Sexton is a frequent media commentator on divorce-related issues and the author of two books on preventing...
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/James_Sexton_(attorney))
+
+- **Born**: 1972 , New Bedford, MA
+- **Children**: 2
+- **Alma mater**: Ramapo College of NJ, B.S. (1994); New York University, M.A. (1997); Fordham University School of Law, J.D. (2001)
+
+
 ## The Main Arguments
 
 - **Disconnection as the Core Issue**: James Sexton argues that disconnection is the primary reason marriages fail. This disconnection develops gradually and often goes unnoticed, leading to significant issues like infidelity. Recognizing and addressing these small changes is crucial for maintaining a healthy relationship.

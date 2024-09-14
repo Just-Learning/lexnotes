@@ -1,5 +1,24 @@
 # 428 Sean Carroll 3
 
+
+![Sean M. Carroll](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUkzTOZoTi1uJGLNnH958uOLvRK84uFgdG9vG8PQ&s=0)
+
+American theoretical physicist and philosopher
+
+> Sean Michael Carroll is an American theoretical physicist and philosopher who specializes in quantum mechanics, cosmology, and the philosophy of science. He is the Homewood Professor of Natural Philosophy at Johns Hopkins University.
+
+Website: https://www.preposterousuniverse.com/
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Sean_M._Carroll)
+
+- **Born**: 1966 , Philadelphia, PA
+- **Spouse**: Jennifer Ouellette (m. 2007)
+- **Awards**: Andrew Gemant Award (2014) and Guggenheim Fellowship (2015)
+- **Research interests**: Foundations of physics, Quantum Mechanics, Spacetime, and more
+- **Doctoral advisor**: George B. Field
+- **Education**: Villanova University (BS); Harvard University (PhD)
+
+
 ## The Main Arguments
 
 - **General Relativity and Spacetime**: Carroll discusses how general relativity redefines gravity as the curvature of spacetime, moving away from the Newtonian concept of gravity as a force. This shift is significant as it fundamentally alters our understanding of the universe, influencing everything from planetary motion to black hole behavior.

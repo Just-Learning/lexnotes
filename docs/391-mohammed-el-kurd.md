@@ -1,5 +1,33 @@
 # 391 Mohammed El-Kurd
 
+
+![Mohammed el-Kurd](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFlQzgv5_2SisJFBLPOen5Ps2yoo9bKFy1vGdR6IBNn8PHlclguc4Vnw&s=0)
+
+Palestinian writer and poet
+
+> Mohammed el-Kurd is a Palestinian writer and poet, who has gained prominence for his description of Palestinians' lives under occupation in East Jerusalem, the rest of the West Bank; el-Kurd has referred ...
+
+Website: https://www.mohammedelkurd.com/
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Mohammed_el-Kurd)
+
+- **Born**: 1998 , Sheikh Jarrah, Jerusalem
+
+
+
+![Mohammed el-Kurd](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFlQzgv5_2SisJFBLPOen5Ps2yoo9bKFy1vGdR6IBNn8PHlclguc4Vnw&s=0)
+
+Palestinian writer and poet
+
+> Mohammed el-Kurd is a Palestinian writer and poet, who has gained prominence for his description of Palestinians' lives under occupation in East Jerusalem, the rest of the West Bank; el-Kurd has referred ...
+
+Website: https://www.mohammedelkurd.com/
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Mohammed_el-Kurd)
+
+- **Born**: 1998 , Sheikh Jarrah, Jerusalem
+
+
 ## The Main Arguments
 
 - **Colonialism and Fragmentation of Palestinian Identity**: El-Kurd argues that the Israeli state has systematically fragmented the Palestinian people through legal classifications (e.g., blue ID for residents and green ID for West Bank residents). This fragmentation weakens Palestinian identity and solidarity, making it easier for the state to impose control. The significance lies in understanding how legal frameworks can perpetuate colonialism.

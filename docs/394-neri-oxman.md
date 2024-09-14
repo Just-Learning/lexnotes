@@ -1,5 +1,25 @@
 # 394 Neri Oxman
 
+
+![Neri Oxman](https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSEpLgcwrRDtM2Zd0ZWRFCNngZba6Kc6iejKdYAuq-ocfpYq99uXeO-esbJLFBtzjPjOzuT&s=19)
+
+Israeli-American designer
+
+> Neri Oxman is an Israeli-American designer and former professor known for art that combines design, biology, computing, and materials engineering. She coined the phrase "material ecology" to define her work.
+
+Website: https://oxman.com/
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Neri_Oxman)
+
+- **Born**: 1976 , Haifa, Israel
+- **Spouse**: Bill Ackman (m. 2019) and Osvaldo Golijov (m. 2011–2015)
+- **Education**: Massachusetts Institute of Technology, Architectural Association, The Hebrew University of Jerusalem, and more
+- **Height**: 5′ 3″
+- **Children**: 1
+- **Parents**: Rivka Oxman and Robert Oxman
+- **Award**: National Design Awards (2018)
+
+
 ## The Main Arguments
 
 - **Anthropomass vs. Biomass**: Neri Oxman introduces the concept of anthropomass, which refers to the human-made materials that now outweigh natural biomass. This shift signifies a critical moment in human history, prompting a reevaluation of how we design and interact with nature. The significance lies in the need to create a balance between human-made and natural systems, emphasizing sustainability.

@@ -1,5 +1,23 @@
 # 414 Tucker Carlson
 
+
+![Tucker Carlson](https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSjlIWtJUVRzoATTC0BE6szxHlrkAorHlTgk2kPV-eOJwKE4GiU6SvI2sYG3Egl-i5a8SjZ&s=19)
+
+American commentator and writer
+
+> Tucker Swanson McNear Carlson is an American conservative political commentator and writer who hosted the nightly political talk show Tucker Carlson Tonight on Fox News from 2016 to 2023. Since his contract with Fox News was terminated, he has...
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Tucker_Carlson)
+
+- **Born**: May 16, 1969 , San Francisco, CA
+- **Spouse**: Susan Andrews (m. 1991)
+- **Children**: Buckley Carlson, Hopie Carlson, Lillie Carlson, and more
+- **Height**: 6′ 1″
+- **Parents**: Richard Warner Carlson and Lisa McNear
+- **Siblings**: Buckley Swanson Peck Carlson
+- **Education**: Trinity College, Connecticut (BA)
+
+
 ## The main arguments
 
 - **Freedom of Speech and Government Control**: Carlson argues that the U.S. government exerts control over journalists through threats and repercussions for asking certain questions. This raises concerns about the integrity of democracy and the media's role in society. He questions the U.S.'s claim of superiority over authoritarian regimes if it restricts free speech similarly, highlighting the tension between state power and individual rights.

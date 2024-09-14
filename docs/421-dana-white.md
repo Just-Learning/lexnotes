@@ -1,5 +1,22 @@
 # 421 Dana White
 
+
+![Dana White](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrysmeNyypdPyT9w5fLSkOuEE7DxxdD1qClPmL-g&s=0)
+
+CEO of Ultimate Fighting Championship
+
+> Dana Frederick White Jr. is an American businessman who is the CEO and president of the Ultimate Fighting Championship, a global mixed martial arts organization. He is also the owner of Power Slap, a slap fighting promotion. In August 2019,...
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Dana_White)
+
+- **Born**: July 28, 1969 , Manchester, CT
+- **Spouse**: Anne White (m. 1996)
+- **Children**: Dana White III, Savannah White, and Aidan White
+- **Height**: 5′ 11″
+- **Parents**: June White and Dana White Sr.
+- **Known for**: President and CEO of Ultimate Fighting Championship (UFC)
+
+
 ## The main arguments
 
 - **Evolution of Combat Sports**: Dana White argues that mixed martial arts (MMA) has evolved more in the last 30 years than in the previous 300 years. This rapid advancement in techniques and training methods signifies MMA's growing legitimacy as a sport, reflecting broader trends in athletic training and competition.

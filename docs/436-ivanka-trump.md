@@ -1,5 +1,22 @@
 # 436 with Ivanka Trump
 
+
+![Ivanka Trump](https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQgqcx6GSHij3veDvcVe4M52TTfVRkpO9IHZfG5y1cWEtZ7MMc--jfBCg9qZ1QCFcX2Eh3y&s=19)
+
+Former Advisor to the President of the United States ‧ Donald Trump's daughter
+
+> Ivana Marie "Ivanka" Trump is an American businesswoman. She is the second child of Donald Trump and his first wife, Ivana. Trump was a senior advisor in his administration, and also was the director of the Office of Economic Initiatives and...
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Ivanka_Trump)
+
+- **Born**: October 30, 1981 , Manhattan, New York, NY
+- **Spouse**: Jared Kushner (m. 2009)
+- **Grandparents**: Fred Trump, Mary Anne MacLeod Trump, Miloš Zelníček, and more
+- **Height**: 5′ 11″
+- **Education**: Wharton School (2004), Choate Rosemary Hall (2000), The Chapin School, and more
+- **Parents**: Donald Trump and Ivana Trump
+
+
 ## The Main Arguments
 
 - **Architecture as a Passion**: Ivanka Trump expresses her deep appreciation for architecture, viewing it as a blend of art and functionality. This passion is rooted in her family's real estate background, emphasizing the role of architecture in shaping cultural identity and urban spaces. The significance lies in her belief that architecture can embody human ambition and aspirations.

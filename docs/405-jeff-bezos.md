@@ -1,5 +1,23 @@
 # 405 Jeff Bezos
 
+
+![Jeff Bezos](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxFsGLOkNFB1vs2kvXM1_WNJZOwWHtdGaaLAnsHA&s=0)
+
+Executive chairman of Amazon
+
+> Jeffrey Preston Bezos is an American business magnate best known as the founder, executive chairman, and former president and CEO of Amazon, the world's largest e-commerce and cloud computing company.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Jeff_Bezos)
+
+- **Born**: January 12, 1964 , Albuquerque, NM
+- **Net worth**: 198 billion USD (2024)
+- **Spouse**: MacKenzie Scott (m. 1993–2019)
+- **Children**: Preston Bezos
+- **Education**: Princeton University (1982–1986), Miami Palmetto Senior High School (1982), and River Oaks Elementary School
+- **Height**: 5′ 7″
+- **Parents**: Ted Jorgensen, Miguel Bezos, and Jacklyn Bezos
+
+
 ## The main arguments
 
 - **Space Exploration as a Necessity**: Bezos argues that humanity's long-term survival depends on expanding into space. He envisions a future where a trillion humans could inhabit the solar system, framing space exploration as essential for the continuation of human civilization. This perspective emphasizes the urgency of investing in space technologies and infrastructure.

@@ -1,5 +1,22 @@
 # 403 Lisa Randall
 
+
+![Lisa Randall](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR90Ly0DfZtHFIYKEM9_ZBZdcYoYRczZ2dCjZWCTg&s=0)
+
+American theoretical physicist
+
+> Lisa Randall HonFInstP is an American theoretical physicist and Frank B. Baird, Jr. Professor of Science at Harvard University. Her research includes the fundamental forces of nature and dimensions of space.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Lisa_Randall)
+
+- **Born**: 1962 , Queens, New York, NY
+- **Education**: Harvard University (1983–1987) and Stuyvesant High School
+- **Siblings**: Dana Randall
+- **Awards**: Klopsteg Memorial Award (2006), Lilienfeld Prize (2007), Andrew Gemant Award (2012), and more
+- **Affiliation**: Harvard University
+- **Research interests**: Theoretical Physics
+
+
 ## The Main Arguments
 
 - **Understanding Dark Matter**: Lisa Randall emphasizes the significance of dark matter in the universe, noting that its existence is inferred through gravitational effects on visible matter. This argument underscores the limitations of human perception and the reliance on indirect evidence in scientific discovery. Randall argues that dark matter is essential for understanding galaxy formation and the structure of the universe.

@@ -1,5 +1,23 @@
 # 398 Mark Zuckerberg 3
 
+
+![Mark Zuckerberg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm7XPPLL3hbNiOtod5aiZqUp3E2VtGARvafhlclg&s=0)
+
+CEO of Facebook
+
+> Mark Elliot Zuckerberg is an American businessman. He co-founded the social media service Facebook and its parent company Meta Platforms, of which he is chairman, chief executive officer and controlling shareholder.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Mark_Zuckerberg)
+
+- **Born**: May 14, 1984 , White Plains, NY
+- **Net worth**: 174.9 billion USD (2024)
+- **Spouse**: Priscilla Chan (m. 2012)
+- **Education**: Harvard University (2002–2004), Phillips Exeter Academy (2000–2002), Ardsley High School (1998–2000), and more
+- **Height**: 5′ 7″
+- **Parents**: Edward Zuckerberg and Karen Kempner
+- **Siblings**: Randi Zuckerberg, Arielle Zuckerberg, and Donna Zuckerberg
+
+
 ## The Main Arguments
 
 - **The Future of Communication in the Metaverse**: Zuckerberg argues that the Metaverse will fundamentally change how people connect, offering immersive experiences that replicate real-life interactions. This shift is significant as it suggests a move away from traditional communication methods, potentially enhancing social bonds.

@@ -1,5 +1,23 @@
 # 400 Elon Musk 4
 
+
+![Elon Musk](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSghoXV0WQCfXdwmN7wELm9Vg_ddAqoBus9Jek2uw&s=0)
+
+CEO of Tesla Motors
+
+> Elon Reeve Musk FRS is a businessman and investor known for his key roles in the space company SpaceX and the automotive company Tesla, Inc.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Elon_Musk)
+
+- **Born**: June 28, 1971 , Pretoria, South Africa
+- **Children**: Vivian Jenna Wilson, Tau Techno Mechanicus Musk, Nevada Alexander Musk, and more
+- **Net worth**: 250.5 billion USD (2024)
+- **Spouse**: Talulah Riley (m. 2013–2016), Talulah Riley (m. 2010–2012), and Justine Musk (m. 2000–2008)
+- **Education**: Penn Arts & Sciences (1997), Wharton School (1997), Stanford University (1995–1995), and more
+- **Parents**: Errol Musk and Maye Musk
+- **Height**: 6′ 2″
+
+
 ## The Main Arguments
 
 - **War as an Inherent Aspect of Human Nature**: Musk argues that while war is a part of human nature, it is also influenced by societal structures. He suggests that education and understanding of human instincts can mitigate violence, reframing war as a complex issue rather than an inevitable outcome.
