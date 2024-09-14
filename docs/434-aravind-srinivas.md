@@ -10,16 +10,6 @@ CEO of Perplexity.ai
 - **Research interests**: Deep Learning, Reinforcement Learning, Contrastive Learning, and more
 
 
-
-![Aravind Srinivas](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfMNyRLm1paBpaJZxLvqN_K1OLgj1bGo07QDFtBSE&s=0)
-
-CEO of Perplexity.ai
-
-- **Education**: Indian Institute Of Technology–Madras (IIT–Madras) and Indian Institute Of Technology–Madras (IIT–Madras)
-- **Nationality**: Indian
-- **Research interests**: Deep Learning, Reinforcement Learning, Contrastive Learning, and more
-
-
 ## The Main Arguments
 
 - **Perplexity as a Knowledge Discovery Engine**: Aravind Srinivas describes Perplexity as a "knowledge discovery engine," which provides direct answers with citations instead of mere links. This approach enhances the reliability of information retrieval, marking a significant shift from traditional search engines that often prioritize ad revenue over user experience.

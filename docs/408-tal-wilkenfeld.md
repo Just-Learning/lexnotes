@@ -13,21 +13,6 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Tal_Wilkenfeld)
 - **Music group**: Incubus
 - **Instrument(s)**: Bass, vocals
 
-
-
-![Tal Wilkenfeld](https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQ2jCDYOKSDFBKiWIfvHHnrouPb6R6p_o6ThjkLf1bgRl3Cy1JaMWhq7R1TvMZo2Q95liNB&s=19)
-
-Australian bassist and singer
-
-> Tal Wilkenfeld is an Australian bassist, singer and songwriter. She has performed with artists including Chick Corea, Jeff Beck, Prince, Incubus, Eric Clapton, Herbie Hancock, and Mick Jagger. In 2008, Wilkenfeld was voted "The Year's Most...
-
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Tal_Wilkenfeld)
-
-- **Born**: 1986 , Bondi, Australia
-- **Music group**: Incubus
-- **Instrument(s)**: Bass, vocals
-
-
 ## The main arguments
 
 - **Vulnerability in Performance**: Tal Wilkenfeld emphasizes the necessity of embracing vulnerability in musical performances. She argues that fear can inhibit creativity, and true artistry flourishes when musicians are willing to take risks and express themselves authentically. This perspective challenges the conventional notion of perfectionism in music, suggesting that uncertainty can lead to more genuine performances.

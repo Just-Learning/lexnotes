@@ -16,22 +16,6 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Matthew_Cox)
 - **Other names**: Matthew B. Cox, Matt Cox
 
 
-
-![Matthew Cox](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHNUErDUs2U9ArKlkXAqrpzxZd3Xuo9ww4UrBqiuiesAMAcxegkpjc1w&s=0)
-
-American broker
-
-> Matthew Bevan "Matt" Cox is an American former mortgage broker and admitted mortgage fraudster. Cox, also a true crime author, wrote an unpublished manuscript entitled The Associates in which the main character traveled the country to perpetrate a...
-
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Matthew_Cox)
-
-- **Born**: 1969 , Florida
-- **Movies**: Fool Me - How much of an impostor are you?
-- **Conviction(s)**: April 10, 2007 (pleaded guilty)
-- **Criminal status**: Released from Federal Correctional Complex, RRM Orlando; Federal Bureau of Prisons register #40171-018; July 19, 2019
-- **Other names**: Matthew B. Cox, Matt Cox
-
-
 ## The Main Arguments
 
 - **Exploitation of Systemic Vulnerabilities**: Matthew Cox details how he took advantage of the weaknesses in the mortgage industry during the subprime lending crisis. By manipulating documents and creating synthetic identities, he was able to secure loans for individuals who would not typically qualify. This raises significant questions about the accountability of financial institutions and the regulatory frameworks that allowed such fraud to proliferate.

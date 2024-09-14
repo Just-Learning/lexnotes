@@ -4,12 +4,6 @@
 Irish filmmaker
 
 
-
-
-Irish filmmaker
-
-
-
 ## The Main Arguments
 
 - **Assembly Theory**: Lee Cronin introduces assembly theory, which quantifies the complexity of an object based on the number of steps required to create it. This theory is significant as it provides a new framework for understanding complexity in both biological and non-biological systems, suggesting that complexity arises not just from the number of parts but from how they are assembled.

@@ -16,22 +16,6 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Greg_Lukianoff)
 - **Notable work**: The Coddling of the American Mind (2018)
 
 
-
-![Greg Lukianoff](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyo9YV0qKUks2joLdMjayZgDYdzmAI-xOLnhPoqA&s=0)
-
-American lawyer
-
-> Gregory Christopher Lukianoff is an American lawyer, journalist, author and activist who serves as the president of the Foundation for Individual Rights and Expression. He previously served as FIRE's first director of legal and public advocacy...
-
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Greg_Lukianoff)
-
-- **Born**: 1974 , Manhattan, New York, NY
-- **Education**: American University and Stanford Law School
-- **Spouse**: Michelle LaBlanc ​(m. 2012)​
-- **Awards**: Hugh M. Hefner First Amendment Award (2019)
-- **Notable work**: The Coddling of the American Mind (2018)
-
-
 ## The Main Arguments
 
 - **Definition of Cancel Culture**: Lukianoff defines cancel culture as campaigns aimed at getting individuals fired or de-platformed for speech that would typically be protected under the First Amendment. This definition is significant as it highlights the growing climate of fear surrounding free speech, particularly in academic settings.
