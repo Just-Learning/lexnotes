@@ -1,31 +1,21 @@
-# Welcome to Lex Notes
+# Lex Notes
 
 Explore insightful summaries of the Lex Fridman Podcast, making complex topics accessible and engaging for everyone
 
 ---
 
+## The Dilemma
+
+- Length: episodes range from 1-8 hours
+- Quantity: over 400 episodes available
+- Time: even at 2x speed, episodes take hours
+
 ## The Idea
 
-I subscribed Lex's podcasts for a while, and found its very insightful, I'd like to consume more of his episodes, but most of them are 2-4 hours long, max 8 hours, very feel are less than 1 hour. there are 400+ episodes in total.
+- X-ray episode content before listening
+- Choose episodes based on your interests
 
-They are way to long
-
-- The transcript of a 3 hour long episode is full of 120 pages of A4 with 12 pt font size
-- 2x speed still takes a solid hour for each episode
-
-Which episode to listen?
-- I am not sure which episode I am insterested from the key notes
-- I'd like to XRay the content before consuming
-- There are some summery websites but none of them offers the feature I need
-- So I decided to build one
-
-Bonus
-- learn LLM to solve a pain point for my own life
-- Browse my XRay result rather than swipe TicTok
-
-
-
-##  My Recipe
+## The Recipe
 
 Ingredients
 
@@ -43,6 +33,7 @@ Ingredients
 
 - OpenAI GPT-4o and GPT-4o-mini (LLM)
 - LangChain RefineDocumentsChain (Framework)
+- OpenHermes-2.5-Mistral-7B on Mac (Experiment)
 
 #### Measuring
 
