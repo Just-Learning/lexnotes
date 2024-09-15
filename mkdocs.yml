@@ -5,5 +5,4 @@ theme: readthedocs
 plugins:
   - search
   - awesome-pages
-  - social
-    cards: false
+  
