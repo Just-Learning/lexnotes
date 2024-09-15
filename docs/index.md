@@ -17,7 +17,7 @@ Explore insightful summaries of the Lex Fridman Podcast, making complex topics a
 
 ## The Recipe
 
-Ingredients
+#### Ingredients
 
 - [Official Website](https://lexfridman.com/podcast)
 - [YouTube Channel](https://www.youtube.com/@lexfridman)
