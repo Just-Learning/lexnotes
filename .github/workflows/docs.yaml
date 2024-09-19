@@ -25,7 +25,7 @@ jobs:
           python-version: '3.x'
 
       - name: Install MkDocs
-        run: pip install mkdocs mkdocs-awesome-pages-plugin
+        run: pip install mkdocs mkdocs-awesome-pages-plugin mkdocs-ultralytics-plugin
 
       - name: Deploy to GitHub Pages
         env:

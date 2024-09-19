@@ -1,8 +1,18 @@
 site_name: Lex Notes
-site_url: https://just-learning.github.io/lexnotes/
+site_url: https://lexnotes.justlearning.club/
 site_description: Explore insightful summaries of the Lex Fridman Podcast, making complex topics accessible and engaging for everyone
 theme: readthedocs
 plugins:
   - search
   - awesome-pages
-  
+  - ultralytics:
+    verbose: True
+    enabled: True
+    default_image: "https://lexnotes.justlearning.club/memo.png"
+    add_desc: True
+    add_image: True
+    add_keywords: True
+    add_share_buttons: True
+    add_authors: False
+    add_json_ld: True
+    add_css: True
