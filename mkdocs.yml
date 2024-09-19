@@ -6,13 +6,13 @@ plugins:
   - search
   - awesome-pages
   - ultralytics:
-    verbose: True
-    enabled: True
-    default_image: "https://lexnotes.justlearning.club/memo.png"
-    add_desc: True
-    add_image: True
-    add_keywords: True
-    add_share_buttons: True
-    add_authors: False
-    add_json_ld: True
-    add_css: True
+      verbose: True
+      enabled: True
+      default_image: "https://lexnotes.justlearning.club/memo.png"
+      add_desc: True
+      add_image: True
+      add_keywords: True
+      add_share_buttons: True
+      add_authors: False
+      add_json_ld: True
+      add_css: True
