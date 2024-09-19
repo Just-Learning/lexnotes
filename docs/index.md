@@ -1,4 +1,4 @@
-# Lex Notes 📝
+# Lex Notes
 
 Discover concise and engaging summaries of the Lex Fridman Podcast. We simplify complex discussions on AI, science, philosophy, and technology into 1-minute reads, perfect for busy learners looking for insights without the time commitment. Stay informed, fast.
 
@@ -7,28 +7,38 @@ Discover concise and engaging summaries of the Lex Fridman Podcast. We simplify 
 
 ## The Dilemma
 
-**Podcast Length** ⌛
+⌛ **Podcast Length** 
 
 Episodes range from 1-8 hours, making them hard to fit into a busy schedule.
 
-**Overwhelming Quantity** 📦
+<br />
+
+📦 **Overwhelming Quantity** 
 
 With over 400 episodes available, it’s difficult to know where to start.
 
-**Time Constraints** 🕒
+<br />
+
+
+🕒 **Time Constraints** 
 
 Even at 2x playback speed, episodes still take hours to finish.
 
+<br />
+
 ## The Idea
 
-**Get a Quick Episode Overview** 🔍
+🔍 **Get a Quick Episode Overview** 
 
 Instantly scan key insights from each Lex Fridman podcast episode before committing to a full listen.
 
-**Easily Shortlist Episodes** 📚
+<br />
+
+📚 **Easily Shortlist Episodes** 
 
 Quickly browse and select episodes that match your interests in AI, science, philosophy, and technology.
 
+<br />
  
 ## The Recipe
 

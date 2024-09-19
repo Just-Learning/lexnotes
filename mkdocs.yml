@@ -8,7 +8,6 @@ plugins:
   - ultralytics:
       verbose: True
       enabled: True
-      default_image: "https://lexnotes.justlearning.club/memo.png"
       add_desc: True
       add_image: True
       add_keywords: True
