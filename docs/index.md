@@ -34,13 +34,13 @@ Quickly browse and select episodes that match your interests in AI, science, phi
 
 ## Quick Stats
 
-Most popular episodes
+Most popular episodes 🔥🔥🔥
 
-- [#310 Andrew Bustamante](https://www.youtube.com/watch?v=T3FC7qIAGZk) 18306K views: CIA Spy
-- [#414 Tucker Carlson](https://www.youtube.com/watch?v=f_lRdkH_QoY) 15973K views: Putin, Navalny, Trump, CIA, NSA, War, Politics & Freedom
-- [#313 Jordan Peterson](https://www.youtube.com/watch?v=sY8aFSY2zv4) 15395K views: Life, Death, Power, Fame, and Meaning
-- [#369 Paul Rosolie](https://www.youtube.com/watch?v=gPfriiHBBek) 11936K views: Amazon Jungle, Uncontacted Tribes, Anacondas, and Ayahuasca
-- [#400 Elon Musk](https://www.youtube.com/watch?v=JN3KPFbWCy8) 11879K views: War, AI, Aliens, Politics, Physics, Video Games, and Humanity
+- [#310 Andrew Bustamante](https://www.youtube.com/watch?v=T3FC7qIAGZk) 18M views: CIA Spy
+- [#414 Tucker Carlson](https://www.youtube.com/watch?v=f_lRdkH_QoY) 16M views: Putin, Navalny, Trump, CIA, NSA, War, Politics & Freedom
+- [#313 Jordan Peterson](https://www.youtube.com/watch?v=sY8aFSY2zv4) 15M views: Life, Death, Power, Fame, and Meaning
+- [#369 Paul Rosolie](https://www.youtube.com/watch?v=gPfriiHBBek) 12M views: Amazon Jungle, Uncontacted Tribes, Anacondas, and Ayahuasca
+- [#400 Elon Musk](https://www.youtube.com/watch?v=JN3KPFbWCy8) 12M views: War, AI, Aliens, Politics, Physics, Video Games, and Humanity
 
 
 2024
@@ -62,6 +62,7 @@ Most popular episodes
 
 
 2022
+
 - [#310 Andrew Bustamante](https://www.youtube.com/watch?v=T3FC7qIAGZk) 18M views: CIA Spy 🔥
 - [#313 Jordan Peterson](https://www.youtube.com/watch?v=sY8aFSY2zv4) 15M views: Life, Death, Power, Fame, and Meaning 🔥
 - [#300 Joe Rogan](https://www.youtube.com/watch?v=gk4tEO4jDUM) 11M views: Comedy, Controversy, Aliens, UFOs, Putin, CIA, and Freedom
@@ -94,8 +95,6 @@ Most popular episodes
 - [#47 Sean Carroll](https://www.youtube.com/watch?v=iNqqOLscOBY) 1M views: Quantum Mechanics and the Many-Worlds Interpretation
 - [#48 Bjarne Stroustrup](https://www.youtube.com/watch?v=uTxRF5ag27A) 1M views: C++
 
-
-
 2018
 
 - [#1 Max Tegmark](https://www.youtube.com/watch?v=Gi8LUnhP5yU) 319K views: Life 3.0
@@ -106,20 +105,20 @@ Most popular episodes
 
 Longest episodes ⏳
 
-- [#438 Elon Musk and Neuralink Team](https://www.youtube.com/watch?v=Kbk9BiPhm7o) 8.6hr Neuralink and the Future of Humanity
-- [#331 Balaji Srinivasan](https://www.youtube.com/watch?v=VeH7qKZr0WI) 7.8hr How to Fix Government, Twitter, Science, and the FDA
-- [#409 Matthew Cox](https://www.youtube.com/watch?v=zMYvGf7BA9o) 6.0hr FBI Most Wanted Con Man - $55 Million in Bank Fraud
-- [#356 Tim Dodd](https://www.youtube.com/watch?v=5eK5A_43pkE) 5.3hr SpaceX, Starship, Rocket Engines, and Future of Space Travel
-- [#309 John Carmack](https://www.youtube.com/watch?v=I845O57ZSy4) 5.2hr Doom, Quake, VR, AGI, Programming, Video Games, and Rockets
+- [#438 Elon Musk and Neuralink Team](https://www.youtube.com/watch?v=Kbk9BiPhm7o) 8.6hr: Neuralink and the Future of Humanity
+- [#331 Balaji Srinivasan](https://www.youtube.com/watch?v=VeH7qKZr0WI) 7.8hr: How to Fix Government, Twitter, Science, and the FDA
+- [#409 Matthew Cox](https://www.youtube.com/watch?v=zMYvGf7BA9o) 6.0hr: FBI Most Wanted Con Man - $55 Million in Bank Fraud
+- [#356 Tim Dodd](https://www.youtube.com/watch?v=5eK5A_43pkE) 5.3hr: SpaceX, Starship, Rocket Engines, and Future of Space Travel
+- [#309 John Carmack](https://www.youtube.com/watch?v=I845O57ZSy4) 5.2hr: Doom, Quake, VR, AGI, Programming, Video Games, and Rockets
 
 
 Shortest episodes
 
-- [#18 Elon Musk](https://www.youtube.com/watch?v=dEv99vxKjVI) 0.5hr Tesla Autopilot
-- [#8 Eric Schmidt](https://www.youtube.com/watch?v=hIC9FQpxVwQ) 0.6hr Google
-- [#26 Sean Carroll](https://www.youtube.com/watch?v=l-NJrvyRo0c) 0.6hr The Nature of the Universe, Life, and Intelligence
-- [#53 Noam Chomsky](https://www.youtube.com/watch?v=cMscNuSUy0I) 0.6hr Language, Cognition, and Deep Learning
-- [#49 Elon Musk](https://www.youtube.com/watch?v=smK9dgdTl40) 0.6hr Neuralink, AI, Autopilot, and the Pale Blue Dot
+- [#18 Elon Musk](https://www.youtube.com/watch?v=dEv99vxKjVI) 0.5hr: Tesla Autopilot
+- [#8 Eric Schmidt](https://www.youtube.com/watch?v=hIC9FQpxVwQ) 0.6hr: Google
+- [#26 Sean Carroll](https://www.youtube.com/watch?v=l-NJrvyRo0c) 0.6hr: The Nature of the Universe, Life, and Intelligence
+- [#53 Noam Chomsky](https://www.youtube.com/watch?v=cMscNuSUy0I) 0.6hr: Language, Cognition, and Deep Learning
+- [#49 Elon Musk](https://www.youtube.com/watch?v=smK9dgdTl40) 0.6hr: Neuralink, AI, Autopilot, and the Pale Blue Dot
 
 
 
