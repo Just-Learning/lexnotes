@@ -36,45 +36,44 @@ Quickly browse and select episodes that match your interests in AI, science, phi
 
 Most popular episodes 🔥🔥🔥
 
-- [#310 Andrew Bustamante](https://www.youtube.com/watch?v=T3FC7qIAGZk) 18M views: CIA Spy
-- [#414 Tucker Carlson](https://www.youtube.com/watch?v=f_lRdkH_QoY) 16M views: Putin, Navalny, Trump, CIA, NSA, War, Politics & Freedom
-- [#313 Jordan Peterson](https://www.youtube.com/watch?v=sY8aFSY2zv4) 15M views: Life, Death, Power, Fame, and Meaning
-- [#369 Paul Rosolie](https://www.youtube.com/watch?v=gPfriiHBBek) 12M views: Amazon Jungle, Uncontacted Tribes, Anacondas, and Ayahuasca
-- [#400 Elon Musk](https://www.youtube.com/watch?v=JN3KPFbWCy8) 12M views: War, AI, Aliens, Politics, Physics, Video Games, and Humanity
+- [#310 Andrew Bustamante](https://lexnotes.justlearning.club/310-andrew-bustamante/) 18M views: CIA Spy
+- [#414 Tucker Carlson](https://lexnotes.justlearning.club/414-tucker-carlson/) 16M views: Putin, Navalny, Trump, CIA, NSA, War, Politics & Freedom
+- [#313 Jordan Peterson](https://lexnotes.justlearning.club/313-jordan-peterson/) 15M views: Life, Death, Power, Fame, and Meaning
+- [#369 Paul Rosolie](https://lexnotes.justlearning.club/369-paul-rosolie/) 12M views: Amazon Jungle, Uncontacted Tribes, Anacondas, and Ayahuasca
+- [#400 Elon Musk](https://lexnotes.justlearning.club/400-elon-musk-4/) 12M views: War, AI, Aliens, Politics, Physics, Video Games, and Humanity
 
 
 2024
 
-- [#414 Tucker Carlson](https://www.youtube.com/watch?v=f_lRdkH_QoY) 16M views: Putin, Navalny, Trump, CIA, NSA, War, Politics & Freedom 🔥
-- [#410 Ben Shapiro vs Destiny Debate](https://www.youtube.com/watch?v=tYrdMjVXyNg) 11M views: Politics, Jan 6, Israel, Ukraine & Wokeism
-- [#438 Elon Musk and Neuralink Team](https://www.youtube.com/watch?v=Kbk9BiPhm7o) 3M views: Neuralink and the Future of Humanity
-- [#418 Israel-Palestine Debate](https://www.youtube.com/watch?v=1X_KdkoGxSs) 3M views: Finkelstein, Destiny, M. Rabbani & Benny Morris
-- [#428 Sean Carroll](https://www.youtube.com/watch?v=tdv7r2JSokI) 3M views: General Relativity, Quantum Mechanics, Black Holes & Aliens
-
+- [#414 Tucker Carlson](https://lexnotes.justlearning.club/414-tucker-carlson/) 16M views: Putin, Navalny, Trump, CIA, NSA, War, Politics & Freedom 🔥
+- [#410 Ben Shapiro vs Destiny Debate](https://lexnotes.justlearning.club/410-ben-shapiro-destiny/) 11M views: Politics, Jan 6, Israel, Ukraine & Wokeism
+- [#438 Elon Musk and Neuralink Team](https://lexnotes.justlearning.club/438-elon-musk-and-neuralink-team/) 3M views: Neuralink and the Future of Humanity
+- [#418 Israel-Palestine Debate](https://lexnotes.justlearning.club/418-israel-palestine-debate/) 3M views: Finkelstein, Destiny, M. Rabbani & Benny Morris
+- [#428 Sean Carroll](https://lexnotes.justlearning.club/428-sean-carroll-3/) 3M views: General Relativity, Quantum Mechanics, Black Holes & Aliens
 
 2023
 
-- [#369 Paul Rosolie](https://www.youtube.com/watch?v=gPfriiHBBek) 12M views: Amazon Jungle, Uncontacted Tribes, Anacondas, and Ayahuasca 🔥
-- [#400 Elon Musk](https://www.youtube.com/watch?v=JN3KPFbWCy8) 12M views: War, AI, Aliens, Politics, Physics, Video Games, and Humanity 🔥
-- [#355 David Kipping](https://www.youtube.com/watch?v=uZN5xjoS6TU) 11M views: Alien Civilizations and Habitable Worlds
-- [#401 John Mearsheimer](https://www.youtube.com/watch?v=r4wLXNydzeY) 7M views: Israel-Palestine, Russia-Ukraine, China, NATO, and WW3
-- [#367 Sam Altman](https://www.youtube.com/watch?v=L_Guz73e6fw) 7M views: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI
+- [#369 Paul Rosolie](https://lexnotes.justlearning.club/369-paul-rosolie/) 12M views: Amazon Jungle, Uncontacted Tribes, Anacondas, and Ayahuasca 🔥
+- [#400 Elon Musk](https://lexnotes.justlearning.club/400-elon-musk-4/) 12M views: War, AI, Aliens, Politics, Physics, Video Games, and Humanity 🔥
+- [#355 David Kipping](https://lexnotes.justlearning.club/355-david-kipping/) 11M views: Alien Civilizations and Habitable Worlds
+- [#401 John Mearsheimer](https://lexnotes.justlearning.club/401-john-mearsheimer/) 7M views: Israel-Palestine, Russia-Ukraine, China, NATO, and WW3
+- [#367 Sam Altman](https://lexnotes.justlearning.club/367-sam-altman/) 7M views: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI
 
 
 2022
 
-- [#310 Andrew Bustamante](https://www.youtube.com/watch?v=T3FC7qIAGZk) 18M views: CIA Spy 🔥
-- [#313 Jordan Peterson](https://www.youtube.com/watch?v=sY8aFSY2zv4) 15M views: Life, Death, Power, Fame, and Meaning 🔥
-- [#300 Joe Rogan](https://www.youtube.com/watch?v=gk4tEO4jDUM) 11M views: Comedy, Controversy, Aliens, UFOs, Putin, CIA, and Freedom
-- [#276 Michael Saylor](https://www.youtube.com/watch?v=mC43pZkpTec) 10M views: Bitcoin, Inflation, and the Future of Money
+- [#310 Andrew Bustamante](https://lexnotes.justlearning.club/310-andrew-bustamante/) 18M views: CIA Spy 🔥
+- [#313 Jordan Peterson](https://lexnotes.justlearning.club/313-jordan-peterson/) 15M views: Life, Death, Power, Fame, and Meaning 🔥
+- [#300 Joe Rogan](https://lexnotes.justlearning.club/300-joe-rogan-2/) 11M views: Comedy, Controversy, Aliens, UFOs, Putin, CIA, and Freedom
+- [#276 Michael Saylor](https://lexnotes.justlearning.club/276-michael-saylor/) 10M views: Bitcoin, Inflation, and the Future of Money
 - [#272 Brett Johnson](https://www.youtube.com/watch?v=cC1LFC0KFSw) 9M views: US Most Wanted Cybercriminal
 
 2021
 
-- [#252 Elon Musk](https://www.youtube.com/watch?v=DxREm3s1scA) 11M views: SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI
+- [#252 Elon Musk](https://lexnotes.justlearning.club/252-elon-musk-3/) 11M views: SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI
 - [#185 Sam Harris](https://www.youtube.com/watch?v=4dC_nRYIDZU) 7M views: Consciousness, Free Will, Psychedelics, AI, UFOs, and Meaning
 - [#188 Vitalik Buterin](https://www.youtube.com/watch?v=XW0QZmtbjvs) 5M views: Ethereum 2.0
-- [#234 Stephen Wolfram](https://www.youtube.com/watch?v=4-SGpEInX_c) 4M views: Complexity and the Fabric of Reality
+- [#234 Stephen Wolfram](https://lexnotes.justlearning.club/234-stephen-wolfram-3/) 4M views: Complexity and the Fabric of Reality
 - [#182 John Danaher](https://www.youtube.com/watch?v=ktuw6Ow4sd0) 4M views: The Path to Mastery in Jiu Jitsu, Grappling, Judo, and MMA
 
 
@@ -111,15 +110,13 @@ Longest episodes ⏳
 - [#356 Tim Dodd](https://www.youtube.com/watch?v=5eK5A_43pkE) 5.3hr: SpaceX, Starship, Rocket Engines, and Future of Space Travel
 - [#309 John Carmack](https://www.youtube.com/watch?v=I845O57ZSy4) 5.2hr: Doom, Quake, VR, AGI, Programming, Video Games, and Rockets
 
-
 Shortest episodes
 
-- [#18 Elon Musk](https://www.youtube.com/watch?v=dEv99vxKjVI) 0.5hr: Tesla Autopilot
-- [#8 Eric Schmidt](https://www.youtube.com/watch?v=hIC9FQpxVwQ) 0.6hr: Google
-- [#26 Sean Carroll](https://www.youtube.com/watch?v=l-NJrvyRo0c) 0.6hr: The Nature of the Universe, Life, and Intelligence
-- [#53 Noam Chomsky](https://www.youtube.com/watch?v=cMscNuSUy0I) 0.6hr: Language, Cognition, and Deep Learning
-- [#49 Elon Musk](https://www.youtube.com/watch?v=smK9dgdTl40) 0.6hr: Neuralink, AI, Autopilot, and the Pale Blue Dot
-
+- [#18 Elon Musk](https://www.youtube.com/watch?v=dEv99vxKjVI) 30min: Tesla Autopilot
+- [#8 Eric Schmidt](https://www.youtube.com/watch?v=hIC9FQpxVwQ) 30min: Google
+- [#26 Sean Carroll](https://www.youtube.com/watch?v=l-NJrvyRo0c) 30min: The Nature of the Universe, Life, and Intelligence
+- [#53 Noam Chomsky](https://www.youtube.com/watch?v=cMscNuSUy0I) 30min: Language, Cognition, and Deep Learning
+- [#49 Elon Musk](https://www.youtube.com/watch?v=smK9dgdTl40) 30min: Neuralink, AI, Autopilot, and the Pale Blue Dot
 
 
 ## The Recipe
