@@ -15,3 +15,6 @@ plugins:
       add_authors: False
       add_json_ld: True
       add_css: True
+markdown_extensions:
+  - toc:
+      permalink: true
