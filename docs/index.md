@@ -42,8 +42,77 @@ Most popular episodes 🔥🔥🔥
 - [#369 Paul Rosolie](https://lexnotes.justlearning.club/369-paul-rosolie/) 12M views: Amazon Jungle, Uncontacted Tribes, Anacondas, and Ayahuasca
 - [#400 Elon Musk](https://lexnotes.justlearning.club/400-elon-musk-4/) 12M views: War, AI, Aliens, Politics, Physics, Video Games, and Humanity
 
+CEOs
 
-2024
+- CEO of Perplexity.ai: Aravind Srinivas
+- CEO of Ultimate Fighting Championship: Dana Whit
+- CEO of OpenAI: Sam Altman
+- CEO of Tesla Motors: Elon Musk
+- CEO of Facebook: Mark Zuckerberg
+- CEO of Affectiva: Rana el Kaliouby
+- CEO of Coinbase: Brian Armstrong
+- CEO of DeepMind Technologies: Demis Hassabis
+- CEO of Qualcomm: Cristiano Amon
+- CEO of Pfizer: Albert Bourla
+- CEO of Waymo: Dmitri Dolgov
+- CEO of the Blackstone Group: Stephen A. Schwarzman
+- CEO of Square: Jack Dorsey
+- CEO of Wolfram Research: Stephen Wolfram
+- CEO of iRobot: Colin Angle
+- CEO of Aurora: Chris Urmson
+
+Programmers
+
+- The creator of C++: Bjarne Stroustrup
+- The creator of Python: Guido van Rossum
+- The creator of JavaScript: Brendan Eich
+- The creator of the Keras deep-learning library: Francois Chollet
+- The creator of LLVM, the Clang compiler, the Swift programming language and the MLIR compiler infrastructure: Chris Lattner
+- Contributed to the development of Unix alongside creators: Brian Kernighan
+- The co-founded Instagram: Kevin Systrom
+- The co-founder of Ethereum: Vitalik Buterin
+- Video game developer: John Carmack
+- The lead architect of the AMD K8 microarchitecture: Jim Keller
+
+Investors
+
+- The founder of Pershing Square Capital Management: Bill Ackman
+- The founder of Bridgewater: Ray Dalio
+- American investor and financial executive: Eric Weinstein
+- American entrepreneur and angel investor: Jason Calacanis
+- Life 3.0: Max Tegmark
+
+Physicists
+
+- Theoretical physicist and astrobiol: Sara Imari Walker
+- Theoretical physicist and philosopher: Sean M. Carroll
+- Theoretical physicist: Lisa Randall
+- Planetary scientist: Shannon Curry
+- Quantum gravity and string theory: Andrew Strominger
+- Astrophysicist: Martin Rees
+- String theory: Brian Greene
+- Gravitational waves, Nobel Laureate: Barry Barish
+- Theoretical physicist: Cumrun Vafa
+- Nobel laureate: Frank Wilczek
+- Astrophysics and cosmolog: Avi Loeb
+- Astrophysicist: Alex Filippenko
+- Physicist & public lecturer: Harry Cliff
+- Computer algebra and theoretical physics: Stephen Wolfram
+- Theoretical physicist: Lee Smolin
+- Supersymmetry, supergravity, and superstring theory: Sylvester James Gates
+- Science writer: Michio Kaku
+- String theory, quantum field theory: Leonard Susskind
+
+OpenAI Crew
+
+- CEO: Sam Altman
+- President: Greg Brockman
+- Multi-step reasoning, self-play, and multi-agent AI: Noam Brown
+- Deep learning and computer vision: Andrej Karpathy
+- The Codex research: Wojciech Zaremba
+- ex-OpenAI core member: Ilya Sutskever
+
+Top 5 episodes of 2024
 
 - [#414 Tucker Carlson](https://lexnotes.justlearning.club/414-tucker-carlson/) 16M views: Putin, Navalny, Trump, CIA, NSA, War, Politics & Freedom 🔥
 - [#410 Ben Shapiro vs Destiny Debate](https://lexnotes.justlearning.club/410-ben-shapiro-destiny/) 11M views: Politics, Jan 6, Israel, Ukraine & Wokeism
@@ -51,7 +120,7 @@ Most popular episodes 🔥🔥🔥
 - [#418 Israel-Palestine Debate](https://lexnotes.justlearning.club/418-israel-palestine-debate/) 3M views: Finkelstein, Destiny, M. Rabbani & Benny Morris
 - [#428 Sean Carroll](https://lexnotes.justlearning.club/428-sean-carroll-3/) 3M views: General Relativity, Quantum Mechanics, Black Holes & Aliens
 
-2023
+Top 5 episodes of 2023
 
 - [#369 Paul Rosolie](https://lexnotes.justlearning.club/369-paul-rosolie/) 12M views: Amazon Jungle, Uncontacted Tribes, Anacondas, and Ayahuasca 🔥
 - [#400 Elon Musk](https://lexnotes.justlearning.club/400-elon-musk-4/) 12M views: War, AI, Aliens, Politics, Physics, Video Games, and Humanity 🔥
@@ -59,8 +128,7 @@ Most popular episodes 🔥🔥🔥
 - [#401 John Mearsheimer](https://lexnotes.justlearning.club/401-john-mearsheimer/) 7M views: Israel-Palestine, Russia-Ukraine, China, NATO, and WW3
 - [#367 Sam Altman](https://lexnotes.justlearning.club/367-sam-altman/) 7M views: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI
 
-
-2022
+Top 5 episodes of 2022
 
 - [#310 Andrew Bustamante](https://lexnotes.justlearning.club/310-andrew-bustamante/) 18M views: CIA Spy 🔥
 - [#313 Jordan Peterson](https://lexnotes.justlearning.club/313-jordan-peterson/) 15M views: Life, Death, Power, Fame, and Meaning 🔥
@@ -68,7 +136,7 @@ Most popular episodes 🔥🔥🔥
 - [#276 Michael Saylor](https://lexnotes.justlearning.club/276-michael-saylor/) 10M views: Bitcoin, Inflation, and the Future of Money
 - [#272 Brett Johnson](https://www.youtube.com/watch?v=cC1LFC0KFSw) 9M views: US Most Wanted Cybercriminal
 
-2021
+Top 5 episodes of 2021
 
 - [#252 Elon Musk](https://lexnotes.justlearning.club/252-elon-musk-3/) 11M views: SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI
 - [#185 Sam Harris](https://www.youtube.com/watch?v=4dC_nRYIDZU) 7M views: Consciousness, Free Will, Psychedelics, AI, UFOs, and Meaning
@@ -76,8 +144,7 @@ Most popular episodes 🔥🔥🔥
 - [#234 Stephen Wolfram](https://lexnotes.justlearning.club/234-stephen-wolfram-3/) 4M views: Complexity and the Fabric of Reality
 - [#182 John Danaher](https://www.youtube.com/watch?v=ktuw6Ow4sd0) 4M views: The Path to Mastery in Jiu Jitsu, Grappling, Judo, and MMA
 
-
-2020
+Top 5 episodes of 2020
 
 - [#85 Roger Penrose](https://www.youtube.com/watch?v=orMtwOz6Db0) 2M views: Physics of Consciousness and the Infinite Universe
 - [#80 Vitalik Buterin](https://www.youtube.com/watch?v=3x1b_S6Qp2Q) 2M views: Ethereum, Cryptocurrency, and the Future of Money
@@ -85,8 +152,7 @@ Most popular episodes 🔥🔥🔥
 - [#88 Eric Weinstein](https://www.youtube.com/watch?v=rIAZJNe7YtE) 1M views: Geometric Unity and the Call for New Ideas & Institutions
 - [#83 Nick Bostrom](https://www.youtube.com/watch?v=rfKiTGj-zeQ) 1M views: Simulation and Superintelligence
 
-
-2019
+Top 5 episodes of 2019
 
 - [#45 Michio Kaku](https://www.youtube.com/watch?v=kD5yc1LQrpQ) 5M views: Future of Humans, Aliens, Space Travel & Physics
 - [#49 Elon Musk](https://www.youtube.com/watch?v=smK9dgdTl40) 2M views: Neuralink, AI, Autopilot, and the Pale Blue Dot
@@ -94,7 +160,7 @@ Most popular episodes 🔥🔥🔥
 - [#47 Sean Carroll](https://www.youtube.com/watch?v=iNqqOLscOBY) 1M views: Quantum Mechanics and the Many-Worlds Interpretation
 - [#48 Bjarne Stroustrup](https://www.youtube.com/watch?v=uTxRF5ag27A) 1M views: C++
 
-2018
+Top 5 episodes of 2018
 
 - [#1 Max Tegmark](https://www.youtube.com/watch?v=Gi8LUnhP5yU) 319K views: Life 3.0
 - [#6 Guido van Rossum](https://www.youtube.com/watch?v=ghwaIiE3Nd8) 295K views: Python
