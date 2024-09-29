@@ -1,7 +1,10 @@
 site_name: Lex Notes
 site_url: https://lexnotes.justlearning.club/
 site_description: Explore insightful summaries of the Lex Fridman Podcast, making complex topics accessible and engaging for everyone
-theme: readthedocs
+theme:
+  name: readthedocs
+  analytics:
+    gtag: G-CQMT8TT3ZK
 plugins:
   - search
   - awesome-pages
