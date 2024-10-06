@@ -1,4 +1,4 @@
-# Lex Fridman Podcast Episode with Stuart Russell
+# 9 Stuart Russell
 
 
 ![Stuart J. Russell](https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRVGuow-t1d_WGgTtF2DnWinpDPaXSXtfPjlt56Vio2Y5cyv0NEcqLV33l6WacMrlqv1gSz&s=19)
@@ -33,19 +33,19 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Stuart_J._Russell)
 
 ## Any Notable Quotes
 
-- "The real reason you think is because there's some possibility of changing your mind about what to do."  
+- "The real reason you think is because there's some possibility of changing your mind about what to do."
   - This quote highlights the essence of meta-reasoning and the role of uncertainty in decision-making.
 
-- "If you make something that's smarter than you, you might have a problem."  
+- "If you make something that's smarter than you, you might have a problem."
   - Russell succinctly addresses the potential risks of creating superintelligent AI, underscoring the need for caution.
 
-- "Data is the new snake oil."  
+- "Data is the new snake oil."
   - A critical perspective on the hype surrounding data-driven AI, suggesting that not all data is beneficial or reliable.
 
-- "We need to teach machines humility."  
+- "We need to teach machines humility."
   - This emphasizes the necessity for AI systems to acknowledge their limitations and the complexity of human values.
 
-- "Imagine if the leaders of the cancer biology community got up and said, 'Of course curing cancer is not really possible.'"  
+- "Imagine if the leaders of the cancer biology community got up and said, 'Of course curing cancer is not really possible.'"
   - Russell critiques the denial within the AI research community regarding the potential risks of AI, drawing a parallel to the medical field.
 
 ## Relevant Topics or Themes
