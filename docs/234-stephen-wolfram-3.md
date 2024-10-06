@@ -1,4 +1,4 @@
-# 234 Stephen Wolfram
+# 234 Stephen Wolfram 3
 
 
 ![Stephen Wolfram](https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQ8Qus9qRR-R9F39hj5POhiq5c785Dx3pH0dNbo3EvYomx12f77QB8LzoNbgFPWgQBAuJzL&s=19)

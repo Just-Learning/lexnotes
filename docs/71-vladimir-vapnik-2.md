@@ -1,4 +1,4 @@
-# 71 Vladimir Vapnik
+# 71 Vladimir Vapnik 2
 
 
 ![Vladimir Vapnik](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfaaM3ay01KsDGyn3xgwu4dQorbyDuk5RDk7grFw&s=0)

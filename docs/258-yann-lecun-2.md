@@ -1,4 +1,4 @@
-# 258 Yann LeCun
+# 258 Yann LeCun 2
 
 
 ![Yann LeCun](https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSatDRGeUTYiH0zT46jPHpHXJfyxi0_e15uULmVWfQvuYX4N7QKxdbMs8yOhMjjR9Hnpnur&s=19)

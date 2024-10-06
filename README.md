@@ -4,7 +4,7 @@
 
 ```bash
 # prerequisite
-pip install mkdocs
+pip install mkdocs mkdocs-awesome-pages-plugin mkdocs-ultralytics-plugin
 
 # run local
 mkdocs serve
