@@ -63,21 +63,21 @@ Quickly browse and select episodes that match your interests in AI, science, phi
 
 ### Programmers
 
-- The creator of C++: Bjarne Stroustrup
-- The creator of Python: Guido van Rossum, [2](./341-guido-van-rossum-2.md)
-- The creator of JavaScript: Brendan Eich
-- The creator of the Keras deep-learning library: Francois Chollet
-- The creator of LLVM, the Clang compiler, the Swift programming language and the MLIR compiler infrastructure: Chris Lattner
-- Contributed to the development of Unix alongside creators: Brian Kernighan
+- The creator of C++: [Bjarne Stroustrup](./48-bjarne-stroustrup.md)
+- The creator of Python: [Guido van Rossum](./6-guido-van-rossum.md), [2](./341-guido-van-rossum-2.md)
+- The creator of JavaScript: [Brendan Eich](./160-brendan-eich.md)
+- The creator of the Keras deep-learning library: [Francois Chollet](./38-francois-chollet.md), [2](./120-francois-chollet-2.md)
+- The creator of LLVM, the Clang compiler, the Swift programming language and the MLIR compiler infrastructure: [Chris Lattner](./21-chris-lattner.md)
+- Contributed to the development of Unix alongside creators: [Brian Kernighan](./109-brian-kernighan.md)
 - The co-founded Instagram: [Kevin Systrom](./243-kevin-systrom.md)
-- The co-founder of Ethereum: Vitalik Buterin
+- The co-founder of Ethereum: [Vitalik Buterin](./80-vitalik-buterin.md)
 - Video game developer: [John Carmack](./309-john-carmack.md)
-- The lead architect of the AMD K8 microarchitecture: Jim Keller
+- The lead architect of the AMD K8 microarchitecture: [Jim Keller](./70-jim-keller.md)
 
 ### Investors
 
 - The founder of Pershing Square Capital Management: [Bill Ackman](./413-bill-ackman.md)
-- The founder of Bridgewater: Ray Dalio, [2](./251-ray-dalio-2.md)
+- The founder of Bridgewater: [Ray Dalio](./54-ray-dalio.md), [2](./251-ray-dalio-2.md)
 - American investor and financial executive: [Eric Weinstein](./16-eric-weinstein.md), [2](./88-eric-weinstein-2.md), [3](./134-eric-weinstein-3.md), [4](./163-eric-weinstein-4.md)
 - American entrepreneur and angel investor: [Jason Calacanis](./161-jason-calacanis.md)
 - Life 3.0: [Max Tegmark](./1-max-tegmark.md), [2](./155-max-tegmark-2.md), [3](./371-max-tegmark-3.md)
