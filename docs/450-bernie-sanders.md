@@ -1,4 +1,4 @@
-# Lex Fridman Podcast #450: Bernie Sanders
+# 450 Bernie Sanders
 
 ![Bernie Sanders](https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQ0m7TBelwudlBgSq2a8l_MTl3CQqiAlKVIZFQg40JGvMnopLndPWGskiooUeuKtSvv0seS&s=19)
 
