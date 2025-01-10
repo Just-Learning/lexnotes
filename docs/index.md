@@ -153,7 +153,7 @@ Quickly browse and select episodes that match your interests in AI, science, phi
 
 ### Top 5 episodes of 2019
 
-- [#45 Michio Kaku](./45-michio-kaku.mdQ) 5M views: Future of Humans, Aliens, Space Travel & Physics
+- [#45 Michio Kaku](./45-michio-kaku.md) 5M views: Future of Humans, Aliens, Space Travel & Physics
 - [#49 Elon Musk](./49-elon-musk-2.md) 2M views: Neuralink, AI, Autopilot, and the Pale Blue Dot
 - [#18 Elon Musk](./18-elon-musk.md) 2M views: Tesla Autopilot
 - [#47 Sean Carroll](./47-sean-carroll-2.md) 1M views: Quantum Mechanics and the Many-Worlds Interpretation
