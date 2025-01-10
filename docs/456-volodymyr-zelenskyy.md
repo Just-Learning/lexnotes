@@ -1,4 +1,4 @@
-# 456 Volodymyr Zelenskyy: Ukraine, War, Peace, Putin, Trump, NATO, and Freedom | Lex Fridman Podcast #456
+# 456 Volodymyr Zelenskyy
 
 ![Volodymyr Zelenskyy](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVgNd0IlB9zMPoV2W4Zaz4xbORw5X5tFjMIDEvzi7-UxoEzLU_p4cwEQ&s=0)
 
